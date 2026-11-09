@@ -1,0 +1,109 @@
+{
+  "strategy_net": {
+    "label": "Sector momentum (net of costs)",
+    "months": 322,
+    "total_return_pct": 840.76,
+    "cagr_pct": 8.71,
+    "ann_vol_pct": 14.75,
+    "sharpe": 0.642,
+    "max_drawdown_pct": -39.17,
+    "hit_rate_pct": 61.2
+  },
+  "strategy_gross": {
+    "label": "Sector momentum (gross)",
+    "months": 322,
+    "total_return_pct": 984.35,
+    "cagr_pct": 9.29,
+    "ann_vol_pct": 14.75,
+    "sharpe": 0.678,
+    "max_drawdown_pct": -38.95,
+    "hit_rate_pct": 61.8
+  },
+  "equal_weight_sectors": {
+    "label": "Equal-weight 9 sectors",
+    "months": 322,
+    "total_return_pct": 898.29,
+    "cagr_pct": 8.95,
+    "ann_vol_pct": 14.7,
+    "sharpe": 0.659,
+    "max_drawdown_pct": -49.12,
+    "hit_rate_pct": 65.2
+  },
+  "spy": {
+    "label": "SPY buy & hold",
+    "months": 322,
+    "total_return_pct": 723.17,
+    "cagr_pct": 8.17,
+    "ann_vol_pct": 15.11,
+    "sharpe": 0.598,
+    "max_drawdown_pct": -50.78,
+    "hit_rate_pct": 63
+  },
+  "avg_monthly_turnover_pct": 44.4,
+  "sensitivity": {
+    "T3_N1": {
+      "cagr_pct": 5.08,
+      "sharpe": 0.353
+    },
+    "T3_N2": {
+      "cagr_pct": 6.53,
+      "sharpe": 0.473
+    },
+    "T3_N3": {
+      "cagr_pct": 7.77,
+      "sharpe": 0.575
+    },
+    "T3_N4": {
+      "cagr_pct": 7.51,
+      "sharpe": 0.573
+    },
+    "T6_N1": {
+      "cagr_pct": 7.93,
+      "sharpe": 0.491
+    },
+    "T6_N2": {
+      "cagr_pct": 8.17,
+      "sharpe": 0.578
+    },
+    "T6_N3": {
+      "cagr_pct": 7.71,
+      "sharpe": 0.584
+    },
+    "T6_N4": {
+      "cagr_pct": 8.07,
+      "sharpe": 0.619
+    },
+    "T9_N1": {
+      "cagr_pct": 8.73,
+      "sharpe": 0.522
+    },
+    "T9_N2": {
+      "cagr_pct": 7.35,
+      "sharpe": 0.526
+    },
+    "T9_N3": {
+      "cagr_pct": 8.97,
+      "sharpe": 0.662
+    },
+    "T9_N4": {
+      "cagr_pct": 9.53,
+      "sharpe": 0.723
+    },
+    "T12_N1": {
+      "cagr_pct": 7.17,
+      "sharpe": 0.439
+    },
+    "T12_N2": {
+      "cagr_pct": 9.01,
+      "sharpe": 0.621
+    },
+    "T12_N3": {
+      "cagr_pct": 8.71,
+      "sharpe": 0.642
+    },
+    "T12_N4": {
+      "cagr_pct": 9.25,
+      "sharpe": 0.697
+    }
+  }
+}

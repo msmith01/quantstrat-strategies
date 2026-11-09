@@ -1,0 +1,270 @@
+{
+  "params": {
+    "T_months": 12,
+    "top_n": 3,
+    "cost_bps": 10,
+    "universe": [
+      "XLB",
+      "XLE",
+      "XLF",
+      "XLI",
+      "XLK",
+      "XLP",
+      "XLU",
+      "XLV",
+      "XLY"
+    ]
+  },
+  "strategy_net": {
+    "label": "Sector momentum (net of costs)",
+    "start": "2000-01-31",
+    "end": "2026-10-31",
+    "months": 322,
+    "total_return_pct": 840.76,
+    "cagr_pct": 8.71,
+    "ann_vol_pct": 14.75,
+    "sharpe": 0.642,
+    "max_drawdown_pct": -39.17,
+    "hit_rate_pct": 61.2
+  },
+  "strategy_gross": {
+    "label": "Sector momentum (gross)",
+    "start": "2000-01-31",
+    "end": "2026-10-31",
+    "months": 322,
+    "total_return_pct": 984.35,
+    "cagr_pct": 9.29,
+    "ann_vol_pct": 14.75,
+    "sharpe": 0.678,
+    "max_drawdown_pct": -38.95,
+    "hit_rate_pct": 61.8
+  },
+  "equal_weight_sectors": {
+    "label": "Equal-weight 9 sectors",
+    "start": "2000-01-31",
+    "end": "2026-10-31",
+    "months": 322,
+    "total_return_pct": 898.29,
+    "cagr_pct": 8.95,
+    "ann_vol_pct": 14.7,
+    "sharpe": 0.659,
+    "max_drawdown_pct": -49.12,
+    "hit_rate_pct": 65.2
+  },
+  "spy": {
+    "label": "SPY buy & hold",
+    "start": "2000-01-31",
+    "end": "2026-10-31",
+    "months": 322,
+    "total_return_pct": 723.17,
+    "cagr_pct": 8.17,
+    "ann_vol_pct": 15.11,
+    "sharpe": 0.598,
+    "max_drawdown_pct": -50.78,
+    "hit_rate_pct": 63.0
+  },
+  "avg_monthly_turnover_pct": 44.4,
+  "sensitivity": {
+    "T3_N1": {
+      "cagr_pct": 5.08,
+      "sharpe": 0.353
+    },
+    "T3_N2": {
+      "cagr_pct": 6.53,
+      "sharpe": 0.473
+    },
+    "T3_N3": {
+      "cagr_pct": 7.77,
+      "sharpe": 0.575
+    },
+    "T3_N4": {
+      "cagr_pct": 7.51,
+      "sharpe": 0.573
+    },
+    "T6_N1": {
+      "cagr_pct": 7.93,
+      "sharpe": 0.491
+    },
+    "T6_N2": {
+      "cagr_pct": 8.17,
+      "sharpe": 0.578
+    },
+    "T6_N3": {
+      "cagr_pct": 7.71,
+      "sharpe": 0.584
+    },
+    "T6_N4": {
+      "cagr_pct": 8.07,
+      "sharpe": 0.619
+    },
+    "T9_N1": {
+      "cagr_pct": 8.73,
+      "sharpe": 0.522
+    },
+    "T9_N2": {
+      "cagr_pct": 7.35,
+      "sharpe": 0.526
+    },
+    "T9_N3": {
+      "cagr_pct": 8.97,
+      "sharpe": 0.662
+    },
+    "T9_N4": {
+      "cagr_pct": 9.53,
+      "sharpe": 0.723
+    },
+    "T12_N1": {
+      "cagr_pct": 7.17,
+      "sharpe": 0.439
+    },
+    "T12_N2": {
+      "cagr_pct": 9.01,
+      "sharpe": 0.621
+    },
+    "T12_N3": {
+      "cagr_pct": 8.71,
+      "sharpe": 0.642
+    },
+    "T12_N4": {
+      "cagr_pct": 9.25,
+      "sharpe": 0.697
+    }
+  },
+  "annual_returns_pct": {
+    "2000": {
+      "strategy": -5.53,
+      "equal_weight": 1.04,
+      "spy": -9.74
+    },
+    "2001": {
+      "strategy": -12.58,
+      "equal_weight": -6.93,
+      "spy": -11.76
+    },
+    "2002": {
+      "strategy": -11.1,
+      "equal_weight": -18.36,
+      "spy": -21.58
+    },
+    "2003": {
+      "strategy": 25.6,
+      "equal_weight": 28.47,
+      "spy": 28.18
+    },
+    "2004": {
+      "strategy": 11.91,
+      "equal_weight": 14.15,
+      "spy": 10.7
+    },
+    "2005": {
+      "strategy": 13.44,
+      "equal_weight": 7.89,
+      "spy": 4.83
+    },
+    "2006": {
+      "strategy": 6.05,
+      "equal_weight": 16.24,
+      "spy": 15.85
+    },
+    "2007": {
+      "strategy": 10.05,
+      "equal_weight": 9.5,
+      "spy": 5.15
+    },
+    "2008": {
+      "strategy": -27.05,
+      "equal_weight": -35.48,
+      "spy": -36.79
+    },
+    "2009": {
+      "strategy": 22.05,
+      "equal_weight": 28.17,
+      "spy": 26.35
+    },
+    "2010": {
+      "strategy": 15.38,
+      "equal_weight": 16.09,
+      "spy": 15.06
+    },
+    "2011": {
+      "strategy": -5.59,
+      "equal_weight": 3.1,
+      "spy": 1.89
+    },
+    "2012": {
+      "strategy": 8.65,
+      "equal_weight": 14.73,
+      "spy": 15.99
+    },
+    "2013": {
+      "strategy": 37.14,
+      "equal_weight": 30.85,
+      "spy": 32.31
+    },
+    "2014": {
+      "strategy": 11.19,
+      "equal_weight": 13.32,
+      "spy": 13.46
+    },
+    "2015": {
+      "strategy": -2.45,
+      "equal_weight": -1.3,
+      "spy": 1.23
+    },
+    "2016": {
+      "strategy": 1.52,
+      "equal_weight": 14.4,
+      "spy": 12.0
+    },
+    "2017": {
+      "strategy": 17.17,
+      "equal_weight": 19.24,
+      "spy": 21.71
+    },
+    "2018": {
+      "strategy": -7.2,
+      "equal_weight": -6.26,
+      "spy": -4.57
+    },
+    "2019": {
+      "strategy": 25.84,
+      "equal_weight": 27.77,
+      "spy": 31.22
+    },
+    "2020": {
+      "strategy": 22.6,
+      "equal_weight": 10.08,
+      "spy": 18.33
+    },
+    "2021": {
+      "strategy": 19.34,
+      "equal_weight": 29.57,
+      "spy": 28.73
+    },
+    "2022": {
+      "strategy": 8.7,
+      "equal_weight": -5.21,
+      "spy": -18.18
+    },
+    "2023": {
+      "strategy": 14.26,
+      "equal_weight": 13.9,
+      "spy": 26.18
+    },
+    "2024": {
+      "strategy": 16.17,
+      "equal_weight": 15.66,
+      "spy": 24.89
+    },
+    "2025": {
+      "strategy": 9.91,
+      "equal_weight": 13.45,
+      "spy": 17.72
+    },
+    "2026": {
+      "strategy": 36.33,
+      "equal_weight": 17.69,
+      "spy": 11.69
+    }
+  }
+}
