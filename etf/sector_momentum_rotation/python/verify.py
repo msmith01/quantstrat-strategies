@@ -22,7 +22,7 @@ for k in ("strategy_net", "equal_weight_sectors", "spy"):
         assert abs(jp[k][m] - jr[k][m]) < 0.011, (k, m, jp[k][m], jr[k][m])
 
 # hand check: signal at 2008-12-31, earns Jan 2009 (plain pandas, no rank trick)
-px = pd.read_csv(D / "prices.csv", index_col="date", parse_dates=True)
+px = pd.read_csv(D / "prices_python.csv", index_col=0, parse_dates=True)
 S = ["XLB","XLE","XLF","XLI","XLK","XLP","XLU","XLV","XLY"]
 p_now = px[S].loc[:"2008-12-31"].iloc[-1]; p_then = px[S].loc[:"2007-12-31"].iloc[-1]
 mom = (p_now / p_then - 1).sort_values(ascending=False)
@@ -32,5 +32,11 @@ hand = (p_next / p_now - 1)[top].mean()
 print("hand check -- top 3 at 2008-12-31:", top, "12m mom:", mom[:3].round(3).to_dict())
 print("hand gross Jan-2009 return: %.6f   pipeline: %.6f" % (hand, py.loc[pd.Period("2009-01"), "strategy_gross"]))
 assert abs(hand - py.loc[pd.Period("2009-01"), "strategy_gross"]) < 1e-9
-assert diff.max() < 1e-9 and gd < 0.011
+# the two scripts download their own data: check the prices agree too
+pr = pd.read_csv(D / "prices_r.csv", index_col=0, parse_dates=True)
+pd_ = px.reindex(pr.index)
+rel = ((pd_ - pr).abs() / pr).max().max()
+print("max relative price difference, Python (yfinance) vs R (quantmod): %.2e  rows py/r: %d/%d" % (rel, len(px), len(pr)))
+assert len(px) == len(pr) and rel < 1e-5
+assert diff.max() < 1e-5 and gd < 0.011
 print("ALL CHECKS PASSED")

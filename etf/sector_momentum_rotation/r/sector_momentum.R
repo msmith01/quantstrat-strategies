@@ -2,18 +2,20 @@
 # "151 Trading Strategies", Section 4.1, Eq. (361):
 #     R_cum_i(t) = P_i(t) / P_i(t - T) - 1
 # Each month-end: rank sector ETFs by R_cum, buy top N equal-weighted, hold 1 month.
-suppressPackageStartupMessages({ library(xts); library(jsonlite) })
+suppressPackageStartupMessages({ library(quantmod); library(xts); library(jsonlite) })
+# install.packages(c("quantmod", "xts", "jsonlite"))   # once
 
-this_dir <- tryCatch(dirname(sys.frame(1)$ofile), error = function(e) {
-  a <- grep("^--file=", commandArgs(FALSE), value = TRUE)
-  if (length(a)) dirname(sub("^--file=", "", a)) else getwd() })
-root <- normalizePath(file.path(this_dir, ".."))
+root <- getwd()   # results are written to ./data, relative to where you run the script
 
 SECTORS <- c("XLB","XLE","XLF","XLI","XLK","XLP","XLU","XLV","XLY")
 T_MONTHS <- 12; TOP_N <- 3; COST_BPS <- 10
+START <- "1998-12-01"; END <- "2026-10-31"     # fixed end date so results are reproducible
 
-px <- read.csv(file.path(root, "data", "prices.csv"), stringsAsFactors = FALSE)
-px <- xts(px[, -1], order.by = as.Date(px$date))
+# Daily adjusted closes for the 9 sector ETFs + SPY, straight from Yahoo Finance
+TICKERS <- c(SECTORS, "SPY")
+px <- do.call(merge, lapply(TICKERS, function(s)
+  Ad(getSymbols(s, src = "yahoo", from = START, to = END, auto.assign = FALSE))))
+colnames(px) <- TICKERS
 pm <- apply.monthly(px, function(x) tail(x, 1))        # month-end prices
 index(pm) <- as.Date(format(index(pm), "%Y-%m-01")) # label by month
 months <- format(index(pm), "%Y-%m")
@@ -67,6 +69,8 @@ for (T in c(3, 6, 9, 12)) for (n in 1:4) {
   sens[[sprintf("T%d_N%d", T, n)]] <- list(cagr_pct = s$cagr_pct, sharpe = s$sharpe) }
 summary$sensitivity <- sens
 
+dir.create(file.path(root, "data"), showWarnings = FALSE)
+write.csv(data.frame(date = index(px), coredata(px)), file.path(root, "data", "prices_r.csv"), row.names = FALSE)  # copy of the data used
 write_json(summary, file.path(root, "data", "results_r.json"), auto_unbox = TRUE, pretty = TRUE)
 write.csv(data.frame(month = res$month[ok], strategy_net = res$net[ok],
           strategy_gross = res$gross[ok], equal_weight = ew[ok], spy = spy[ok],

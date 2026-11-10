@@ -1,9 +1,10 @@
 max |Python - R| monthly return diff:
- strategy_net      4.995490e-11
-strategy_gross    4.995490e-11
-equal_weight      4.998990e-11
-spy               4.998850e-11
+ strategy_net      7.188765e-07
+strategy_gross    7.188765e-07
+equal_weight      4.323173e-07
+spy               1.418212e-06
 max sensitivity-grid diff (16 cells x CAGR,Sharpe): 0.0
 hand check -- top 3 at 2008-12-31: ['XLP', 'XLV', 'XLU'] 12m mom: {'XLP': -0.15, 'XLV': -0.233, 'XLU': -0.289}
 hand gross Jan-2009 return: -0.028611   pipeline: -0.028611
+max relative price difference, Python (yfinance) vs R (quantmod): 1.75e-06  rows py/r: 7022/7022
 ALL CHECKS PASSED

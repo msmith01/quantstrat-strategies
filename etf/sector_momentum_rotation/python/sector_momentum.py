@@ -10,17 +10,25 @@ import json
 from pathlib import Path
 import numpy as np
 import pandas as pd
+import yfinance as yf   # pip install yfinance
 
-ROOT = Path(__file__).resolve().parents[1]
+OUT = Path("data")   # results are written to ./data, relative to where you run the script
 SECTORS = ["XLB", "XLE", "XLF", "XLI", "XLK", "XLP", "XLU", "XLV", "XLY"]
 T_MONTHS = 12      # formation period (paper: 6-12 months)
 TOP_N = 3          # 9 ETFs -> "top decile" would be <1 ETF; top third used
 COST_BPS = 10      # one-way cost per unit of turnover
+START, END = "1998-12-01", "2026-11-01"   # fixed end date so results are reproducible
 
 
-def monthly_prices(path=ROOT / "data" / "prices.csv"):
-    px = pd.read_csv(path, index_col="date", parse_dates=True)
-    return px.resample("ME").last()
+def download_prices():
+    """Daily adjusted closes for the 9 sector ETFs + SPY, straight from Yahoo Finance."""
+    tickers = SECTORS + ["SPY"]
+    px = yf.download(tickers, start=START, end=END, auto_adjust=True, progress=False)["Close"]
+    return px[tickers].dropna(how="all")
+
+
+def to_monthly(px):
+    return px.resample("ME").last()             # last trading day of each month
 
 
 def run(px_m, T=T_MONTHS, n=TOP_N, cost_bps=COST_BPS):
@@ -59,7 +67,8 @@ def stats(ret, label=""):
 
 
 def main():
-    px_m = monthly_prices()
+    px = download_prices()
+    px_m = to_monthly(px)
     res, w, rcum = run(px_m)
     spy = px_m["SPY"].pct_change().loc[res.index]
     ew = px_m[SECTORS].pct_change().mean(axis=1).loc[res.index]
@@ -85,7 +94,9 @@ def main():
     summary["annual_returns_pct"] = (
         ((1 + yr).groupby(yr.index.year).prod() - 1) * 100).round(2).to_dict("index")
 
-    out = ROOT / "data"
+    out = OUT
+    out.mkdir(exist_ok=True)
+    px.to_csv(out / "prices_python.csv")        # copy of the data used, for verify.py and the charts
     (out / "results_python.json").write_text(json.dumps(summary, indent=2, default=str))
     pd.DataFrame({"strategy_net": res["net"], "strategy_gross": res["gross"],
                   "equal_weight": ew, "spy": spy, "turnover": res["turnover"]}

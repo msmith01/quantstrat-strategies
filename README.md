@@ -11,33 +11,32 @@ strategy_replications/
   ROADMAP.md
   <chapter>/                       e.g. etf/, stocks/, fixed_income/
     <strategy>/                    e.g. sector_momentum_rotation/
-      data/                        prices.csv (shared by Python and R), results_*.json, monthly returns
-      python/                      download_data.py, <strategy>.py, verify.py, make_charts.py
+      data/                        written by the scripts: prices_*.csv, results_*.json, monthly returns
+      python/                      <strategy>.py, verify.py, make_charts.py
       r/                           <strategy>.R
       charts/                      PNGs used in the post
 ```
 
 ## Conventions
 
-- Python and R read the **same** `data/prices.csv`, so any difference is a code difference.
+- Each script is self-contained: it downloads its own prices from Yahoo Finance (yfinance in Python, quantmod in R), runs the strategy and writes its results to `./data`. `verify.py` checks that the two agree.
 - `python/verify.py` must print `ALL CHECKS PASSED` (Python vs R, plus a hand calculation) before a post is drafted.
 - The code shown in each article is extracted from the tested files in this repo, so what is shown is what was run.
 - Every post ends with an academic reference naming the paper, section and equation replicated.
-- `data/prices.csv` is not committed (it is Yahoo Finance data). Run `python/download_data.py` first; the end date is pinned, but Yahoo can revise adjusted prices, so results may differ slightly from the post.
+- Price data is not committed (it is Yahoo Finance data). The end date is pinned, but Yahoo can revise adjusted prices, so results may differ slightly from the post.
 - The source paper is copyrighted and is not included. Get it from SSRN: https://ssrn.com/abstract=3247865
 
 ## Reproduce a strategy
 
 ```
-cd etf/sector_momentum_rotation/python
-python download_data.py      # pins end date, rewrites data/prices.csv
-python sector_momentum.py
-Rscript ../r/sector_momentum.R
-python verify.py
-python make_charts.py
+cd etf/sector_momentum_rotation
+python python/sector_momentum.py   # downloads data, runs the strategy
+Rscript r/sector_momentum.R        # same strategy in R
+python python/verify.py            # Python vs R + hand check
+python python/make_charts.py
 ```
 
-Requires: pandas, numpy, matplotlib, yfinance; R with xts and jsonlite.
+Requires: pandas, numpy, matplotlib, yfinance; R with quantmod, xts and jsonlite.
 
 ## Disclaimer
 

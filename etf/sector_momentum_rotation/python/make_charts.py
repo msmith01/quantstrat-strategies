@@ -18,7 +18,7 @@ SRC = "Source: Yahoo Finance adjusted closes; author calculations. Net of 10 bps
 def save(fig, name):
     fig.tight_layout(); fig.savefig(CH / name, dpi=150, facecolor="white"); plt.close(fig)
 
-px_m = sm.monthly_prices(); res, w, rcum = sm.run(px_m)
+px_m = sm.to_monthly(pd.read_csv(ROOT / "data" / "prices_python.csv", index_col=0, parse_dates=True)); res, w, rcum = sm.run(px_m)
 ret = pd.read_csv(ROOT / "data" / "monthly_returns_python.csv", index_col=0, parse_dates=True)
 summ = json.load(open(ROOT / "data" / "results_python.json"))
 eq = (1 + ret[["strategy_net", "equal_weight", "spy"]]).cumprod() * 100
