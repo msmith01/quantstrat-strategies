@@ -2,10 +2,8 @@
 # "151 Trading Strategies", Section 4.1, Eq. (361):
 #     R_cum_i(t) = P_i(t) / P_i(t - T) - 1
 # Each month-end: rank sector ETFs by R_cum, buy top N equal-weighted, hold 1 month.
-suppressPackageStartupMessages({ library(quantmod); library(xts); library(jsonlite) })
-# install.packages(c("quantmod", "xts", "jsonlite"))   # once
-
-root <- getwd()   # results are written to ./data, relative to where you run the script
+suppressPackageStartupMessages({ library(quantmod); library(xts) })
+# install.packages(c("quantmod", "xts"))   # once
 
 SECTORS <- c("XLB","XLE","XLF","XLI","XLK","XLP","XLU","XLV","XLY")
 T_MONTHS <- 12; TOP_N <- 3; COST_BPS <- 10
@@ -57,23 +55,47 @@ spy <- c(NA, as.numeric(pm[-1, "SPY"]) / as.numeric(pm[-nrow(pm), "SPY"]) - 1)
 Psec <- coredata(pm[, SECTORS])
 ew <- c(NA, rowMeans(Psec[-1, ] / Psec[-nrow(Psec), ] - 1))
 
-summary <- list(
-  strategy_net = stats(res$net[ok], "Sector momentum (net of costs)"),
-  strategy_gross = stats(res$gross[ok], "Sector momentum (gross)"),
-  equal_weight_sectors = stats(ew[ok], "Equal-weight 9 sectors"),
-  spy = stats(spy[ok], "SPY buy & hold"),
-  avg_monthly_turnover_pct = round(mean(res$turnover[ok]) * 100, 1))
-sens <- list()
-for (T in c(3, 6, 9, 12)) for (n in 1:4) {
-  s <- run_strategy(pm, T, n); s <- stats(s$net[!is.na(s$net)], "")
-  sens[[sprintf("T%d_N%d", T, n)]] <- list(cagr_pct = s$cagr_pct, sharpe = s$sharpe) }
-summary$sensitivity <- sens
+# ---- Results table (net of costs) ----
+rows <- c("total_return_pct", "cagr_pct", "ann_vol_pct", "sharpe", "max_drawdown_pct", "hit_rate_pct")
+col <- function(x) { s <- stats(x[ok], ""); c(100 * (1 + s$total_return_pct / 100), unlist(s[rows[-1]])) }
+results <- data.frame(
+  Metric = c("$100 became", "CAGR (%)", "Volatility (%)", "Sharpe", "Max drawdown (%)", "Months with a gain (%)"),
+  "Sector momentum (net)" = col(res$net), "Equal-weight 9 sectors" = col(ew), SPY = col(spy),
+  check.names = FALSE, row.names = NULL)
+results[, -1] <- round(results[, -1], 2)
+print(results, row.names = FALSE)
+cat(sprintf("Average monthly turnover: %.1f%%\n", mean(res$turnover[ok]) * 100))
 
-dir.create(file.path(root, "data"), showWarnings = FALSE)
-write.csv(data.frame(date = index(px), coredata(px)), file.path(root, "data", "prices_r.csv"), row.names = FALSE)  # copy of the data used
-write_json(summary, file.path(root, "data", "results_r.json"), auto_unbox = TRUE, pretty = TRUE)
-write.csv(data.frame(month = res$month[ok], strategy_net = res$net[ok],
-          strategy_gross = res$gross[ok], equal_weight = ew[ok], spy = spy[ok],
-          turnover = res$turnover[ok]),
-          file.path(root, "data", "monthly_returns_r.csv"), row.names = FALSE)
-str(summary[c("strategy_net", "equal_weight_sectors", "spy")])
+# ---- Sensitivity: every combination of look-back T and number of ETFs held n ----
+sens <- expand.grid(T_months = c(3, 6, 9, 12), n = 1:4)
+sens[c("cagr_pct", "sharpe")] <- t(mapply(function(T, n) {
+  s <- stats(run_strategy(pm, T, n)$net, ""); c(s$cagr_pct, s$sharpe) }, sens$T_months, sens$n))
+print(sens, row.names = FALSE)
+
+# ---- Plots ----
+yr <- as.numeric(format(index(pm)[ok], "%Y")) + (as.numeric(format(index(pm)[ok], "%m")) - 1) / 12
+eq <- 100 * cbind("Sector momentum" = cumprod(1 + res$net[ok]), "Equal-weight 9 sectors" = cumprod(1 + ew[ok]),
+                  SPY = cumprod(1 + spy[ok]))
+cols <- c("#2a78d6", "#eb6834", "grey40"); ltys <- c(1, 1, 2)
+par(mfrow = c(3, 1), mar = c(3, 4, 3, 1))
+matplot(yr, eq, type = "l", col = cols, lty = ltys, lwd = 2, log = "y", xlab = "", ylab = "$",
+        main = "Growth of $100 (log scale)")
+legend("topleft", colnames(eq), col = cols, lty = ltys, lwd = 2, bty = "n")
+matplot(yr, 100 * (eq / apply(eq, 2, cummax) - 1), type = "l", col = cols, lty = ltys, lwd = 2, xlab = "",
+        ylab = "%", main = "Drawdown from previous peak")
+M <- matrix(sens$sharpe, nrow = 4)           # rows = T (3, 6, 9, 12), columns = n (1 to 4)
+image(1:4, 1:4, t(M)[, 4:1], col = hcl.colors(20, "Blues", rev = TRUE), axes = FALSE,
+      xlab = "ETFs held (n)", ylab = "Look-back T (months)", main = "Sharpe ratio by setting")
+axis(1, 1:4, 1:4); axis(2, 1:4, rev(c(3, 6, 9, 12)), las = 1)
+for (i in 1:4) for (j in 1:4) text(j, 5 - i, sprintf("%.2f", M[i, j]))
+
+# ---- SAVE-BEGIN: optional, uncomment to write the results to ./data ----
+# root <- getwd(); dir.create(file.path(root, "data"), showWarnings = FALSE)
+# write.csv(data.frame(date = index(px), coredata(px)), file.path(root, "data", "prices_r.csv"), row.names = FALSE)
+# write.csv(results, file.path(root, "data", "results_table_r.csv"), row.names = FALSE)
+# write.csv(sens, file.path(root, "data", "sensitivity_r.csv"), row.names = FALSE)
+# write.csv(data.frame(month = res$month[ok], strategy_net = res$net[ok],
+#           strategy_gross = res$gross[ok], equal_weight = ew[ok], spy = spy[ok],
+#           turnover = res$turnover[ok]),
+#           file.path(root, "data", "monthly_returns_r.csv"), row.names = FALSE)
+# ---- SAVE-END ----

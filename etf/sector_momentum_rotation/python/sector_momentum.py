@@ -6,13 +6,11 @@
 At each month-end t: rank the sector ETFs by R_cum_i(t), buy the top N
 equal-weighted, hold for one month (the paper's 1-3 month holding period).
 """
-import json
-from pathlib import Path
 import numpy as np
 import pandas as pd
+import matplotlib.pyplot as plt
 import yfinance as yf   # pip install yfinance
 
-OUT = Path("data")   # results are written to ./data, relative to where you run the script
 SECTORS = ["XLB", "XLE", "XLF", "XLI", "XLK", "XLP", "XLU", "XLV", "XLY"]
 T_MONTHS = 12      # formation period (paper: 6-12 months)
 TOP_N = 3          # 9 ETFs -> "top decile" would be <1 ETF; top third used
@@ -66,6 +64,38 @@ def stats(ret, label=""):
     }
 
 
+def results_table(summary):
+    """Net-of-cost results next to the two benchmarks, as a DataFrame."""
+    cols = {"Sector momentum (net)": summary["strategy_net"],
+            "Equal-weight 9 sectors": summary["equal_weight_sectors"], "SPY": summary["spy"]}
+    return pd.DataFrame({name: {
+        "$100 became": 100 * (1 + s["total_return_pct"] / 100), "CAGR (%)": s["cagr_pct"],
+        "Volatility (%)": s["ann_vol_pct"], "Sharpe": s["sharpe"],
+        "Max drawdown (%)": s["max_drawdown_pct"], "Months with a gain (%)": s["hit_rate_pct"]}
+        for name, s in cols.items()})
+
+
+def plot_results(res, ew, spy, grid):
+    eq = 100 * (1 + pd.DataFrame({"Sector momentum": res["net"], "Equal-weight 9 sectors": ew, "SPY": spy}).dropna()).cumprod()
+    colors, styles = ["#2a78d6", "#eb6834", "grey"], ["-", "-", "--"]
+    fig, ax = plt.subplots(3, 1, figsize=(9, 12))
+    for c, col, ls in zip(eq.columns, colors, styles):
+        ax[0].plot(eq.index, eq[c], color=col, ls=ls, lw=2, label=c)
+        ax[1].plot(eq.index, 100 * (eq[c] / eq[c].cummax() - 1), color=col, ls=ls, lw=2)
+    ax[0].set_yscale("log"); ax[0].set_title("Growth of $100 (log scale)"); ax[0].legend(frameon=False)
+    ax[1].set_title("Drawdown from previous peak (%)")
+    Ts, Ns = (3, 6, 9, 12), (1, 2, 3, 4)
+    sharpe = np.array([[grid[f"T{T}_N{n}"]["sharpe"] for n in Ns] for T in Ts])
+    ax[2].imshow(sharpe, cmap="Blues")
+    ax[2].set_xticks(range(4), Ns); ax[2].set_yticks(range(4), Ts)
+    ax[2].set_xlabel("ETFs held (n)"); ax[2].set_ylabel("Look-back T (months)"); ax[2].set_title("Sharpe ratio by setting")
+    for i in range(4):
+        for j in range(4):
+            ax[2].text(j, i, f"{sharpe[i, j]:.2f}", ha="center", va="center")
+    fig.tight_layout()
+    plt.show()
+
+
 def main():
     px = download_prices()
     px_m = to_monthly(px)
@@ -94,16 +124,21 @@ def main():
     summary["annual_returns_pct"] = (
         ((1 + yr).groupby(yr.index.year).prod() - 1) * 100).round(2).to_dict("index")
 
-    out = OUT
-    out.mkdir(exist_ok=True)
-    px.to_csv(out / "prices_python.csv")        # copy of the data used, for verify.py and the charts
-    (out / "results_python.json").write_text(json.dumps(summary, indent=2, default=str))
-    pd.DataFrame({"strategy_net": res["net"], "strategy_gross": res["gross"],
-                  "equal_weight": ew, "spy": spy, "turnover": res["turnover"]}
-                 ).to_csv(out / "monthly_returns_python.csv", float_format="%.10f")
-    w.to_csv(out / "weights_python.csv", float_format="%.6f")
-    for k in ("strategy_net", "equal_weight_sectors", "spy"):
-        print(summary[k])
+    # ---- SAVE-BEGIN: optional, uncomment to write the results to ./data ----
+    # import json
+    # from pathlib import Path
+    # out = Path("data"); out.mkdir(exist_ok=True)
+    # px.to_csv(out / "prices_python.csv")
+    # (out / "results_python.json").write_text(json.dumps(summary, indent=2, default=str))
+    # pd.DataFrame({"strategy_net": res["net"], "strategy_gross": res["gross"],
+    #               "equal_weight": ew, "spy": spy, "turnover": res["turnover"]}
+    #              ).to_csv(out / "monthly_returns_python.csv", float_format="%.10f")
+    # w.to_csv(out / "weights_python.csv", float_format="%.6f")
+    # ---- SAVE-END ----
+
+    print(results_table(summary).round(2).to_string())
+    print(f"Average monthly turnover: {summary['avg_monthly_turnover_pct']}%")
+    plot_results(res, ew, spy, grid)
     return res, w, rcum, px_m, ew, spy, summary
 
 

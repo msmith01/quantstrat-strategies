@@ -56,7 +56,7 @@
     "start": "2000-01-31",
     "end": "2026-10-31",
     "months": 322,
-    "total_return_pct": 723.17,
+    "total_return_pct": 723.18,
     "cagr_pct": 8.17,
     "ann_vol_pct": 15.11,
     "sharpe": 0.598,
@@ -174,7 +174,7 @@
     "2008": {
       "strategy": -27.05,
       "equal_weight": -35.48,
-      "spy": -36.8
+      "spy": -36.79
     },
     "2009": {
       "strategy": 22.05,

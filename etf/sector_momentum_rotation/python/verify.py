@@ -13,13 +13,16 @@ diff = (py[["strategy_net", "strategy_gross", "equal_weight", "spy"]]
         - r[["strategy_net", "strategy_gross", "equal_weight", "spy"]]).abs().max()
 print("max |Python - R| monthly return diff:\n", diff.to_string())
 
-jp, jr = json.load(open(D / "results_python.json")), json.load(open(D / "results_r.json"))
-gd = max(abs(jp["sensitivity"][k][m] - jr["sensitivity"][k][m])
-         for k in jp["sensitivity"] for m in ("cagr_pct", "sharpe"))
+jp = json.load(open(D / "results_python.json"))
+rt = pd.read_csv(D / "results_table_r.csv", index_col=0)
+rs = pd.read_csv(D / "sensitivity_r.csv")
+gd = max(abs(jp["sensitivity"][f"T{int(r.T_months)}_N{int(r.n)}"][m] - r[m])
+         for _, r in rs.iterrows() for m in ("cagr_pct", "sharpe"))
 print("max sensitivity-grid diff (16 cells x CAGR,Sharpe):", gd)
-for k in ("strategy_net", "equal_weight_sectors", "spy"):
-    for m in ("cagr_pct", "sharpe", "max_drawdown_pct"):
-        assert abs(jp[k][m] - jr[k][m]) < 0.011, (k, m, jp[k][m], jr[k][m])
+cmp = {"strategy_net": "Sector momentum (net)", "equal_weight_sectors": "Equal-weight 9 sectors", "spy": "SPY"}
+for k, c in cmp.items():
+    for m, row in (("cagr_pct", "CAGR (%)"), ("sharpe", "Sharpe"), ("max_drawdown_pct", "Max drawdown (%)")):
+        assert abs(jp[k][m] - rt.loc[row, c]) < 0.011, (k, m, jp[k][m], rt.loc[row, c])
 
 # hand check: signal at 2008-12-31, earns Jan 2009 (plain pandas, no rank trick)
 px = pd.read_csv(D / "prices_python.csv", index_col=0, parse_dates=True)

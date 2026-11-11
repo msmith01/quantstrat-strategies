@@ -30,13 +30,14 @@ strategy_replications/
 
 ```
 cd etf/sector_momentum_rotation
-python python/sector_momentum.py   # downloads data, runs the strategy
+python python/sector_momentum.py   # downloads data, prints the table, draws the plots
 Rscript r/sector_momentum.R        # same strategy in R
+python python/regen_results.py     # re-runs both scripts with their optional SAVE block on (writes ./data)
 python python/verify.py            # Python vs R + hand check
 python python/make_charts.py
 ```
 
-Requires: pandas, numpy, matplotlib, yfinance; R with quantmod, xts and jsonlite.
+Requires: pandas, numpy, matplotlib, yfinance; R with quantmod and xts.
 
 ## Disclaimer
 
