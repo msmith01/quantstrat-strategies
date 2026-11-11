@@ -1,10 +1,14 @@
-max |Python - R| monthly return diff:
- strategy_net      8.332597e-07
-strategy_gross    8.332597e-07
-equal_weight      4.967506e-07
-spy               1.382474e-06
+max |Python - R| per monthly series:
+ top3_net         6.698777e-07
+top3_gross       6.696263e-07
+top1_net         1.180945e-06
+ew_net           4.023671e-07
+ew_gross         4.023851e-07
+spy              1.234622e-06
+turnover_top3    6.615177e-07
 max sensitivity-grid diff (16 cells x CAGR,Sharpe): 0.0
-hand check -- top 3 at 2008-12-31: ['XLP', 'XLV', 'XLU'] 12m mom: {'XLP': -0.15, 'XLV': -0.233, 'XLU': -0.289}
-hand gross Jan-2009 return: -0.028611   pipeline: -0.028611
-max relative price difference, Python (yfinance) vs R (quantmod): 1.62e-06  rows py/r: 7022/7022
+hand check A -- top 3 at 2008-12-31: ['XLP', 'XLV', 'XLU'] {'XLP': np.float64(-0.15), 'XLV': np.float64(-0.233), 'XLU': np.float64(-0.289)}
+hand gross Jan-2009 return: -0.028610   pipeline: -0.028610
+hand check B -- turnover at 2009-02-28: drift-aware by hand 0.021857 | pipeline 0.021857 | (ignoring drift: 0.000000)
+max relative price difference, Python (yfinance) vs R (quantmod): 1.39e-06  rows py/r: 7022/7022
 ALL CHECKS PASSED

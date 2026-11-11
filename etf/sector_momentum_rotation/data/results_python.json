@@ -15,20 +15,20 @@
       "XLY"
     ]
   },
-  "strategy_net": {
-    "label": "Sector momentum (net of costs)",
+  "top3": {
+    "label": "Top 3 of 9 (net)",
     "start": "2000-01-31",
     "end": "2026-10-31",
     "months": 322,
-    "total_return_pct": 840.76,
-    "cagr_pct": 8.71,
+    "total_return_pct": 836.73,
+    "cagr_pct": 8.69,
     "ann_vol_pct": 14.75,
-    "sharpe": 0.642,
-    "max_drawdown_pct": -39.17,
+    "sharpe": 0.641,
+    "max_drawdown_pct": -39.18,
     "hit_rate_pct": 61.2
   },
-  "strategy_gross": {
-    "label": "Sector momentum (gross)",
+  "top3_gross": {
+    "label": "Top 3 of 9 (gross)",
     "start": "2000-01-31",
     "end": "2026-10-31",
     "months": 322,
@@ -39,8 +39,32 @@
     "max_drawdown_pct": -38.95,
     "hit_rate_pct": 61.8
   },
-  "equal_weight_sectors": {
-    "label": "Equal-weight 9 sectors",
+  "top1": {
+    "label": "Top 1 of 9 (net)",
+    "start": "2000-01-31",
+    "end": "2026-10-31",
+    "months": 322,
+    "total_return_pct": 540.8,
+    "cagr_pct": 7.17,
+    "ann_vol_pct": 20.65,
+    "sharpe": 0.439,
+    "max_drawdown_pct": -49.22,
+    "hit_rate_pct": 57.5
+  },
+  "equal_weight": {
+    "label": "Equal-weight 9 (net)",
+    "start": "2000-01-31",
+    "end": "2026-10-31",
+    "months": 322,
+    "total_return_pct": 889.17,
+    "cagr_pct": 8.92,
+    "ann_vol_pct": 14.71,
+    "sharpe": 0.657,
+    "max_drawdown_pct": -49.16,
+    "hit_rate_pct": 65.2
+  },
+  "equal_weight_gross": {
+    "label": "Equal-weight 9 (gross)",
     "start": "2000-01-31",
     "end": "2026-10-31",
     "months": 322,
@@ -56,214 +80,245 @@
     "start": "2000-01-31",
     "end": "2026-10-31",
     "months": 322,
-    "total_return_pct": 723.18,
+    "total_return_pct": 723.17,
     "cagr_pct": 8.17,
     "ann_vol_pct": 15.11,
     "sharpe": 0.598,
     "max_drawdown_pct": -50.78,
     "hit_rate_pct": 63.0
   },
-  "avg_monthly_turnover_pct": 44.4,
+  "avg_monthly_turnover_pct": {
+    "top3": 45.8,
+    "top1": 64.3,
+    "equal_weight": 2.9
+  },
   "sensitivity": {
     "T3_N1": {
-      "cagr_pct": 5.08,
-      "sharpe": 0.353
+      "cagr_pct": 4.12,
+      "sharpe": 0.306
     },
     "T3_N2": {
-      "cagr_pct": 6.53,
-      "sharpe": 0.473
+      "cagr_pct": 6.38,
+      "sharpe": 0.464
     },
     "T3_N3": {
-      "cagr_pct": 7.77,
-      "sharpe": 0.575
+      "cagr_pct": 7.53,
+      "sharpe": 0.56
     },
     "T3_N4": {
-      "cagr_pct": 7.51,
-      "sharpe": 0.573
+      "cagr_pct": 7.32,
+      "sharpe": 0.56
     },
     "T6_N1": {
-      "cagr_pct": 7.93,
-      "sharpe": 0.491
+      "cagr_pct": 7.44,
+      "sharpe": 0.47
     },
     "T6_N2": {
-      "cagr_pct": 8.17,
-      "sharpe": 0.578
+      "cagr_pct": 8.05,
+      "sharpe": 0.572
     },
     "T6_N3": {
-      "cagr_pct": 7.71,
-      "sharpe": 0.584
+      "cagr_pct": 7.5,
+      "sharpe": 0.572
     },
     "T6_N4": {
-      "cagr_pct": 8.07,
-      "sharpe": 0.619
+      "cagr_pct": 8.03,
+      "sharpe": 0.615
     },
     "T9_N1": {
-      "cagr_pct": 8.73,
-      "sharpe": 0.522
+      "cagr_pct": 8.14,
+      "sharpe": 0.496
     },
     "T9_N2": {
-      "cagr_pct": 7.35,
-      "sharpe": 0.526
+      "cagr_pct": 7.13,
+      "sharpe": 0.513
     },
     "T9_N3": {
-      "cagr_pct": 8.97,
-      "sharpe": 0.662
+      "cagr_pct": 8.8,
+      "sharpe": 0.651
     },
     "T9_N4": {
-      "cagr_pct": 9.53,
-      "sharpe": 0.723
+      "cagr_pct": 9.18,
+      "sharpe": 0.701
     },
     "T12_N1": {
       "cagr_pct": 7.17,
       "sharpe": 0.439
     },
     "T12_N2": {
-      "cagr_pct": 9.01,
+      "cagr_pct": 9.0,
       "sharpe": 0.621
     },
     "T12_N3": {
-      "cagr_pct": 8.71,
-      "sharpe": 0.642
+      "cagr_pct": 8.69,
+      "sharpe": 0.641
     },
     "T12_N4": {
-      "cagr_pct": 9.25,
-      "sharpe": 0.697
+      "cagr_pct": 9.23,
+      "sharpe": 0.696
     }
   },
   "annual_returns_pct": {
     "2000": {
-      "strategy": -5.53,
-      "equal_weight": 1.04,
+      "top3": -5.56,
+      "top1": -20.82,
+      "equal_weight": 0.89,
       "spy": -9.74
     },
     "2001": {
-      "strategy": -12.58,
-      "equal_weight": -6.93,
+      "top3": -12.6,
+      "top1": -13.97,
+      "equal_weight": -6.97,
       "spy": -11.76
     },
     "2002": {
-      "strategy": -11.1,
-      "equal_weight": -18.36,
+      "top3": -11.12,
+      "top1": -12.12,
+      "equal_weight": -18.39,
       "spy": -21.58
     },
     "2003": {
-      "strategy": 25.6,
-      "equal_weight": 28.47,
+      "top3": 25.59,
+      "top1": 37.46,
+      "equal_weight": 28.44,
       "spy": 28.18
     },
     "2004": {
-      "strategy": 11.91,
-      "equal_weight": 14.15,
+      "top3": 11.9,
+      "top1": 14.12,
+      "equal_weight": 14.13,
       "spy": 10.7
     },
     "2005": {
-      "strategy": 13.44,
-      "equal_weight": 7.89,
+      "top3": 13.42,
+      "top1": 40.18,
+      "equal_weight": 7.86,
       "spy": 4.83
     },
     "2006": {
-      "strategy": 6.05,
-      "equal_weight": 16.24,
+      "top3": 6.04,
+      "top1": 14.68,
+      "equal_weight": 16.21,
       "spy": 15.85
     },
     "2007": {
-      "strategy": 10.05,
-      "equal_weight": 9.5,
+      "top3": 10.04,
+      "top1": 8.39,
+      "equal_weight": 9.48,
       "spy": 5.15
     },
     "2008": {
-      "strategy": -27.05,
-      "equal_weight": -35.48,
+      "top3": -27.07,
+      "top1": -29.97,
+      "equal_weight": -35.51,
       "spy": -36.79
     },
     "2009": {
-      "strategy": 22.05,
-      "equal_weight": 28.17,
+      "top3": 22.02,
+      "top1": 14.33,
+      "equal_weight": 28.12,
       "spy": 26.35
     },
     "2010": {
-      "strategy": 15.38,
-      "equal_weight": 16.09,
+      "top3": 15.37,
+      "top1": 6.5,
+      "equal_weight": 16.06,
       "spy": 15.06
     },
     "2011": {
-      "strategy": -5.59,
-      "equal_weight": 3.1,
+      "top3": -5.6,
+      "top1": -9.36,
+      "equal_weight": 3.08,
       "spy": 1.89
     },
     "2012": {
-      "strategy": 8.65,
-      "equal_weight": 14.73,
+      "top3": 8.64,
+      "top1": -0.83,
+      "equal_weight": 14.7,
       "spy": 15.99
     },
     "2013": {
-      "strategy": 37.14,
-      "equal_weight": 30.85,
+      "top3": 37.13,
+      "top1": 32.83,
+      "equal_weight": 30.83,
       "spy": 32.31
     },
     "2014": {
-      "strategy": 11.19,
-      "equal_weight": 13.32,
+      "top3": 11.18,
+      "top1": 8.46,
+      "equal_weight": 13.29,
       "spy": 13.46
     },
     "2015": {
-      "strategy": -2.45,
-      "equal_weight": -1.3,
+      "top3": -2.46,
+      "top1": -6.81,
+      "equal_weight": -1.33,
       "spy": 1.23
     },
     "2016": {
-      "strategy": 1.52,
-      "equal_weight": 14.4,
+      "top3": 1.51,
+      "top1": -3.89,
+      "equal_weight": 14.37,
       "spy": 12.0
     },
     "2017": {
-      "strategy": 17.17,
-      "equal_weight": 19.24,
+      "top3": 17.15,
+      "top1": 0.58,
+      "equal_weight": 19.22,
       "spy": 21.71
     },
     "2018": {
-      "strategy": -7.2,
-      "equal_weight": -6.26,
+      "top3": -7.22,
+      "top1": -0.51,
+      "equal_weight": -6.29,
       "spy": -4.57
     },
     "2019": {
-      "strategy": 25.84,
-      "equal_weight": 27.77,
+      "top3": 25.82,
+      "top1": 17.65,
+      "equal_weight": 27.73,
       "spy": 31.22
     },
     "2020": {
-      "strategy": 22.6,
-      "equal_weight": 10.08,
+      "top3": 22.58,
+      "top1": 43.62,
+      "equal_weight": 10.04,
       "spy": 18.33
     },
     "2021": {
-      "strategy": 19.34,
-      "equal_weight": 29.57,
+      "top3": 19.31,
+      "top1": 21.16,
+      "equal_weight": 29.53,
       "spy": 28.73
     },
     "2022": {
-      "strategy": 8.7,
-      "equal_weight": -5.21,
+      "top3": 8.67,
+      "top1": 64.32,
+      "equal_weight": -5.25,
       "spy": -18.18
     },
     "2023": {
-      "strategy": 14.26,
-      "equal_weight": 13.9,
+      "top3": 14.24,
+      "top1": 4.13,
+      "equal_weight": 13.86,
       "spy": 26.18
     },
     "2024": {
-      "strategy": 16.17,
-      "equal_weight": 15.66,
+      "top3": 16.15,
+      "top1": 11.52,
+      "equal_weight": 15.63,
       "spy": 24.89
     },
     "2025": {
-      "strategy": 9.91,
-      "equal_weight": 13.45,
+      "top3": 9.89,
+      "top1": 15.86,
+      "equal_weight": 13.41,
       "spy": 17.72
     },
     "2026": {
-      "strategy": 36.33,
-      "equal_weight": 17.69,
+      "top3": 36.28,
+      "top1": -12.57,
+      "equal_weight": 17.65,
       "spy": 11.69
     }
   }

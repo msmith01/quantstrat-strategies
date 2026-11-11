@@ -1,7 +1,8 @@
-"Metric","Sector momentum (net)","Equal-weight 9 sectors","SPY"
-"$100 became",940.76,998.29,823.17
-"CAGR (%)",8.71,8.95,8.17
-"Volatility (%)",14.75,14.7,15.11
-"Sharpe",0.64,0.66,0.6
-"Max drawdown (%)",-39.17,-49.12,-50.78
-"Months with a gain (%)",61.2,65.2,63
+"Metric","Top 3 of 9","Top 1 of 9","Equal-weight 9 (net)","SPY"
+"$100 became",936.73,640.8,989.17,823.17
+"CAGR (%)",8.69,7.17,8.92,8.17
+"Volatility (%)",14.75,20.65,14.71,15.11
+"Sharpe",0.64,0.44,0.66,0.6
+"Max drawdown (%)",-39.18,-49.22,-49.16,-50.78
+"Months with a gain (%)",61.2,57.5,65.2,63
+"Monthly turnover (%)",45.75,64.29,2.85,0
