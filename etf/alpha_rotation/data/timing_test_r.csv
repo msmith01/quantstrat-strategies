@@ -1,0 +1,7 @@
+"variant","cagr_pct","sharpe","max_drawdown_pct","months"
+"lag0_same",7.31,0.527,-47.23,319
+"lag5_same",7.1,0.511,-48.83,319
+"lag21_same",8.9,0.63,-47.53,319
+"lag0_next",6.94,0.492,-50.7,319
+"lag5_next",7.25,0.506,-49.11,319
+"lag21_next",9.06,0.623,-49.82,319

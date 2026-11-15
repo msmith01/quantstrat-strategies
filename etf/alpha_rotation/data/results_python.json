@@ -1,0 +1,727 @@
+{
+  "params": {
+    "window_days": 252,
+    "top_n": 3,
+    "cost_bps": 10,
+    "universe": [
+      "XLB",
+      "XLE",
+      "XLF",
+      "XLI",
+      "XLK",
+      "XLP",
+      "XLU",
+      "XLV",
+      "XLY"
+    ],
+    "factors": "Fama-French 3 (daily, Ken French library)",
+    "last_factor_date": "2026-09-30"
+  },
+  "alpha3": {
+    "label": "Alpha top 3 of 9 (net)",
+    "start": "2000-01-31",
+    "end": "2026-09-30",
+    "months": 321,
+    "total_return_pct": 511.18,
+    "cagr_pct": 7.0,
+    "ann_vol_pct": 15.86,
+    "sharpe": 0.508,
+    "max_drawdown_pct": -47.23,
+    "hit_rate_pct": 59.5
+  },
+  "alpha3_gross": {
+    "label": "Alpha top 3 of 9 (gross)",
+    "start": "2000-01-31",
+    "end": "2026-09-30",
+    "months": 321,
+    "total_return_pct": 608.74,
+    "cagr_pct": 7.6,
+    "ann_vol_pct": 15.87,
+    "sharpe": 0.543,
+    "max_drawdown_pct": -47.07,
+    "hit_rate_pct": 59.8
+  },
+  "alpha1": {
+    "label": "Alpha top 1 of 9 (net)",
+    "start": "2000-01-31",
+    "end": "2026-09-30",
+    "months": 321,
+    "total_return_pct": 222.71,
+    "cagr_pct": 4.48,
+    "ann_vol_pct": 21.3,
+    "sharpe": 0.313,
+    "max_drawdown_pct": -58.08,
+    "hit_rate_pct": 59.2
+  },
+  "mom3": {
+    "label": "Momentum top 3 of 9 (net)",
+    "start": "2000-01-31",
+    "end": "2026-09-30",
+    "months": 321,
+    "total_return_pct": 791.24,
+    "cagr_pct": 8.52,
+    "ann_vol_pct": 14.75,
+    "sharpe": 0.63,
+    "max_drawdown_pct": -39.18,
+    "hit_rate_pct": 61.1
+  },
+  "equal_weight": {
+    "label": "Equal-weight 9 (net)",
+    "start": "2000-01-31",
+    "end": "2026-09-30",
+    "months": 321,
+    "total_return_pct": 830.51,
+    "cagr_pct": 8.7,
+    "ann_vol_pct": 14.69,
+    "sharpe": 0.644,
+    "max_drawdown_pct": -49.16,
+    "hit_rate_pct": 65.1
+  },
+  "spy": {
+    "label": "SPY buy & hold",
+    "start": "2000-01-31",
+    "end": "2026-09-30",
+    "months": 321,
+    "total_return_pct": 730.7,
+    "cagr_pct": 8.24,
+    "ann_vol_pct": 15.13,
+    "sharpe": 0.601,
+    "max_drawdown_pct": -50.78,
+    "hit_rate_pct": 63.2
+  },
+  "avg_monthly_turnover_pct": {
+    "alpha3": 46.6,
+    "alpha1": 65.1,
+    "mom3": 45.9,
+    "equal_weight": 2.9
+  },
+  "signal_diagnostics": {
+    "avg_top3_overlap_with_momentum": 1.98,
+    "pct_alpha_abs_t_above_2": 1.3,
+    "median_abs_alpha_t": 0.58,
+    "avg_top3_alpha_pct_yr": 8.19
+  },
+  "sensitivity": {
+    "W126_N1": {
+      "cagr_pct": 4.51,
+      "sharpe": 0.318,
+      "months": 309
+    },
+    "W126_N2": {
+      "cagr_pct": 6.75,
+      "sharpe": 0.472,
+      "months": 309
+    },
+    "W126_N3": {
+      "cagr_pct": 7.95,
+      "sharpe": 0.574,
+      "months": 309
+    },
+    "W126_N4": {
+      "cagr_pct": 9.53,
+      "sharpe": 0.691,
+      "months": 309
+    },
+    "W252_N1": {
+      "cagr_pct": 5.18,
+      "sharpe": 0.346,
+      "months": 309
+    },
+    "W252_N2": {
+      "cagr_pct": 6.71,
+      "sharpe": 0.464,
+      "months": 309
+    },
+    "W252_N3": {
+      "cagr_pct": 7.2,
+      "sharpe": 0.524,
+      "months": 309
+    },
+    "W252_N4": {
+      "cagr_pct": 8.55,
+      "sharpe": 0.63,
+      "months": 309
+    },
+    "W504_N1": {
+      "cagr_pct": 5.91,
+      "sharpe": 0.394,
+      "months": 309
+    },
+    "W504_N2": {
+      "cagr_pct": 6.07,
+      "sharpe": 0.437,
+      "months": 309
+    },
+    "W504_N3": {
+      "cagr_pct": 7.73,
+      "sharpe": 0.563,
+      "months": 309
+    },
+    "W504_N4": {
+      "cagr_pct": 8.64,
+      "sharpe": 0.644,
+      "months": 309
+    }
+  },
+  "sensitivity_sample": {
+    "start": "2001-01-31",
+    "end": "2026-09-30",
+    "months": 309,
+    "equal_weight": {
+      "label": "Equal-weight 9 (net)",
+      "start": "2001-01-31",
+      "end": "2026-09-30",
+      "months": 309,
+      "total_return_pct": 821.48,
+      "cagr_pct": 9.01,
+      "ann_vol_pct": 14.62,
+      "sharpe": 0.666,
+      "max_drawdown_pct": -49.16,
+      "hit_rate_pct": 66.0
+    }
+  },
+  "timing_test": {
+    "start": "2000-02-29",
+    "end": "2026-08-31",
+    "months": 319,
+    "variants": {
+      "lag0_same": {
+        "label": "",
+        "start": "2000-02-29",
+        "end": "2026-08-31",
+        "months": 319,
+        "total_return_pct": 551.89,
+        "cagr_pct": 7.31,
+        "ann_vol_pct": 15.84,
+        "sharpe": 0.527,
+        "max_drawdown_pct": -47.23,
+        "hit_rate_pct": 59.6,
+        "top3_overlap_with_main": 3.0
+      },
+      "lag0_next": {
+        "label": "",
+        "start": "2000-02-29",
+        "end": "2026-08-31",
+        "months": 319,
+        "total_return_pct": 494.52,
+        "cagr_pct": 6.94,
+        "ann_vol_pct": 16.49,
+        "sharpe": 0.492,
+        "max_drawdown_pct": -50.7,
+        "hit_rate_pct": 62.4,
+        "top3_overlap_with_main": 3.0
+      },
+      "lag5_same": {
+        "label": "",
+        "start": "2000-02-29",
+        "end": "2026-08-31",
+        "months": 319,
+        "total_return_pct": 519.24,
+        "cagr_pct": 7.1,
+        "ann_vol_pct": 16.0,
+        "sharpe": 0.511,
+        "max_drawdown_pct": -48.84,
+        "hit_rate_pct": 59.2,
+        "top3_overlap_with_main": 2.66
+      },
+      "lag5_next": {
+        "label": "",
+        "start": "2000-02-29",
+        "end": "2026-08-31",
+        "months": 319,
+        "total_return_pct": 543.55,
+        "cagr_pct": 7.25,
+        "ann_vol_pct": 16.68,
+        "sharpe": 0.506,
+        "max_drawdown_pct": -49.11,
+        "hit_rate_pct": 62.4,
+        "top3_overlap_with_main": 2.66
+      },
+      "lag21_same": {
+        "label": "",
+        "start": "2000-02-29",
+        "end": "2026-08-31",
+        "months": 319,
+        "total_return_pct": 864.55,
+        "cagr_pct": 8.9,
+        "ann_vol_pct": 15.49,
+        "sharpe": 0.63,
+        "max_drawdown_pct": -47.53,
+        "hit_rate_pct": 61.4,
+        "top3_overlap_with_main": 2.31
+      },
+      "lag21_next": {
+        "label": "",
+        "start": "2000-02-29",
+        "end": "2026-08-31",
+        "months": 319,
+        "total_return_pct": 904.07,
+        "cagr_pct": 9.06,
+        "ann_vol_pct": 16.06,
+        "sharpe": 0.623,
+        "max_drawdown_pct": -49.82,
+        "hit_rate_pct": 62.7,
+        "top3_overlap_with_main": 2.31
+      }
+    },
+    "equal_weight": {
+      "label": "Equal-weight 9 (net)",
+      "start": "2000-02-29",
+      "end": "2026-08-31",
+      "months": 319,
+      "total_return_pct": 918.23,
+      "cagr_pct": 9.12,
+      "ann_vol_pct": 14.67,
+      "sharpe": 0.671,
+      "max_drawdown_pct": -49.16,
+      "hit_rate_pct": 65.5
+    },
+    "mom3": {
+      "label": "Momentum top 3 (net)",
+      "start": "2000-02-29",
+      "end": "2026-08-31",
+      "months": 319,
+      "total_return_pct": 875.48,
+      "cagr_pct": 8.95,
+      "ann_vol_pct": 14.68,
+      "sharpe": 0.659,
+      "max_drawdown_pct": -39.18,
+      "hit_rate_pct": 61.1
+    },
+    "equal_weight_next": {
+      "label": "Equal-weight 9, next-day close (net)",
+      "start": "2000-02-29",
+      "end": "2026-08-31",
+      "months": 319,
+      "total_return_pct": 917.96,
+      "cagr_pct": 9.12,
+      "ann_vol_pct": 15.91,
+      "sharpe": 0.631,
+      "max_drawdown_pct": -50.95,
+      "hit_rate_pct": 63.9
+    },
+    "mom3_next": {
+      "label": "Momentum top 3, next-day close (net)",
+      "start": "2000-02-29",
+      "end": "2026-08-31",
+      "months": 319,
+      "total_return_pct": 787.91,
+      "cagr_pct": 8.56,
+      "ann_vol_pct": 14.96,
+      "sharpe": 0.626,
+      "max_drawdown_pct": -42.41,
+      "hit_rate_pct": 60.8
+    }
+  },
+  "annual_returns_pct": {
+    "2000": {
+      "alpha3": 1.86,
+      "alpha1": -12.15,
+      "mom3": -5.56,
+      "equal_weight": 0.89,
+      "spy": -9.74
+    },
+    "2001": {
+      "alpha3": -22.36,
+      "alpha1": -40.51,
+      "mom3": -12.6,
+      "equal_weight": -6.97,
+      "spy": -11.76
+    },
+    "2002": {
+      "alpha3": -22.19,
+      "alpha1": -13.65,
+      "mom3": -11.12,
+      "equal_weight": -18.39,
+      "spy": -21.58
+    },
+    "2003": {
+      "alpha3": 20.54,
+      "alpha1": 16.88,
+      "mom3": 25.59,
+      "equal_weight": 28.44,
+      "spy": 28.18
+    },
+    "2004": {
+      "alpha3": 17.08,
+      "alpha1": 23.62,
+      "mom3": 11.9,
+      "equal_weight": 14.13,
+      "spy": 10.7
+    },
+    "2005": {
+      "alpha3": 15.0,
+      "alpha1": 18.96,
+      "mom3": 13.42,
+      "equal_weight": 7.86,
+      "spy": 4.83
+    },
+    "2006": {
+      "alpha3": 5.49,
+      "alpha1": 1.23,
+      "mom3": 6.04,
+      "equal_weight": 16.21,
+      "spy": 15.85
+    },
+    "2007": {
+      "alpha3": 12.73,
+      "alpha1": 3.36,
+      "mom3": 10.04,
+      "equal_weight": 9.48,
+      "spy": 5.15
+    },
+    "2008": {
+      "alpha3": -35.4,
+      "alpha1": -39.09,
+      "mom3": -27.07,
+      "equal_weight": -35.51,
+      "spy": -36.8
+    },
+    "2009": {
+      "alpha3": 20.92,
+      "alpha1": 29.41,
+      "mom3": 22.02,
+      "equal_weight": 28.12,
+      "spy": 26.35
+    },
+    "2010": {
+      "alpha3": 15.37,
+      "alpha1": 7.84,
+      "mom3": 15.37,
+      "equal_weight": 16.06,
+      "spy": 15.06
+    },
+    "2011": {
+      "alpha3": 5.48,
+      "alpha1": -13.35,
+      "mom3": -5.6,
+      "equal_weight": 3.08,
+      "spy": 1.9
+    },
+    "2012": {
+      "alpha3": 9.18,
+      "alpha1": 1.48,
+      "mom3": 8.64,
+      "equal_weight": 14.7,
+      "spy": 15.99
+    },
+    "2013": {
+      "alpha3": 31.28,
+      "alpha1": 38.6,
+      "mom3": 37.13,
+      "equal_weight": 30.83,
+      "spy": 32.31
+    },
+    "2014": {
+      "alpha3": 15.9,
+      "alpha1": 13.27,
+      "mom3": 11.18,
+      "equal_weight": 13.29,
+      "spy": 13.46
+    },
+    "2015": {
+      "alpha3": -0.71,
+      "alpha1": -6.39,
+      "mom3": -2.46,
+      "equal_weight": -1.33,
+      "spy": 1.23
+    },
+    "2016": {
+      "alpha3": 4.02,
+      "alpha1": -0.15,
+      "mom3": 1.51,
+      "equal_weight": 14.37,
+      "spy": 12.0
+    },
+    "2017": {
+      "alpha3": 14.07,
+      "alpha1": 22.32,
+      "mom3": 17.15,
+      "equal_weight": 19.22,
+      "spy": 21.71
+    },
+    "2018": {
+      "alpha3": -10.06,
+      "alpha1": -19.76,
+      "mom3": -7.22,
+      "equal_weight": -6.29,
+      "spy": -4.57
+    },
+    "2019": {
+      "alpha3": 24.63,
+      "alpha1": 18.69,
+      "mom3": 25.82,
+      "equal_weight": 27.73,
+      "spy": 31.22
+    },
+    "2020": {
+      "alpha3": 22.81,
+      "alpha1": 44.92,
+      "mom3": 22.58,
+      "equal_weight": 10.04,
+      "spy": 18.33
+    },
+    "2021": {
+      "alpha3": 25.26,
+      "alpha1": 12.85,
+      "mom3": 19.31,
+      "equal_weight": 29.53,
+      "spy": 28.73
+    },
+    "2022": {
+      "alpha3": -6.53,
+      "alpha1": 28.64,
+      "mom3": 8.67,
+      "equal_weight": -5.25,
+      "spy": -18.18
+    },
+    "2023": {
+      "alpha3": 9.45,
+      "alpha1": 17.42,
+      "mom3": 14.24,
+      "equal_weight": 13.86,
+      "spy": 26.18
+    },
+    "2024": {
+      "alpha3": 15.67,
+      "alpha1": 16.2,
+      "mom3": 16.15,
+      "equal_weight": 15.63,
+      "spy": 24.89
+    },
+    "2025": {
+      "alpha3": 12.71,
+      "alpha1": 20.58,
+      "mom3": 9.89,
+      "equal_weight": 13.41,
+      "spy": 17.72
+    },
+    "2026": {
+      "alpha3": 20.28,
+      "alpha1": -10.09,
+      "mom3": 29.66,
+      "equal_weight": 10.67,
+      "spy": 12.71
+    }
+  },
+  "regression_full": {
+    "XLB": {
+      "alpha_pct_yr": -0.4234,
+      "alpha_t": -0.159,
+      "beta_mkt": 0.9467,
+      "beta_smb": 0.0489,
+      "beta_hml": 0.3537,
+      "t_mkt": 108.6918,
+      "t_smb": 2.927,
+      "t_hml": 25.854,
+      "r2": 0.6455,
+      "days": 6984
+    },
+    "XLE": {
+      "alpha_pct_yr": 1.1174,
+      "alpha_t": 0.2945,
+      "beta_mkt": 0.95,
+      "beta_smb": 0.0109,
+      "beta_hml": 0.7296,
+      "t_mkt": 76.5795,
+      "t_smb": 0.4566,
+      "t_hml": 37.4473,
+      "r2": 0.5113,
+      "days": 6984
+    },
+    "XLF": {
+      "alpha_pct_yr": -4.2026,
+      "alpha_t": -1.9554,
+      "beta_mkt": 1.2268,
+      "beta_smb": -0.2423,
+      "beta_hml": 0.8611,
+      "t_mkt": 174.57,
+      "t_smb": -17.9797,
+      "t_hml": 78.0179,
+      "r2": 0.8392,
+      "days": 6984
+    },
+    "XLI": {
+      "alpha_pct_yr": 0.1976,
+      "alpha_t": 0.1123,
+      "beta_mkt": 0.9587,
+      "beta_smb": 0.0333,
+      "beta_hml": 0.263,
+      "t_mkt": 166.6599,
+      "t_smb": 3.0171,
+      "t_hml": 29.1135,
+      "r2": 0.8068,
+      "days": 6984
+    },
+    "XLK": {
+      "alpha_pct_yr": 2.1516,
+      "alpha_t": 1.0641,
+      "beta_mkt": 1.1834,
+      "beta_smb": -0.0962,
+      "beta_hml": -0.4832,
+      "t_mkt": 178.9794,
+      "t_smb": -7.586,
+      "t_hml": -46.5329,
+      "r2": 0.8326,
+      "days": 6984
+    },
+    "XLP": {
+      "alpha_pct_yr": 1.1791,
+      "alpha_t": 0.5506,
+      "beta_mkt": 0.5239,
+      "beta_smb": -0.2692,
+      "beta_hml": 0.0863,
+      "t_mkt": 74.8134,
+      "t_smb": -20.0447,
+      "t_hml": 7.8505,
+      "r2": 0.4524,
+      "days": 6984
+    },
+    "XLU": {
+      "alpha_pct_yr": 1.695,
+      "alpha_t": 0.5872,
+      "beta_mkt": 0.5985,
+      "beta_smb": -0.2893,
+      "beta_hml": 0.1604,
+      "t_mkt": 63.4112,
+      "t_smb": -15.9816,
+      "t_hml": 10.8212,
+      "r2": 0.3757,
+      "days": 6984
+    },
+    "XLV": {
+      "alpha_pct_yr": 2.034,
+      "alpha_t": 0.9559,
+      "beta_mkt": 0.718,
+      "beta_smb": -0.1361,
+      "beta_hml": -0.0965,
+      "t_mkt": 103.1976,
+      "t_smb": -10.1961,
+      "t_hml": -8.8307,
+      "r2": 0.6065,
+      "days": 6984
+    },
+    "XLY": {
+      "alpha_pct_yr": 0.5584,
+      "alpha_t": 0.2617,
+      "beta_mkt": 1.0091,
+      "beta_smb": 0.0308,
+      "beta_hml": 0.0125,
+      "t_mkt": 144.6154,
+      "t_smb": 2.2987,
+      "t_hml": 1.1442,
+      "r2": 0.7542,
+      "days": 6984
+    }
+  },
+  "regression_latest": {
+    "XLB": {
+      "alpha_pct_yr": -6.9613,
+      "alpha_t": -0.5251,
+      "beta_mkt": 0.883,
+      "beta_smb": 0.3512,
+      "beta_hml": 0.632,
+      "t_mkt": 12.3042,
+      "t_smb": 3.5582,
+      "t_hml": 7.9341,
+      "r2": 0.4626,
+      "days": 252
+    },
+    "XLE": {
+      "alpha_pct_yr": 25.8839,
+      "alpha_t": 1.2653,
+      "beta_mkt": 0.0018,
+      "beta_smb": -0.1788,
+      "beta_hml": 0.6875,
+      "t_mkt": 0.0161,
+      "t_smb": -1.1738,
+      "t_hml": 5.5927,
+      "r2": 0.142,
+      "days": 252
+    },
+    "XLF": {
+      "alpha_pct_yr": -16.096,
+      "alpha_t": -1.4631,
+      "beta_mkt": 0.7819,
+      "beta_smb": 0.1243,
+      "beta_hml": 0.5436,
+      "t_mkt": 13.1284,
+      "t_smb": 1.518,
+      "t_hml": 8.2226,
+      "r2": 0.4592,
+      "days": 252
+    },
+    "XLI": {
+      "alpha_pct_yr": -7.2759,
+      "alpha_t": -0.6295,
+      "beta_mkt": 1.0161,
+      "beta_smb": 0.1792,
+      "beta_hml": 0.3951,
+      "t_mkt": 16.2407,
+      "t_smb": 2.0832,
+      "t_hml": 5.6895,
+      "r2": 0.5622,
+      "days": 252
+    },
+    "XLK": {
+      "alpha_pct_yr": 18.5127,
+      "alpha_t": 1.3754,
+      "beta_mkt": 1.6254,
+      "beta_smb": -0.4279,
+      "beta_hml": -0.3646,
+      "t_mkt": 22.3066,
+      "t_smb": -4.2707,
+      "t_hml": -4.5072,
+      "r2": 0.747,
+      "days": 252
+    },
+    "XLP": {
+      "alpha_pct_yr": -0.5834,
+      "alpha_t": -0.0428,
+      "beta_mkt": 0.0285,
+      "beta_smb": 0.3634,
+      "beta_hml": 0.3973,
+      "t_mkt": 0.3857,
+      "t_smb": 3.5819,
+      "t_hml": 4.8517,
+      "r2": 0.1308,
+      "days": 252
+    },
+    "XLU": {
+      "alpha_pct_yr": -15.4067,
+      "alpha_t": -1.0426,
+      "beta_mkt": 0.2376,
+      "beta_smb": 0.1546,
+      "beta_hml": 0.3484,
+      "t_mkt": 2.9699,
+      "t_smb": 1.4055,
+      "t_hml": 3.9236,
+      "r2": 0.0811,
+      "days": 252
+    },
+    "XLV": {
+      "alpha_pct_yr": 15.7153,
+      "alpha_t": 1.0372,
+      "beta_mkt": 0.2919,
+      "beta_smb": 0.428,
+      "beta_hml": 0.2149,
+      "t_mkt": 3.5592,
+      "t_smb": 3.7942,
+      "t_hml": 2.3605,
+      "r2": 0.1344,
+      "days": 252
+    },
+    "XLY": {
+      "alpha_pct_yr": -23.7869,
+      "alpha_t": -2.0092,
+      "beta_mkt": 1.1146,
+      "beta_smb": 0.2444,
+      "beta_hml": 0.0403,
+      "t_mkt": 17.3914,
+      "t_smb": 2.7735,
+      "t_hml": 0.5659,
+      "r2": 0.6372,
+      "days": 252
+    }
+  }
+}

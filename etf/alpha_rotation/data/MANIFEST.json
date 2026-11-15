@@ -1,0 +1,14 @@
+{
+  "retrieved": "2026-11-13",
+  "factor_source": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Research_Data_Factors_daily_CSV.zip",
+  "factor_file_header": "This file was created by using the 202609 CRSP database. The Tbill return is the simple daily rate that, over the number of trading days compounds to 1-month TBill rate. The 1-month TBill rate data until 202405 are from Ibbotson Associates. Starting from 202406, the 1-month TBill rate is from ICE BofA US 1-Month Treasury Bill Index.",
+  "factor_zip_sha256": "96c23b88e651cbfff3740a53f8225e59ee39893371e96385a1d8125ec2cd9c89",
+  "raw_factors_equal_used_factors": true,
+  "files_sha256": {
+    "prices_python.csv": "5f561ee11116baf21733c314198de82f64fb39506344497f33dd8e8a63452c4a",
+    "prices_r.csv": "5baf841d594a812d47a6a486de2403479900eca1b087475bf1d0996f1a06c93a",
+    "factors_python.csv": "3f7c0ebe0822487d7f4b46de5bcb18489d583f185a300f74085f561b6bbd928a",
+    "factors_r.csv": "94a7c64e976e8d3141531658401413c036fda34bfb12b0a45810188554e21e1e"
+  },
+  "prices_source": "Yahoo Finance adjusted closes via yfinance (Python) and quantmod (R); adjusted prices can be revised"
+}

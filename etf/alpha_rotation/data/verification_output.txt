@@ -1,0 +1,24 @@
+max |Python - R| per monthly series:
+ alpha3_net         9.586804e-07
+alpha3_gross       9.590987e-07
+alpha1_net         1.591079e-06
+mom3_net           8.681275e-07
+ew_net             4.123140e-07
+spy                1.157194e-06
+turnover_alpha3    5.937017e-07
+max |alpha Python - alpha R| over 2898 month-ETF alphas (daily alpha): 3.31e-08
+max diff, regression table (full), Python numpy vs R lm(): 1.71e-04
+max diff, regression table (latest), Python numpy vs R lm(): 2.03e-05
+max sensitivity-grid diff (12 cells x CAGR,Sharpe): 0.0
+sensitivity grid: 309 months in every cell, 2001-01 to 2026-09, Python == R
+timing test: 319 months in every variant, max Python-R diff 0.0100
+timing-test benchmarks (equal-weight, momentum; month-end and next-day close) on the same months: Python == R
+hand check A -- top 3 alphas at 2008-12-31 (statsmodels): ['XLE', 'XLU', 'XLP'] {'XLE': 29.58, 'XLU': 6.88, 'XLP': 4.53} (% per year)
+max |statsmodels alpha - pipeline alpha| at 2008-12: 4.36e-11
+hand gross Jan-2009 return: -0.030524   pipeline: -0.030524
+hand check B -- turnover at 2009-02-28: drift-aware by hand 0.667482 | pipeline 0.667482 | (ignoring drift: 0.666667)
+hand check C -- max |statsmodels lag-5 alpha - pipeline| at 2008-12: 4.99e-18
+lag-5 top 3 at 2008-12-31: ['XLE', 'XLU', 'XLV'] | bought at the 2009-01-02 close, sold at the 2009-02-02 close: gross -0.041339
+max relative price difference, Python (yfinance) vs R (quantmod): 1.48e-06  rows py/r: 7000/7000
+max factor difference, Python vs R: 1.11e-16  rows py/r: 26338/26338
+ALL CHECKS PASSED
