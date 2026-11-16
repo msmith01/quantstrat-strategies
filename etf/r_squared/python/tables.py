@@ -10,7 +10,7 @@ COLS = [1, 2, 3, 4, 5]
 
 
 def f(x, d):
-    return f"{x:.{d}f}"
+    return f"{x:.{d}f}".replace("-", "−")
 
 
 def grid(key, d):
@@ -47,16 +47,35 @@ def grid(key, d):
     return out
 
 
+def _heat(v, mx):
+    if mx <= 0:
+        return ""
+    a = min(abs(v) / mx, 1) * 0.40
+    c = "190,70,60" if v < 0 else "46,140,96"
+    return f" style='background:rgba({c},{a:.2f})'"
+
+
 def sort_html(key, d, perf_label):
-    head = ("<tr><th rowspan='2'>" + perf_label + "<sub>y-1</sub></th><th colspan='5'>R&sup2;<sub>y-1</sub> quintile</th><th rowspan='2'>All</th><th rowspan='2'>Low &minus; High</th></tr>"
+    head = ("<tr><th rowspan='2'>" + perf_label + "<sub>y-1</sub></th><th colspan='5' class='qs-grp'>R&sup2;<sub>y-1</sub> quintile</th><th rowspan='2' class='qs-marg'>All</th><th rowspan='2' class='qs-marg'>Low &minus; High</th></tr>"
             "<tr><th>Low</th><th>2</th><th>3</th><th>4</th><th>High</th></tr>")
+    rows = grid(key, d)
+    inner = [float(v.replace("−", "-")) for r in rows[:5] for v, _ in r[1:6]]
+    mx = max(abs(x) for x in inner)
     body = ""
-    for row in grid(key, d):
-        body += "<tr>" + f"<th>{row[0][0]}</th>"
-        for v, t in row[1:]:
-            body += f"<td>{v}" + (f"<br><span style='color:#52514e;font-size:.88em'>({t})</span>" if t else "") + "</td>"
+    for i, row in enumerate(rows):
+        body += "<tr" + (" class='qs-sep'" if i == 5 else "") + f"><th>{row[0][0]}</th>"
+        for j, (v, t) in enumerate(row[1:]):
+            cls = []
+            sty = ""
+            if i < 5 and j < 5:
+                sty = _heat(float(v.replace("−", "-")), mx)
+            else:
+                cls.append("qs-marg")
+            if j == 5:
+                cls.append("qs-lsep")
+            body += f"<td class='{' '.join(cls)}'{sty}>{v}" + (f"<span class='qs-t'>({t})</span>" if t else "") + "</td>"
         body += "</tr>"
-    return f"<div class='qs-tw'><table class='qs-table'><thead>{head}</thead><tbody>{body}</tbody></table></div>"
+    return f"<div class='qs-tw'><table class='qs-table qs-num qs-grid'><thead>{head}</thead><tbody>{body}</tbody></table></div>"
 
 
 def sort_md(key, d, perf_label):
@@ -92,9 +111,9 @@ def reg_html(tname):
     for r in reg_rows(tname):
         body += f"<tr><th>{r[0]}</th>"
         for v, t in r[1:]:
-            body += f"<td>{v}" + (f"<br><span style='color:#52514e;font-size:.88em'>({t})</span>" if t else "") + "</td>"
+            body += f"<td>{v}" + (f"<span class='qs-t'>({t})</span>" if t else "") + "</td>"
         body += "</tr>"
-    return f"<div class='qs-tw'><table class='qs-table'><thead>{head}</thead><tbody>{body}</tbody></table></div>"
+    return f"<div class='qs-tw'><table class='qs-table qs-num'><thead>{head}</thead><tbody>{body}</tbody></table></div>"
 
 
 def reg_md(tname):
@@ -123,9 +142,9 @@ def fm_html():
     for r in fm_rows():
         body += f"<tr><th>{r[0]}</th>"
         for v, t, p in r[1:]:
-            body += f"<td>{v}" + (f"<br><span style='color:#52514e;font-size:.88em'>({t})</span><br><span style='color:#52514e;font-size:.88em'>[{p} positive]</span>" if t else "") + "</td>"
+            body += f"<td>{v}" + (f"<span class='qs-t'>({t})</span><span class='qs-t'>[{p} positive]</span>" if t else "") + "</td>"
         body += "</tr>"
-    return f"<div class='qs-tw'><table class='qs-table'><thead>{head}</thead><tbody>{body}</tbody></table></div>"
+    return f"<div class='qs-tw'><table class='qs-table qs-num'><thead>{head}</thead><tbody>{body}</tbody></table></div>"
 
 
 def fm_md():
@@ -147,7 +166,7 @@ def yearly_html():
         y = f"{r['year']}*" if r["partial_year"] else str(r["year"])
         body += (f"<tr><th>{y}</th><td>{r['n_funds']}</td><td>{r['n_portfolio']}</td><td>{r['alpha_portfolio']:.2f}</td><td>{r['alpha_all']:.2f}</td>"
                  f"<td>{r['ret_portfolio']:.1f}</td><td>{r['ret_all_funds']:.1f}</td><td>{r['ret_spy']:.1f}</td></tr>")
-    return f"<div class='qs-tw'><table class='qs-table'><thead>{head}</thead><tbody>{body}</tbody></table></div>"
+    return f"<div class='qs-tw'><table class='qs-table qs-num'><thead>{head}</thead><tbody>{body}</tbody></table></div>"
 
 
 def yearly_md():
@@ -170,7 +189,7 @@ def table1_html():
         d = 4 if k == "ir" else 3 if k == "r2_p" else 2
         body += f"<tr><th>{l}</th>" + "".join(f"<td>{T[k][c] * s:.{d}f}</td>" for c in ("mean", "median", "sd", "min", "max")) + "</tr>"
     body += f"<tr><th>Funds / fund-years</th><td colspan='5'>{T['n_funds']:,} / {T['n_fund_years']:,}</td></tr>"
-    return f"<div class='qs-tw'><table class='qs-table'><thead>{head}</thead><tbody>{body}</tbody></table></div>"
+    return f"<div class='qs-tw'><table class='qs-table qs-num'><thead>{head}</thead><tbody>{body}</tbody></table></div>"
 
 
 if __name__ == "__main__":

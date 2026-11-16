@@ -146,16 +146,16 @@ def ctl_table():
         body += f"<tr><th>{lab}</th>"
         for per, sp in cols:
             p = ct["table2"][per][sp]
-            body += (f"<td>{p['coef'][v] / sc:.3f}<br><span style='color:#52514e;font-size:.88em'>({p['t'][v]:.2f})</span></td>" if v in p["coef"] else "<td></td>")
+            body += (f"<td>{p['coef'][v] / sc:.3f}<span class='qs-t'>({p['t'][v]:.2f})</span></td>" if v in p["coef"] else "<td></td>")
         body += "</tr>"
     body += "<tr><th>Fund-years</th>" + "".join(f"<td>{ct['table2'][per][sp]['n_fund_years']:,}</td>" for per, sp in cols) + "</tr>"
-    return f"<div class='qs-tw'><table class='qs-table'><thead>{head}</thead><tbody>{body}</tbody></table></div>"
+    return f"<div class='qs-tw'><table class='qs-table qs-num'><thead>{head}</thead><tbody>{body}</tbody></table></div>"
 
 
 V["CTLTABLE"] = ctl_table()
 rows_m = [("R&sup2; &times; alpha long-short (the book&rsquo;s rule)", "r2_alpha"), ("Long leg only", "long_leg"), ("Alpha-only long-short", "alpha_only"),
           ("R&sup2;-only long-short", "r2_only"), ("All funds, equal weight", "equal_weight"), ("SPY", "spy")]
-tb = ["<div class='qs-tw'><table class='qs-table'><tr><th></th><th class='num'>CAGR</th><th class='num'>Volatility</th><th class='num'>Sharpe</th><th class='num'>Max drawdown</th><th class='num'>Monthly turnover</th></tr>"]
+tb = ["<div class='qs-tw'><table class='qs-table qs-num'><tr><th></th><th class='num'>CAGR</th><th class='num'>Volatility</th><th class='num'>Sharpe</th><th class='num'>Max drawdown</th><th class='num'>Monthly turnover</th></tr>"]
 for lab, k in rows_m:
     d = mf[k]
     to = "0%" if k == "spy" else f"{mf['turnover_pct'][k]:.0f}%"
@@ -176,6 +176,9 @@ V["FULL_TABS"] = tabs([
 ])
 
 # ---------- assemble ----------
+for _k, _v in list(V.items()):
+    if _v.startswith("<div class='qs-tw'>"):
+        V[_k] = re.sub(r"(?<=[>(\[])-(?=\d)", "&minus;", _v)
 tpl = (ROOT / "post_template.html").read_text(encoding="utf-8")
 for k, v in V.items():
     tpl = tpl.replace("{{" + k + "}}", v)
