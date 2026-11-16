@@ -53,7 +53,7 @@ def panel(dep, cols, df):
 ctrl = ["expenses", "ltna", "ltna2", "turnover", "age"]
 for tname, dep, lag in (("table2", "alpha", "alpha_lag"), ("table3", "ir", "ir_lag")):
     t = {}
-    for per, (a, b) in {"full": (2012, 2026), "early": (2012, 2018), "late": (2019, 2026)}.items():
+    for per, (a, b) in {"full": (2012, 2025), "early": (2012, 2018), "late": (2019, 2025)}.items():
         sub = use[(use.year >= a) & (use.year <= b)]
         t[per] = {"tr2": panel(dep, ["tr2", lag] + ctrl, sub), "comp": panel(dep, ["rmse_p", "sdr_p", lag] + ctrl, sub)}
     out[tname] = t

@@ -42,7 +42,7 @@ abeat = sum(1 for r in yy if r["alpha_portfolio"] > r["alpha_all"])
 apos = sum(1 for r in yy if r["alpha_portfolio"] > 0)
 gap = sorted(yy, key=lambda r: r["ret_portfolio"] - r["ret_all_funds"])
 cum = pd.read_csv(ROOT / "data/ag_cum_annual.csv", index_col=0)
-YRS = len(cum) - 0.25                                          # 2026 is January to September
+YRS = len(cum)                                                # main sample 2012-2025
 cagr = lambda s: (cum[s].iloc[-1] / 100) ** (1 / YRS) * 100 - 100
 hl_all = ag["table8_alpha"]["high_minus_low_alpha"]
 hl_pos = sum(1 for q in "12345" if hl_all[q][0] > 0)
@@ -66,7 +66,7 @@ V = {
     "sdr_coef": sg(sdr["coef"]["sdr_p"] / 100, 2), "sdr_t": sg(sdr["t"]["sdr_p"], 2),
     "ir_tr2": sg(t3["full"]["tr2"]["coef"]["tr2"], 4), "ir_tr2_t": sg(t3["full"]["tr2"]["t"]["tr2"], 2),
     "lag_coef": sg(lag["coef"]["alpha_lag"], 3), "lag_t": sg(lag["t"]["alpha_lag"], 2),
-    "yrs_beat": str(beat), "nyears": str(len(yy)), "yrs_alpha_beat": str(abeat), "yrs_alpha_pos": str(apos),
+    "u26_n": n(ag["update_2026"]["n_funds"]), "u26_np": str(ag["update_2026"]["n_portfolio"]), "u26_alpha": sg(ag["update_2026"]["alpha_portfolio"]), "u26_all": sg(ag["update_2026"]["alpha_all"]), "u26_ret": sg(ag["update_2026"]["ret_portfolio"]), "u26_retall": sg(ag["update_2026"]["ret_all_funds"]), "u26_spy": sg(ag["update_2026"]["ret_spy"]), "yrs_beat": str(beat), "nyears": str(len(yy)), "yrs_alpha_beat": str(abeat), "yrs_alpha_pos": str(apos),
     "ret_gap": f"{abs(sum(r['ret_portfolio'] - r['ret_all_funds'] for r in yy) / len(yy)):.1f}",
     "cagr_best": f"{cagr('low_r2_high_alpha'):.2f}", "cagr_all": f"{cagr('all_funds'):.2f}", "cagr_spy": f"{cagr('spy'):.2f}",
     "g_best": f"{cum['low_r2_high_alpha'].iloc[-1]:,.0f}", "g_all": f"{cum['all_funds'].iloc[-1]:,.0f}", "g_spy": f"{cum['spy'].iloc[-1]:,.0f}",
@@ -139,7 +139,7 @@ def ctl_table():
     cols = [("full", "tr2"), ("full", "comp"), ("early", "tr2"), ("early", "comp"), ("late", "tr2"), ("late", "comp")]
     names = [("tr2", "TR&sup2;", 1), ("rmse_p", "RMSE (% a day)", 100), ("sdr_p", "SDR (% a day)", 100), ("alpha_lag", "Alpha (lag)", 1), ("expenses", "Expense ratio (%)", 1),
              ("ltna", "Log(TNA)", 1), ("ltna2", "Log(TNA)&sup2;", 1), ("turnover", "Turnover (%)", 1), ("age", "Age (years)", 1)]
-    head = ("<tr><th rowspan='2'>Alpha regression with proxy controls</th><th colspan='2'>2012-2026</th><th colspan='2'>2012-2018</th><th colspan='2'>2019-2026</th></tr>"
+    head = ("<tr><th rowspan='2'>Alpha regression with proxy controls</th><th colspan='2'>2012-2025</th><th colspan='2'>2012-2018</th><th colspan='2'>2019-2025</th></tr>"
             "<tr>" + "".join(f"<th>({i})</th>" for i in range(1, 7)) + "</tr>")
     body = ""
     for v, lab, sc in names:

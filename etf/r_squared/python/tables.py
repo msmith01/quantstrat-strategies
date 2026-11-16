@@ -105,7 +105,7 @@ def reg_rows(tname):
 
 
 def reg_html(tname):
-    head = ("<tr><th rowspan='2'>Variables lagged one year</th><th colspan='4'>2012-2026</th><th colspan='2'>2012-2018</th><th colspan='2'>2019-2026</th></tr>"
+    head = ("<tr><th rowspan='2'>Variables lagged one year</th><th colspan='4'>2012-2025</th><th colspan='2'>2012-2018</th><th colspan='2'>2019-2025</th></tr>"
             "<tr>" + "".join(f"<th>({i})</th>" for i in range(1, 9)) + "</tr>")
     body = ""
     for r in reg_rows(tname):
@@ -118,7 +118,7 @@ def reg_html(tname):
 
 def reg_md(tname):
     h = "| Variable (lagged one year) | " + " | ".join(f"({i})" for i in range(1, 9)) + " |\n|---|" + "---|" * 8 + "\n"
-    h += "| *Period* | 2012-26 | 2012-26 | 2012-26 | 2012-26 | 2012-18 | 2012-18 | 2019-26 | 2019-26 |\n"
+    h += "| *Period* | 2012-25 | 2012-25 | 2012-25 | 2012-25 | 2012-18 | 2012-18 | 2019-25 | 2019-25 |\n"
     for r in reg_rows(tname):
         h += "| " + r[0].replace("&sup2;", "2") + " | " + " | ".join((f"{v} ({t})" if t else v) for v, t in r[1:]) + " |\n"
     return h

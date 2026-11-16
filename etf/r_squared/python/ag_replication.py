@@ -66,9 +66,15 @@ for y in range(2012, 2027):
     j["year"], j["fund"] = y, j.index
     rows.append(j)
 fy = pd.concat(rows, ignore_index=True)
+LAST = 2025                                                                       # main sample 2012-2025; 2026 (Jan-Sep) is reported separately
+fy26 = fy[fy.year == 2026]
+fy = fy[fy.year <= LAST]
 n_before = len(fy)
-lo, hi = fy["r2_p"].quantile(0.01), fy["r2_p"].quantile(0.99)                     # symmetric 1% trim of R2 (paper, Section 3)
+lo, hi = fy["r2_p"].quantile(0.01), fy["r2_p"].quantile(0.99)                     # symmetric 1% trim of R2 (paper, Section 3), main sample
 fy = fy[(fy.r2_p >= lo) & (fy.r2_p <= hi)].reset_index(drop=True)
+fy26 = fy26[(fy26.r2_p >= lo) & (fy26.r2_p <= hi)].reset_index(drop=True)
+for _d in (fy26,):
+    _d["tr2"] = np.log(np.sqrt(_d.r2_p) / (1 - np.sqrt(_d.r2_p)))
 fy["tr2"] = np.log(np.sqrt(fy.r2_p) / (1 - np.sqrt(fy.r2_p)))
 fy["style"] = meta.loc[fy.fund, "yahoo_category"].to_numpy()
 fy.to_csv(ROOT / "data/ag_fund_years.csv", index=False)
@@ -122,7 +128,7 @@ def sort_tables(df, dep, lag, independent):
             "low_minus_high_r2": lowhigh, "high_minus_low_alpha": highlow, "ts_lowR2_highAlpha": ts, "df": df}
 
 
-out = {"params": {"first_test_year": 2012, "last_test_year": 2026, "last_price_date": str(px.index[-1].date()), "last_factor_date": str(ff.index[-1].date()),
+out = {"params": {"first_test_year": 2012, "last_test_year": LAST, "last_price_date": str(px.index[-1].date()), "last_factor_date": str(ff.index[-1].date()),
                   "funds_after_index_filter": len(tick), "index_named_excluded": int(is_index.sum()),
                   "pairs_before_trim": int(n_before), "pairs_after_trim": int(len(fy)), "r2_trim_low": float(lo), "r2_trim_high": float(hi),
                   "min_days_prior": MIN_PRIOR, "min_days_test": MIN_TEST}}
@@ -132,7 +138,7 @@ out["table1"]["n_funds"], out["table1"]["n_fund_years"] = int(fy.fund.nunique())
 fy["alpha_lag"], fy["ir_lag"] = fy["alpha_p"], fy["ir_p"]
 for tname, dep, lagc in (("table2", "alpha", "alpha_lag"), ("table3", "ir", "ir_lag")):
     t = {}
-    for per, (a, b) in {"full": (2012, 2026), "early": (2012, 2018), "late": (2019, 2026)}.items():
+    for per, (a, b) in {"full": (2012, LAST), "early": (2012, 2018), "late": (2019, LAST)}.items():
         sub = fy[(fy.year >= a) & (fy.year <= b)]
         t[per] = {"tr2": panel(dep, ["tr2"], sub), "tr2_lag": panel(dep, ["tr2", lagc], sub),
                   "comp": panel(dep, ["rmse_p", "sdr_p"], sub), "comp_lag": panel(dep, ["rmse_p", "sdr_p", lagc], sub)}
@@ -166,7 +172,7 @@ ye.index = ye.index.year
 yret = (ye / ye.shift(1) - 1) * 100                                         # calendar-year total return by fund and SPY
 rows = []
 for y in range(2012, 2027):
-    g = dfq[dfq.year == y]
+    g = dfq[dfq.year == y] if y <= LAST else sort_tables(fy26, "alpha", "alpha_p", False)["df"]
     port = g[(g.qr == 1) & (g.qa == 5)]
     short = g[(g.qr == 5) & (g.qa == 1)]
     allr = yret.loc[y, g.fund].astype(float)
@@ -177,12 +183,14 @@ for y in range(2012, 2027):
                  "ret_portfolio": float(pr.mean()), "ret_all_funds": float(allr.mean()), "ret_spy": float(yret.loc[y, "SPY"]),
                  "ret_hiR2_lowalpha": float(sr.mean()), "ret_long_short": float(pr.mean() - sr.mean()),
                  "partial_year": bool(y == 2026)})
-yy = pd.DataFrame(rows)
-yy.to_csv(ROOT / "data/ag_yearly.csv", index=False)
-out["yearly"] = rows
+yy_all = pd.DataFrame(rows)
+yy_all.to_csv(ROOT / "data/ag_yearly.csv", index=False)
+yy = yy_all[yy_all.year <= LAST].reset_index(drop=True)
+out["yearly"] = rows[:-1]
+out["update_2026"] = rows[-1]
 cum = pd.DataFrame({"low_r2_high_alpha": ((1 + yy.ret_portfolio / 100).cumprod() * 100).to_numpy(), "all_funds": ((1 + yy.ret_all_funds / 100).cumprod() * 100).to_numpy(),
                     "spy": ((1 + yy.ret_spy / 100).cumprod() * 100).to_numpy()}, index=yy.year.to_numpy())
-out["annual_summary"] = {k: {"cagr_pct": float(((cum[k].iloc[-1] / 100) ** (1 / (len(cum) - 0.25)) - 1) * 100),
+out["annual_summary"] = {k: {"cagr_pct": float(((cum[k].iloc[-1] / 100) ** (1 / len(cum)) - 1) * 100),
                              "years_beating_all_funds": int((yy.ret_portfolio > yy.ret_all_funds).sum()) if k == "low_r2_high_alpha" else None}
                          for k in cum.columns}
 cum.to_csv(ROOT / "data/ag_cum_annual.csv")

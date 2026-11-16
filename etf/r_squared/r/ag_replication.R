@@ -37,8 +37,8 @@ year_fit <- function(y) {
   }
   res
 }
-fits <- setNames(lapply(2011:2026, year_fit), 2011:2026)
-rows <- lapply(2012:2026, function(y) {
+fits <- setNames(lapply(2011:2025, year_fit), 2011:2025)
+rows <- lapply(2012:2025, function(y) {
   a <- fits[[as.character(y - 1)]]; b <- fits[[as.character(y)]]
   keep <- !is.na(a[, "alpha"]) & a[, "n"] >= MIN_PRIOR & !is.na(b[, "alpha"])
   data.frame(year = y, fund = tick[keep], alpha_p = a[keep, "alpha"], r2_p = a[keep, "r2"], rmse_p = a[keep, "rmse"],

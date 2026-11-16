@@ -18,7 +18,7 @@ plt.rcParams.update({"font.family": "DejaVu Sans", "axes.edgecolor": GRID, "axes
                      "axes.spines.right": False, "axes.grid": True, "grid.color": GRID, "grid.linewidth": 0.7, "figure.dpi": 100})
 res = json.load(open(ROOT / "data/results_ag_python.json"))
 yy = pd.read_csv(ROOT / "data/ag_yearly.csv")
-SRC = "Source: Yahoo Finance fund prices, Kenneth French data library; author calculations. Test years 2012-2026 (2026 to 30 Sep)."
+SRC = "Source: Yahoo Finance fund prices, Kenneth French data library; author calculations. Test years 2012-2025."
 
 
 def save(fig, name):
