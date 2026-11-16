@@ -1,0 +1,1459 @@
+kept,name,n_classes,classes
+AAAGX,Thrivent Large Cap Growth A,1,AAAGX
+AADEX,American Beacon Large Cap Value R5,6,AADEX AAGPX AVASX ABLYX ALVAX ALVCX
+AAGOX,Alger Large Cap Growth I-2,1,AAGOX
+AASCX,Thrivent Mid Cap Stock A,2,AASCX TMSIX
+AASMX,Thrivent Small Cap Stock A,2,AASMX TSCSX
+AAUTX,Thrivent Large Cap Value A,1,AAUTX
+ABASX,AB Discovery Value A,3,ABASX ABYSX ABSIX
+ABVAX,AB Large Cap Value A,4,ABVAX ABVCX ABVYX ABVIX
+ACAAX,Alger Capital Appreciation A,3,ACAAX ACARX ACAZX
+ACFCX,American Century Focused Dynamic Gr R,4,ACFCX ACFDX ACFOX ACFSX
+ACGIX,Invesco Growth and Income A,5,ACGIX ACGKX ACGLX ACGMX ACGQX
+ACIIX,American Century Equity Income I,1,ACIIX
+ACLCX,American Century Value C,1,ACLCX
+ACMVX,American Century Mid Cap Value Inv,5,ACMVX AVUAX ACLAX AMVRX ACCLX
+ACRNX,Columbia Acorn Inst,2,ACRNX LACAX
+ACSCX,American Century Small Cap Value A,1,ACSCX
+ACSMX,Advisors Capital Small/Mid Cap,1,ACSMX
+ACSTX,Invesco Comstock A,5,ACSTX ACSYX ACSRX ACSDX ACSHX
+ACUIX,Columbia Dividend Opportunity C,1,ACUIX
+ACVIX,American Century Small Cap Value I,1,ACVIX
+ACWDX,AMG GW&K Small/Mid Cap Growth N,2,ACWDX ACWIX
+ADCIX,American Century Disciplined Growth I,5,ADCIX ADCVX ADRRX ADSIX ADCCX
+ADECX,Columbia Intrinsic Value C,1,ADECX
+ADGAX,AB Core Opportunities A,3,ADGAX ADGIX ADGYX
+ADJEX,Azzad Ethical,1,ADJEX
+ADKSX,Adirondack Small Cap,1,ADKSX
+AEURX,American Century Equity Income R,1,AEURX
+AEYIX,American Century Equity Income C,1,AEYIX
+AFAZX,Applied Finance Dividend Institutional,1,AFAZX
+AFDAX,American Century Large Cap Equity A,5,AFDAX AFDCX AFDIX AFDRX AFEIX
+AGFCX,Alger Responsible Investing C,1,AGFCX
+AGIFX,Alger Responsible Investing I,1,AGIFX
+AGIRX,Alger Mid Cap Growth Institutional R,1,AGIRX
+AGRFX,AB Growth A,3,AGRFX AGRYX AGFIX
+AGSCX,Alger Small Cap Growth C,1,AGSCX
+AGTHX,American Funds Growth Fd of Amer A,13,AGTHX GFACX GFAFX CGFAX CGFCX CGFEX RGAFX RGABX RGACX RGAEX RGAAX GFFFX RGAGX
+AIGOX,Alger Growth & Income I-2,3,AIGOX ALBAX ALBCX
+AIVSX,American Funds Invmt Co of Amer A,13,AIVSX AICCX AICFX CICAX CICCX CICEX RICFX RICBX RICEX RICCX RICAX ICAFX RICGX
+ALARX,Alger Capital Appreciation Instl I,1,ALARX
+ALFAX,Lord Abbett Alpha Strategy A,6,ALFAX ALFCX ALFYX ALFFX ALFQX ALFRX
+ALGRX,Alger Focus Equity I,1,ALGRX
+ALMAX,Alger Weatherbie Specialized Growth A,3,ALMAX ASIMX ASMZX
+ALPAX,American Century Focused Lg Cap Val A,1,ALPAX
+ALPCX,American Century Focused Lg Cap Val C,1,ALPCX
+ALSAX,Alger Small Cap Growth A,2,ALSAX ASCZX
+ALSRX,Alger Small Cap Growth Institutional I,1,ALSRX
+ALVIX,American Century Focused Lg Cap Val Inv,1,ALVIX
+ALVOX,Alger Capital Appreciation Ptfl I-2,1,ALVOX
+ALVRX,American Century Focused Lg Cap Val R,1,ALVRX
+ALVSX,American Century Focused Lg Cap Val I,1,ALVSX
+AMAGX,Amana Growth Investor,1,AMAGX
+AMANX,Amana Income Investor,1,AMANX
+AMCFX,American Funds AMCAP F-2,2,AMCFX RAFGX
+AMCPX,American Funds AMCAP A,11,AMCPX AMPCX AMPFX CAFAX CAFCX CAFEX RAFFX RAFEX RAFBX RAFCX RAFAX
+AMRAX,"American Growth Fund, Inc. - American Growth Fund Series One",1,AMRAX
+AMRBX,"American Growth Fund, Inc. - American Growth Fund Series One",1,AMRBX
+AMRCX,"American Growth Fund, Inc. - American Growth Fund Series One",1,AMRCX
+AMRFX,American Funds American Mutual F-2,2,AMRFX RMFGX
+AMRGX,"American Growth Fund, Inc. - American Growth Fund Series One",1,AMRGX
+AMRMX,American Funds American Mutual A,11,AMRMX AMFCX AMFFX CMLAX CMLCX CMLEX RMFFX RMFBX RMFCX RMFAX RMFEX
+ANCFX,American Funds Fundamental Invs A,13,ANCFX AFICX AFIFX CFNAX CFNCX CFNEX RFNFX RFNBX RFNCX RFNAX RFNEX FINFX RFNGX
+ANOIX,American Century Small Cap Growth Inv,5,ANOIX ANOAX ANOCX ANONX ANORX
+ANVIX,Virtus NFJ Large-Cap Value Fund Inst,2,ANVIX PNBAX
+AOFAX,Alger Small Cap Focus A,2,AOFAX AOFCX
+AOFIX,Alger Small Cap Focus I,2,AOFIX AGOZX
+APGAX,AB Large Cap Growth A,3,APGAX APGYX ALLIX
+AQEAX,Columbia Disciplined Core A,1,AQEAX
+AQEIX,LKCM Aquinas Catholic Equity,1,AQEIX
+ARDEX,AMG River Road Dividend All Cap Value N,1,ARDEX
+ARFFX,Ariel Focus Investor,1,ARFFX
+ARGFX,Ariel Fund Investor,1,ARGFX
+ARIDX,AMG River Road Dividend All Cap Value I,1,ARIDX
+ARIMX,AMG River Road Small-Mid Cap Value I,1,ARIMX
+ARSKX,Archer Stock,1,ARSKX
+ARSMX,AMG River Road Small-Mid Cap Value N,1,ARSMX
+ARSTX,Nuveen Small Cap Select I,1,ARSTX
+ARSVX,AMG River Road Small Cap Value N,2,ARSVX ARSIX
+ARTMX,Artisan Mid Cap Investor,2,ARTMX APHMX
+ARTSX,Artisan Small Cap Investor,1,ARTSX
+ASCGX,Lisanti Small Cap Growth,1,ASCGX
+ASCQX,American Century Small Company I,4,ASCQX ASQAX ASCRX ASQCX
+ASMMX,Invesco Summit A,1,ASMMX
+ASQIX,American Century Small Company Inv,1,ASQIX
+ASVIX,American Century Small Cap Value Inv,1,ASVIX
+ASVNX,American Century Small Cap Value C,1,ASVNX
+ASVRX,American Century Small Cap Value R,1,ASVRX
+ATGAX,Cantor Fitzgerald Equity Opp A,2,ATGAX ATGYX
+AUERX,Auer Growth,1,AUERX
+AUIAX,AB Equity Income A,4,AUIAX AUICX AUIYX AUIIX
+AUXFX,Auxier Focus Inv,2,AUXFX AUXAX
+AVEDX,Ave Maria Rising Dividend,1,AVEDX
+AVEGX,Ave Maria Growth,1,AVEGX
+AVEMX,Ave Maria Value,1,AVEMX
+AVERX,Ave Maria Value Focused,1,AVERX
+AVFIX,American Beacon Small Cp Val R5,6,AVFIX AVPAX AASSX ABSYX ABSAX ASVCX
+AVLIX,American Century Value I,1,AVLIX
+AVURX,American Century Value R,1,AVURX
+AWEIX,CIBC Atlas Disciplined Equity Instl,1,AWEIX
+AWGIX,CIBC Atlas All Cap Growth Institutional,1,AWGIX
+AWSHX,American Funds Washington Mutual A,11,AWSHX WSHCX WSHFX CWMAX CWMCX CWMEX RWMFX RWMEX RWMAX RWMBX RWMCX
+AWYIX,CIBC Atlas Equity Income Institutional,1,AWYIX
+BAEIX,Sterling Capital Equity Income A,3,BAEIX BCEGX BEGIX
+BAFAX,Brown Advisory Flexible Equity Adv,1,BAFAX
+BAFSX,Brown Advisory Small-Cap Growth Inst,2,BAFSX BASAX
+BARAX,Baron Asset Retail,2,BARAX BARIX
+BBTGX,Sterling Capital Behav Lg Cp Val Eq A,3,BBTGX BBISX BCVCX
+BCIFX,Blue Chip Investor,1,BCIFX
+BDBKX,iShares Russell 2000 Small-Cap Idx K,1,BDBKX
+BEQGX,American Century Disciplined Core Eq Inv,4,BEQGX BEQAX AEYCX AEYRX
+BERCX,Carillon Chartwell Mid Cap Value I,1,BERCX
+BFGBX,BlackRock Capital Appreciation K,1,BFGBX
+BFGFX,Baron Focused Growth Retail,2,BFGFX BFGIX
+BFONX,Biondo Focus Investor,1,BFONX
+BFTHX,Baron Fifth Avenue Growth Retail,2,BFTHX BFTIX
+BGFIX,William Blair Growth I,1,BGFIX
+BGRFX,Baron Generational Growth Retail,2,BGRFX BGRIX
+BGRWX,Barrett Growth Retail,1,BGRWX
+BHBFX,Madison Dividend Income Y,1,BHBFX
+BIAFX,Brown Advisory Flexible Equity Inv,1,BIAFX
+BIAGX,Brown Advisory Growth Equity Inv,1,BIAGX
+BIASX,Brown Advisory Small-Cap Growth Inv,1,BIASX
+BIAUX,Brown Advisory Small-Cap Fdmtl Val Inv,1,BIAUX
+BIGRX,American Century Disciplined Value Inv,5,BIGRX AMADX AMGIX ACGCX AICRX
+BIOPX,Baron Opportunity Retail,2,BIOPX BIOIX
+BMCAX,BlackRock Advantage Large Cap Gr Inv A,4,BMCAX BMCCX CMVIX BMCRX
+BMDIX,Baird Mid Cap Growth Institutional,2,BMDIX BMDSX
+BMGAX,BlackRock Mid-Cap Growth Equity Inv A,5,BMGAX BMGCX CMGIX CMGSX BMRRX
+BMPEX,Beck Mack + Oliver Partners,1,BMPEX
+BOGIX,SGI Small Cap Core Fund I Shares,1,BOGIX
+BOPAX,Sterling Capital Special Opps A,3,BOPAX BOPCX BOPIX
+BOSOX,Boston Trust Walden Small Cap,1,BOSOX
+BOYAX,Boyar Value,1,BOYAX
+BPAIX,Boston Partners All Cap Value Instl,2,BPAIX BPAVX
+BPSCX,Boston Partners Small Cap Value II Inv,2,BPSCX BPSIX
+BPTRX,Baron Partners Retail,2,BPTRX BPTIX
+BQLCX,Bright Rock Quality Large Cap Instl,1,BQLCX
+BQMGX,Bright Rock Mid Cap Growth Instl,1,BQMGX
+BRGIX,Bridges Investment Fund,1,BRGIX
+BRGKX,iShares Russell 1000 Large-Cap Idx K,3,BRGKX BRGAX BRGNX
+BRLGX,American Beacon Man Lg Cp Growth R5,1,BRLGX
+BRLVX,American Beacon Man Lg Cp Value R5,1,BRLVX
+BRTNX,Bretton Fund,1,BRTNX
+BRUSX,Bridgeway Ultra-Small Company,1,BRUSX
+BSCFX,Baron Small Cap Retail,2,BSCFX BSFIX
+BTEFX,Boston Trust Equity,1,BTEFX
+BTIEX,DWS Equity 500 Index S,5,BTIEX BTIIX SCPIX SXPAX SXPCX
+BTMFX,Boston Trust Midcap,1,BTMFX
+BUFBX,Buffalo Flexible Allocation,1,BUFBX
+BUFEX,Buffalo Blue Chip Growth,1,BUFEX
+BUFGX,Buffalo Growth,1,BUFGX
+BUFMX,Buffalo Mid Cap Growth,1,BUFMX
+BUFOX,Buffalo Early Stage Growth Fd,1,BUFOX
+BUFSX,Buffalo Small Cap Growth,1,BUFSX
+BUFTX,Buffalo Mid Cap Discovery,1,BUFTX
+BVEFX,Becker Equity Fund Retail,1,BVEFX
+BVSIX,Baywood Socially Responsible Instl,1,BVSIX
+CAAPX,Ariel Appreciation Investor,1,CAAPX
+CABDX,AB Relative Value A,1,CABDX
+CAMLX,Congress Large Cap Growth Retail,2,CAMLX CMLIX
+CAMMX,Cambiar SMID Investor,1,CAMMX
+CAMOX,Cambiar Opportunity Inv,2,CAMOX CAMWX
+CAMSX,Cambiar Small Cap Inv,2,CAMSX CAMZX
+CBBCX,AB Relative Value C,1,CBBCX
+CBBIX,AB Relative Value I,1,CBBIX
+CBBYX,AB Relative Value Advisor,1,CBBYX
+CBEAX,Allspring Large Cap Value CL A,1,CBEAX
+CBLSX,Allspring Large Cap Value Inst,1,CBLSX
+CCASX,Conestoga Small Cap Investors,1,CCASX
+CCRZX,Columbia Disciplined Core Inst,1,CCRZX
+CCVAX,Calvert Small-Cap A,3,CCVAX CSCCX CSVIX
+CDGCX,Crawford Large Cap Dividend C,1,CDGCX
+CDGIX,Crawford Large Cap Dividend I,1,CDGIX
+CDGRX,Copeland Dividend Growth Fund Class A,1,CDGRX
+CDOZX,Columbia Dividend Opportunity Inst,1,CDOZX
+CFAGX,Commerce MidCap Growth,1,CFAGX
+CFGRX,Commerce Growth,1,CFGRX
+CFLGX,ClearBridge Tactical Dividend Income A,2,CFLGX SMDLX
+CFVLX,Commerce Value,1,CFVLX
+CGRWX,Invesco Comstock Select A,4,CGRWX CGRCX CGRYX CGRNX
+CHAIX,Chase Growth Institutional,1,CHAIX
+CHASX,Chase Growth N,1,CHASX
+CHCGX,Chesapeake Growth,1,CHCGX
+CHCLX,AB Discovery Growth A,3,CHCLX CHCYX CHCIX
+CHDEX,Cullen High Dividend Equity Retail,3,CHDEX CHDVX CHVCX
+CHTRX,Invesco Charter A,6,CHTRX CHTVX CHTCX CHRRX CHTYX CHRSX
+CHTTX,AMG River Road Mid Cap Value N,2,CHTTX ABMIX
+CIAOX,Capital Advisors Growth Investor,1,CIAOX
+CIPMX,Champlain Mid Cap Adv,2,CIPMX CIPIX
+CIPSX,Champlain Small Company Adv,1,CIPSX
+CISIX,Calvert US Large Cap Core Rspnb Idx I,3,CISIX CSXAX CSXCX
+CLQZX,Columbia Disciplined Growth Inst,1,CLQZX
+CLSPX,Columbia Select Mid Cap Gro Fd I,5,CLSPX CBSAX CMCCX CMGYX CMGVX
+CMNWX,Principal Capital Appreciation A,4,CMNWX PWCIX PCAOX PCAQX
+CMSCX,Columbia Small Cap Growth Inst,5,CMSCX CGOAX CGOCX CSGYX CCRIX
+CNREX,Commonwealth Real Estate Securities,1,CNREX
+COPLX,Copley Fund,1,COPLX
+COVAX,Columbia Sm Cp Val and Inflection A,3,COVAX NSVAX CCTRX
+CPOAX,Morgan Stanley Insight A,3,CPOAX CPOCX CPODX
+CRIAX,CRM Small/Mid Cap Value Inst,2,CRIAX CRMAX
+CRIEX,CRM All Cap Value Inst,1,CRIEX
+CRIMX,CRM Mid Cap Value Instl,2,CRIMX CRMMX
+CRISX,CRM Small Cap Value Instl,1,CRISX
+CRMEX,CRM All Cap Value Inv,1,CRMEX
+CRMSX,CRM Small Cap Value Inv,1,CRMSX
+CSIEX,Calvert Equity A,3,CSIEX CSECX CEYIX
+CSMCX,Congress Small Cap Growth Institutional,2,CSMCX CSMVX
+CSMIX,Columbia Small Cap Value Discv A,4,CSMIX CSCZX CSVYX CSVRX
+CSSCX,Columbia Small Cap Value Discv C,1,CSSCX
+CUSEX,Capital Group US Equity,1,CUSEX
+CUSIX,Cullen Small Cap Value I,3,CUSIX CUSRX CUSCX
+CVAAX,Calamos Select Fund A,3,CVAAX CVACX CVAIX
+CVFCX,Victory Pioneer Disciplined Value A,3,CVFCX CVCFX CVFYX
+CVGRX,Calamos Growth A,3,CVGRX CVGCX CGRIX
+CVQZX,Columbia Disciplined Value Inst,1,CVQZX
+CZOVX,Zacks All-Cap Core Institutional,1,CZOVX
+DAGVX,BNY Mellon Dynamic Value Fund A,3,DAGVX DCGVX DRGVX
+DALCX,Dean Mid Cap Value,1,DALCX
+DALVX,Dunham Large Cap Value A,1,DALVX
+DASCX,Dean Small Cap Value,1,DASCX
+DAVPX,Davenport Core Leaders Fund,1,DAVPX
+DCCAX,Nomura Small Cap Core A,4,DCCAX DCCIX DCCCX DCCRX
+DCDGX,Dunham Small Cap Growth C,3,DCDGX DNDGX DADGX
+DCLVX,Dunham Large Cap Value C,2,DCLVX DNLVX
+DCSVX,Dunham Small Cap Value C,3,DCSVX DNSVX DASVX
+DDVAX,Nomura Value A,2,DDVAX DDVIX
+DDVCX,Nomura Value C,2,DDVCX DDVRX
+DEOPX,Davenport Equity Opportunities,1,DEOPX
+DESAX,DWS Enhanced Core Equity A,5,DESAX DESCX DESGX DESSX DESRX
+DEVLX,Nomura Small Cap Value A,4,DEVLX DEVIX DEVCX DVLRX
+DEYCX,BNY Mellon Large Cap Equity C,1,DEYCX
+DFDPX,DF Dent Premier Growth Investor,1,DFDPX
+DFELX,DFA Enhanced US Large Company I,1,DFELX
+DFEOX,DFA U.S. Core Equity 1 I,1,DFEOX
+DFFVX,DFA U.S. Targeted Value I,1,DFFVX
+DFLVX,DFA US Large Cap Value I,2,DFLVX DFUVX
+DFMAX,Davidson Multi-Cap Equity A,1,DFMAX
+DFQTX,DFA U.S. Core Equity 2 Instl,1,DFQTX
+DFSCX,DFA US Micro Cap I,1,DFSCX
+DFSIX,DFA US Sustainability Core 1,1,DFSIX
+DFSTX,DFA U.S. Small Cap I,1,DFSTX
+DFSVX,DFA U.S. Small Cap Value I,1,DFSVX
+DFUEX,DFA US Social Core Equity 2 Portfolio,1,DFUEX
+DFUSX,DFA US Large Company I,1,DFUSX
+DFVEX,DFA U.S. Vector Equity I,1,DFVEX
+DGAGX,BNY Mellon Appreciation Investor,1,DGAGX
+DHLAX,Diamond Hill Large Cap Inv,2,DHLAX DHLRX
+DHLTX,Diamond Hill Select I,2,DHLTX DHTAX
+DHMAX,Diamond Hill Small-Mid Cap Inv,2,DHMAX DHMIX
+DHSCX,Diamond Hill Small Cap Inv,2,DHSCX DHSIX
+DIEQX,Domini Impact Equity Institutional,1,DIEQX
+DISSX,BNY Mellon Small Cap Stock Index Inv,1,DISSX
+DLBMX,MassMutual Small Cap Opps A,3,DLBMX MSCLX MSVYX
+DLQAX,BNY Mellon Large Cap Equity A,2,DLQAX DLQIX
+DMCVX,BNY Mellon Midcap Value Fund A,3,DMCVX DVLCX DVLIX
+DNLDX,BNY Mellon Active MidCap A,3,DNLDX DNLCX DNLRX
+DODGX,Dodge & Cox Stock I,1,DODGX
+DQIAX,BNY Mellon Equity Income Fund A,3,DQIAX DQICX DQIRX
+DREQX,BNY Mellon Research Growth Z,4,DREQX DWOAX DWOCX DWOIX
+DREVX,BNY Mellon Large Cap Securities Inc,1,DREVX
+DRIPX,The MP 63,1,DRIPX
+DRMCX,Virtus Silvant Mid-Cap Growth Inst,1,DRMCX
+DRSVX,North Square Small Cap Value Investor,2,DRSVX DRISX
+DRTCX,BNY Mellon Sust US Equity I,2,DRTCX DTCCX
+DRTHX,BNY Mellon Sustainable US Eq Fd Z,2,DRTHX DTCAX
+DSEFX,Domini Impact Equity Investor,1,DSEFX
+DTLGX,Wilshire Large Company Growth Invmt,2,DTLGX WLCGX
+DTLVX,Wilshire Large Company Value Invmt,2,DTLVX WLCVX
+DTSGX,Wilshire Small Company Growth Invmt,2,DTSGX WSMGX
+DTSVX,Wilshire Small Company Value Invmt,2,DTSVX WSMVX
+DVIPX,Davenport Value & Income,1,DVIPX
+EACPX,Eaton Vance Tax-Managed Multi-Cap Gr A,2,EACPX ECCPX
+EAERX,Eaton Vance Stock A,3,EAERX EIERX ECERX
+EAFGX,Eaton Vance Focused Growth Opps A,3,EAFGX ECFGX EIFGX
+EAFVX,Eaton Vance Focused Value Opps A,3,EAFVX ECFVX EIFVX
+EALCX,Eaton Vance Growth A,4,EALCX ECLCX ELCIX ELCRX
+EATVX,Eaton Vance Tx-Mgd Value A,3,EATVX ECTVX EITVX
+EGOAX,Allspring Large Cap Core A,3,EGOAX EGOCX EGOIX
+EHSTX,Eaton Vance Large-Cap Value A,4,EHSTX ECSTX ERSTX EILVX
+EICIX,EIC Value Institutional,1,EICIX
+EICVX,EIC Value A,1,EICVX
+EILGX,Eaton Vance Atlanta Capital Focused Gr I,3,EILGX EAALX EAGCX
+EISMX,Eaton Vance Atlanta Capital SMID-Cap I,2,EISMX EAASX
+EIUTX,Eaton Vance Dividend Builder I,1,EIUTX
+EIVAX,Allspring Special Large Cap Value A,1,EIVAX
+EIVDX,Allspring Special Large Cap Value Admin,1,EIVDX
+EIVIX,Allspring Special Large Cap Value Inst,1,EIVIX
+EKJAX,Allspring Premier Large Co Gr A,3,EKJAX EKJYX WFPDX
+ELFNX,Elfun Trusts,1,ELFNX
+ELGAX,Columbia Select Large Cap Growth A,1,ELGAX
+EMCAX,Empiric Class A,2,EMCAX EMCCX
+EMGRX,Nuveen Small Cap Select A,1,EMGRX
+EPLCX,NYLIM Epoch U.S. Equity Yield Class I,4,EPLCX EPLPX EPLIX EPLKX
+EQPGX,Fidelity Advisor Equity Growth I,6,EQPGX FAEGX EPGAX EPGCX FDSVX FGDKX
+ERSMX,Eaton Vance Atlanta Capital SMID-Cap R,2,ERSMX ECASX
+ESPAX,Allspring Special Small Cap Value A,3,ESPAX ESPIX ESPNX
+ETEGX,Eaton Vance Small-Cap A,4,ETEGX ECSMX EISGX ERSGX
+ETGLX,Eventide Gilead N,4,ETGLX ETAGX ETCGX ETILX
+ETMGX,Eaton Vance Tx-Mgd Small-Cap A,3,ETMGX ECMGX EIMGX
+ETTGX,Eaton Vance Tx-Mgd Growth 1.1 A,7,ETTGX CAPEX ECTGX EXTGX EZTGX EITGX EITMX
+EVSAX,Allspring Disciplined US Core A,1,EVSAX
+EVSTX,Allspring Disciplined US Core C,2,EVSTX EVSIX
+EVTMX,Eaton Vance Dividend Builder A,2,EVTMX ECTMX
+EWMCX,Evercore Equity,1,EWMCX
+EXEYX,Manning & Napier Equity Series S,1,EXEYX
+FAGOX,Fidelity Advisor Growth Opps M,4,FAGOX FACGX FAGAX FAGCX
+FAMEX,FAM Dividend Focus Fund Investor,1,FAMEX
+FAMVX,FAM Value Investor,1,FAMVX
+FASEX,Nuveen Mid Cap Value Opportunities A,3,FASEX FSEIX FACSX
+FASPX,Fidelity Advisor Value Strategies M,6,FASPX FSLSX FASOX FSOAX FVCSX FVSKX
+FBCVX,Fidelity Blue Chip Value,1,FBCVX
+FBGRX,Fidelity Blue Chip Growth,2,FBGRX FBGKX
+FCIGX,Fidelity Advisor Small Cap Growth I,5,FCIGX FCAGX FCCGX FCPGX FCTGX
+FCNTX,Fidelity Contrafund,2,FCNTX FCNKX
+FCPVX,Fidelity Small Cap Value Fund,5,FCPVX FCVAX FCVCX FCVIX FCVTX
+FCSGX,Franklin Small Cap Growth C,4,FCSGX FSGRX FSSAX FSSRX
+FDCAX,Fidelity Capital Appreciation,2,FDCAX FCAKX
+FDEGX,Fidelity Growth Strategies,2,FDEGX FAGKX
+FDEQX,Fidelity Disciplined Equity,2,FDEQX FDEKX
+FDESX,Fidelity Advisor Diversified Stock O,5,FDESX FDTOX FDTCX FDTEX FDTIX
+FDETX,Fidelity Advisor Capital Development O,5,FDETX FDTTX FDECX FDTZX FDEIX
+FDGFX,Fidelity Dividend Growth,2,FDGFX FDGKX
+FDGRX,Fidelity Growth Company Fund,2,FDGRX FGCKX
+FDSCX,Fidelity Stock Selector Small Cap,5,FDSCX FCDAX FCDCX FCDIX FCDTX
+FDSSX,Fidelity Stock Selec,2,FDSSX FSSKX
+FDVLX,Fidelity Value,6,FDVLX FAVFX FCVFX FTVFX FVIFX FVLKX
+FEAMX,First Eagle Rising Dividend Fund C,1,FEAMX
+FEFAX,First Eagle Rising Dividend Fund A,1,FEFAX
+FEIFX,Franklin Equity Income Adv,1,FEIFX
+FEQIX,Fidelity Equity-Income,2,FEQIX FEIKX
+FEQTX,Fidelity Equity Dividend Income,2,FEQTX FETKX
+FFEIX,Nuveen Dividend Value A,3,FFEIX FAQIX FFECX
+FFIDX,Fidelity,2,FFIDX FFDKX
+FGINX,Nomura Growth and Income A,1,FGINX
+FGRAX,Franklin Growth Opportunities A,4,FGRAX FKACX FRAAX FKARX
+FGRIX,Fidelity Growth & Income,2,FGRIX FGIKX
+FGRTX,Fidelity Mega Cap Stock,5,FGRTX FGTAX FTGRX FTRIX FGRCX
+FGSAX,Federated Hermes MDT Mid Cap Growth A,3,FGSAX FGSKX FGSIX
+FGSCX,Federated Hermes MDT Mid Cap Growth C,1,FGSCX
+FICEX,Frost Growth Equity Inst,2,FICEX FACEX
+FICGX,Cantor Fitzgerald Large Cap Fcs Cl A,1,FICGX
+FIIAX,Fidelity Advisor Mid Cap II A,4,FIIAX FIICX FIIMX FITIX
+FIMPX,Nuveen Small Cap Growth Opp I,2,FIMPX FRMPX
+FINSX,Fidelity Advisor New Insights I,4,FINSX FNIAX FNICX FNITX
+FISEX,Franklin Equity Income A,3,FISEX FRETX FREIX
+FISGX,Nuveen Small/Mid Cap Growth Opp I,2,FISGX FRSLX
+FISPX,Federated Hermes Max-Cap Index IS,1,FISPX
+FIUSX,Nomura Opportunity A,1,FIUSX
+FKASX,Federated Hermes Kaufmann Small Cap A,3,FKASX FKCSX FKKSX
+FKDNX,Franklin DynaTech A,4,FKDNX FDYNX FDYZX FDNRX
+FKGRX,Franklin Growth A,4,FKGRX FRGSX FCGAX FGSRX
+FLCSX,Fidelity Large Cap Stock,1,FLCSX
+FLMVX,JPMorgan Mid Cap Value L,5,FLMVX JAMCX JCMVX JMVSX JMVZX
+FLRAX,Nuveen Large Cap Select A,3,FLRAX FLRYX FLYCX
+FLVCX,Fidelity Leveraged Company Stock,2,FLVCX FLCKX
+FMAGX,Fidelity Magellan,2,FMAGX FMGKX
+FMCAX,Fidelity Advisor Stock Selec Mid Cp M,4,FMCAX FMCCX FMCDX FMCEX
+FMCSX,Fidelity Mid-Cap Stock,2,FMCSX FKMCX
+FMDCX,Federated Hermes Mid-Cap Index Svc,1,FMDCX
+FMIHX,FMI Large Cap Investor,1,FMIHX
+FMILX,Fidelity New Millennium,1,FMILX
+FMIMX,FMI Common Stock Investor,1,FMIMX
+FMUEX,Free Market US Equity Instl,1,FMUEX
+FMXKX,Federated Hermes Max-Cap Index R,1,FMXKX
+FMXSX,Federated Hermes Max-Cap Index Svc,1,FMXSX
+FNCMX,Fidelity Nasdaq Composite Index,1,FNCMX
+FNKCX,Frank Value C,1,FNKCX
+FNKIX,Frank Value Instl,1,FNKIX
+FOCPX,Fidelity OTC,2,FOCPX FOCKX
+FOSCX,Tributary Small Company Instl,2,FOSCX FOSBX
+FRBSX,Franklin Mutual U.S. Mid Cap Value A,4,FRBSX FBSAX FCBSX FBSRX
+FRDPX,Franklin Rising Dividends A,4,FRDPX FRDTX FRDRX FRDAX
+FRMCX,Franklin Mutual Small-Mid Cap Val A,2,FRMCX FVRMX
+FRNKX,Frank Value Inv,1,FRNKX
+FRSGX,Franklin Small-Mid Cap Growth A,4,FRSGX FRSIX FSGAX FSMRX
+FRVLX,Franklin Small Cap Value A,4,FRVLX FRVFX FVADX FVFRX
+FSAEX,Fidelity Series All-Sector Equity,1,FSAEX
+FSCAX,Nuveen Small Cap Value A,3,FSCAX FSCCX FSCVX
+FSCDX,Fidelity Advisor Small Cap A,4,FSCDX FSCEX FSCIX FSCTX
+FSCRX,Fidelity Small Cap Discovery,1,FSCRX
+FSLCX,Fidelity Small Cap Stock,1,FSLCX
+FSLVX,Fidelity Stk Selec Lg Cp Val,5,FSLVX FLUAX FLUEX FLUIX FLUTX
+FSMVX,Fidelity Mid Cap Value,5,FSMVX FMPAX FMPEX FMPOX FMPTX
+FSOPX,Fidelity Series Small Cap Opps,1,FSOPX
+FSTKX,Federated Hermes MDT Large Cap Value Svc,2,FSTKX FMSTX
+FSTUX,Invesco Dividend Income Investor,5,FSTUX IUTCX IAUTX FSIUX IAUYX
+FTQGX,Fidelity Focused Stock,1,FTQGX
+FTRNX,Fidelity Trend,1,FTRNX
+FUNCX,Victory Pioneer Fundamental Growth C,1,FUNCX
+FVALX,Forester Value N,1,FVALX
+FVDFX,Fidelity Value Discovery,2,FVDFX FVDKX
+FVILX,Forester Value I,1,FVILX
+FVRLX,Forester Value R,1,FVRLX
+GABAX,Gabelli Asset AAA,4,GABAX GATAX GATCX GABIX
+GABBX,Gabelli Dividend Growth AAA,1,GABBX
+GABEX,Gabelli Equity Income AAA,1,GABEX
+GABGX,Gabelli Growth AAA,4,GABGX GGCAX GGCCX GGCIX
+GABSX,Gabelli Small Cap Growth AAA,4,GABSX GCASX GCCSX GACIX
+GABVX,Gabelli Value 25 A,3,GABVX GVCIX GVCAX
+GBCAX,Gabelli Dividend Growth A,3,GBCAX GBCCX GBCIX
+GCAEX,Gabelli Equity Income A,1,GCAEX
+GCEQX,Green Century Equity Individual Investor,1,GCEQX
+GCIEX,Gabelli Equity Income I,1,GCIEX
+GCLSX,Goldman Sachs Large Cp Val Insghts Svc,6,GCLSX GCVAX GCVCX GCVIX GCVRX GCVTX
+GCSAX,Goldman Sachs Small Cap Eq Insghts A,6,GCSAX GCSCX GCSIX GCSSX GDSRX GDSTX
+GCTAX,Goldman Sachs US Tax-Managed Eq A,4,GCTAX GCTCX GCTIX GCTSX
+GDIIX,Genter Dividend Income,1,GDIIX
+GEGTX,Columbia Cornerstone Growth Inst,7,GEGTX LEGAX LEGCX CLGEX CGFYX CGWRX CLWFX
+GEQYX,GuideStone Funds Equity Index Instl,1,GEQYX
+GEQZX,GuideStone Funds Equity Index Investor,1,GEQZX
+GETGX,Victory Sycamore Established Value R,1,GETGX
+GGEFX,Summitry Equity Fund,1,GGEFX
+GGEYX,GuideStone Funds Growth Equity Instl,1,GGEYX
+GGEZX,GuideStone Funds Growth Equity Investor,1,GGEZX
+GGFRX,Nationwide BNY Mellon Dyn US Core R,1,GGFRX
+GGLIX,abrdn US Sustainable Leaders Instl,1,GGLIX
+GGOAX,Goldman Sachs Mid Cap Growth A,3,GGOAX GGOIX GGOSX
+GGORX,Goldman Sachs Mid Cap Growth R,2,GGORX GGOTX
+GILAX,Lord Abbett Fundamental Equity C,7,GILAX LDFVX LAVPX LAVYX LAVFX LAVQX LAVRX
+GLCGX,Goldman Sachs Large Cap Gr Insghts A,4,GLCGX GSCLX GCGIX GLCCX
+GLCRX,Goldman Sachs Large Cap Gr Insghts R,2,GLCRX GLCTX
+GMLGX,GuideMark Large Cap Core Service,1,GMLGX
+GMRAX,Nationwide Small Cap Index A,2,GMRAX GMRIX
+GMSMX,GuideMark Small/Mid Cap Core Service,1,GMSMX
+GMSRX,Nationwide Small Cap Index R,1,GMSRX
+GMUEX,GMO US Equity III,2,GMUEX GMCQX
+GMXAX,Nationwide Mid Cap Market Idx A,2,GMXAX GMXIX
+GMXRX,Nationwide Mid Cap Market Idx R,1,GMXRX
+GNWRX,Nationwide R,1,GNWRX
+GOGFX,Victory Sycamore Small Company Opp R,3,GOGFX SSGSX VSOIX
+GOODX,GoodHaven,1,GOODX
+GPAFX,Victory RS Large Cap Alpha A,2,GPAFX RCEYX
+GQEFX,GMO Quality IV,1,GQEFX
+GQETX,GMO Quality III,1,GQETX
+GQIRX,Goldman Sachs US Tax-Managed Eq Inv,1,GQIRX
+GQLOX,GMO Quality VI,1,GQLOX
+GRISX,Nationwide S&P 500 Index Instl Svc,1,GRISX
+GRMAX,Nationwide S&P 500 Index A,3,GRMAX GRMIX GRMRX
+GRMSX,Nationwide S&P 500 Index Svc,1,GRMSX
+GRSPX,Cromwell Greenspring Mid Cap Instl,1,GRSPX
+GSAOX,Goldman Sachs Small Cap Gr Insghts A,4,GSAOX GSIOX GSROX GSTOX
+GSATX,Goldman Sachs Small Cp Val Insghts A,4,GSATX GSITX GTTRX GTTTX
+GSCGX,Goldman Sachs Large Cap Equity A,6,GSCGX GSPCX GSPIX GSPSX GSPRX GSPTX
+GSCTX,Goldman Sachs Small Cp Val Insghts C,1,GSCTX
+GSCYX,GuideStone Funds Small Cap Equity Instl,1,GSCYX
+GSCZX,GuideStone Funds Small Cap Equity Inv,1,GSCZX
+GSESX,Goldman Sachs US Equity Insights Svc,6,GSESX GSSQX GSELX GSUSX GSURX GSUTX
+GSFTX,Columbia Dividend Income Inst,4,GSFTX LBSAX LBSCX CDIRX
+GSGRX,Goldman Sachs Equity Income A,6,GSGRX GSGSX GSIIX GSGCX GRGRX GRGTX
+GSLAX,Goldman Sachs Large Cap Value A,2,GSLAX GSVCX
+GSLIX,Goldman Sachs Large Cap Value Instl,4,GSLIX GSVSX GSVRX GSVTX
+GSMAX,Goldman Sachs Small/Mid Cap Growth A,3,GSMAX GSMYX GTMTX
+GSMCX,Goldman Sachs Mid Cap Value Instl,6,GSMCX GSMSX GCMAX GCMCX GCMTX GCMRX
+GSRAX,Goldman Sachs Rising Dividend Gr A,3,GSRAX GSRCX GSRLX
+GSSMX,Goldman Sachs Small Cap Value A,6,GSSMX GSSCX GSSIX GSSSX GSQRX GSQTX
+GSXAX,abrdn US Small Cap Equity A,5,GSXAX GSXIX GSXCX GNSRX GSCIX
+GTCEX,Glenmede Strategic Equity,1,GTCEX
+GTCSX,Glenmede Small Cap Equity Adv,2,GTCSX GTSCX
+GTLLX,Glenmede Disciplined US Growth Eq Ptf,1,GTLLX
+GTLOX,Glenmede Disciplined US Eq Ptf,1,GTLOX
+GTSAX,Invesco Small Cap Growth A,5,GTSAX GTSVX GTSRX GTSIX GTSYX
+GTSDX,Invesco Small Cap Growth C,1,GTSDX
+GTTMX,Glenmede Total Market Plus Eq Ptf,1,GTTMX
+GVCCX,Gabelli Value 25 C,1,GVCCX
+GVEQX,Government Street Equity,1,GVEQX
+GVEYX,GuideStone Funds Value Equity Instl,1,GVEYX
+GVEZX,GuideStone Funds Value Equity Investor,1,GVEZX
+GVMCX,Government Street Opportunities,1,GVMCX
+GWETX,AMG GW&K Small Cap Core N,2,GWETX GWEIX
+GXXAX,abrdn US Sustainable Leaders A,1,GXXAX
+HACAX,Harbor Capital Appreciation Instl,3,HACAX HCAIX HRCAX
+HAGAX,Carillon Eagle Mid Cap Growth A,2,HAGAX HAGCX
+HAGIX,Carillon Eagle Mid Cap Growth I,1,HAGIX
+HAIAX,Hartford Core Equity A,8,HAIAX HGIYX HBGIX HIAGX HGICX HGIRX HGISX HGITX
+HAMVX,Harbor Mid Cap Value Instl,3,HAMVX HIMVX HRMVX
+HASCX,Harbor Small Cap Value Instl,1,HASCX
+HASGX,Harbor Small Cap Growth Instl,1,HASGX
+HAVGX,Haverford Quality Growth Stock,1,HAVGX
+HAVLX,Harbor Large Cap Value Instl,2,HAVLX HILVX
+HCAYX,Hartford Capital Appreciation Y,7,HCAYX ITHAX HCACX ITHIX ITHRX ITHSX ITHTX
+HCMAX,Hillman Value,1,HCMAX
+HDPMX,Hodges Retail,1,HDPMX
+HEQCX,Monteagle Opportunity Equity Instl,1,HEQCX
+HEQFX,Monteagle Opportunity Equity Inv,1,HEQFX
+HFCGX,Hennessy Cornerstone Growth Investor,2,HFCGX HICGX
+HFCSX,Hennessy Focus Investor,2,HFCSX HFCIX
+HFCVX,Hennessy Cornerstone Value Investor,2,HFCVX HICVX
+HFLGX,Hennessy Cornerstone Large Growth Inv,1,HFLGX
+HFMDX,Hennessy Cornerstone Mid Cap 30 Inv,2,HFMDX HIMDX
+HGOAX,Hartford Growth Opportunities A,6,HGOAX HGOYX HGOIX HGORX HGOSX HGOTX
+HIACX,Hartford Capital Appreciation HLS IA,2,HIACX HIBCX
+HIADX,Hartford Dividend and Growth HLS IA,9,HIADX HDGYX IHGIX HDGBX HDGCX HDGIX HDGRX HDGSX HDGTX
+HIASX,Hartford Small Company HLS IA,2,HIASX HDMBX
+HILGX,Hennessy Cornerstone Large Growth Instl,1,HILGX
+HIMCX,Hartford MidCap HLS IA,8,HIMCX HFMCX HMDYX HBMCX HFMIX HFMRX HFMSX HFMTX
+HISCX,Hartford Small Cap Growth HLS IA,2,HISCX HBSGX
+HISGX,Harbor Small Cap Growth Inv,1,HISGX
+HISVX,Harbor Small Cap Value Investor,2,HISVX HSVRX
+HLEIX,JPMorgan Equity Index I,3,HLEIX OGEAX OEICX
+HLGEX,JPMorgan Mid Cap Growth I,1,HLGEX
+HLIEX,JPMorgan Equity Income I,4,HLIEX OIEIX OIEFX OIERX
+HLQVX,JPMorgan Large Cap Value I,4,HLQVX OLVAX JLVZX JLVMX
+HMVAX,Hartford MidCap Value A,7,HMVAX HMVCX HMVYX HMVJX HMVRX HMVSX HMVTX
+HNASX,Homestead Growth,1,HNASX
+HNTVX,Heartland Value Institutional,1,HNTVX
+HOVLX,Homestead Value,1,HOVLX
+HQIAX,Hartford Equity Income A,7,HQIAX HQICX HQIYX HQIIX HQIRX HQISX HQITX
+HRCVX,Carillon Eagle Growth & Income A,3,HRCVX HIGCX HIGJX
+HRSCX,Carillon Eagle Small Cap Growth A,1,HRSCX
+HRSMX,Hood River Small-Cap Growth Instl,1,HRSMX
+HRTVX,Heartland Value Investor,1,HRTVX
+HRVIX,Heartland Value Plus Investor,2,HRVIX HNVIX
+HSCCX,Carillon Eagle Small Cap Growth C,1,HSCCX
+HSCSX,Homestead Small Company Stock,1,HSCSX
+HSCYX,Hartford Small Company Y,6,HSCYX IHSAX IHSIX IHSRX IHSSX IHSUX
+HSIIX,Carillon Eagle Small Cap Growth I,1,HSIIX
+HSLAX,Hartford Small Cap Growth A,6,HSLAX HSLYX HSLIX HSLRX HSLSX HSLTX
+HSMAX,Hartford Small Cap Value A,3,HSMAX HSMYX HTSCX
+HSTAX,Hartford Stock HLS IA,2,HSTAX HIBSX
+HSUAX,Rational Dynamic Brands A,1,HSUAX
+HSUTX,Rational Dynamic Brands Instl,1,HSUTX
+HULIX,Huber Select Large Cap Value Inv,1,HULIX
+HUSIX,Huber Small Cap Value Inv,1,HUSIX
+HWAAX,Hotchkis & Wiley Opps A,3,HWAAX HWAIX HWACX
+HWCAX,Hotchkis & Wiley Disciplined Value A,2,HWCAX HWCIX
+HWLIX,Hotchkis & Wiley Large Cap Fdml Value I,2,HWLIX HWLAX
+HWMIX,Hotchkis & Wiley Mid-Cap Value I,2,HWMIX HWMAX
+HWSIX,Hotchkis & Wiley Small Cap Value I,3,HWSIX HWSAX HWSCX
+IACIX,VY American Century Sm-Mid Cp Val I,1,IACIX
+IALAX,Transamerica Capital Growth A,1,IALAX
+IAMOX,Voya MidCap Opportunities Port A,1,IAMOX
+IASAX,VY American Century Sm-Mid Cp Val A,1,IASAX
+IASCX,Voya Small Company Port A,1,IASCX
+IASSX,VY American Century Sm-Mid Cp Val S,1,IASSX
+IAXAX,VY T. Rowe Price Divers Mid Cap Gr A,1,IAXAX
+IAXIX,VY T. Rowe Price Divers Mid Cap Gr I,1,IAXIX
+IAXSX,VY T. Rowe Price Divers Mid Cap Gr S,1,IAXSX
+IAXTX,VY T. Rowe Price Divers Mid Cap Gr S2,1,IAXTX
+ICISX,VY Columbia Small Cp Val & Inflection I,4,ICISX ICSAX ICSSX ICVPX
+ICSCX,William Blair Small Cap Value I,1,ICSCX
+IEDAX,Voya Large Cap Value A,1,IEDAX
+IEDCX,Voya Large Cap Value C,1,IEDCX
+IEDIX,Voya Large Cap Value I,2,IEDIX IWEDX
+IEOPX,Voya Large Cap Growth Port A,4,IEOPX IEOHX IEOSX IEOTX
+IGIAX,Integrity Growth & Income Fund A,1,IGIAX
+IGOWX,Voya Large-Cap Growth W,4,IGOWX NLCAX NLCCX PLCIX
+IICAX,AMF Large Cap Equity AMF,1,IICAX
+IICHX,AMF Large Cap Equity H,1,IICHX
+IIMOX,Voya MidCap Opportunities Port I,1,IIMOX
+IIRLX,Voya Russell Large Cap Index Port I,3,IIRLX IRLCX IRLIX
+IIRMX,Voya Russell Mid Cap Index Port I,3,IIRMX IRMAX IRMCX
+IIRSX,Voya Russell Small Cap Index Port I,3,IIRSX IRSIX IRSSX
+IIVAX,Transamerica Small/Mid Cap Value A,3,IIVAX TSMVX TSVIX
+IIVGX,Voya Growth and Income Port I,4,IIVGX ISVGX IAVGX IGISX
+IIVLX,Transamerica Small/Mid Cap Value C,1,IIVLX
+IJMAX,VY JPMorgan Mid Cap Value A,3,IJMAX IJMIX IJMSX
+IJPMX,VY JPMorgan Mid Cap Value S2,1,IJPMX
+IJSAX,VY JPMorgan Small Cap Core Equity A,4,IJSAX IJSSX IJSTX IJSIX
+IMANX,Iman K,1,IMANX
+IMOPX,Voya MidCap Opportunities Port S2,1,IMOPX
+IMSCX,IMS Capital Value,1,IMSCX
+INDZX,Columbia Intrinsic Value A,3,INDZX RSEDX CDVZX
+INGIX,Voya US Stock Index Port I,2,INGIX ISIPX
+INUTX,Columbia Dividend Opportunity A,1,INUTX
+IOLZX,ICON Equity Institutional,2,IOLZX ISTAX
+IPFPX,Poplar Forest Partners Institutional,2,IPFPX PFPFX
+IPLSX,Voya Index Plus LargeCap Port S,2,IPLSX IPLIX
+IPMIX,Voya Index Plus MidCap Port I,2,IPMIX IPMSX
+IPSIX,Voya Index Plus SmallCap Port I,2,IPSIX IPSSX
+IRCIX,Voya Russell Small Cap Index Port S2,1,IRCIX
+IRLAX,Voya Russell Large Cap Growth Idx Port A,3,IRLAX IRLNX IRLSX
+IRLUX,Voya Russell Large Cap Index Port S2,1,IRLUX
+IRMTX,Voya Russell Mid Cap Index Port S2,1,IRMTX
+IRVAX,Voya Russell Large Cap Value Idx Port A,1,IRVAX
+IRVSX,Voya Russell Large Cap Value Idx Port S,1,IRVSX
+ISBAX,VY Columbia Contrarian Core A,3,ISBAX ISCSX ISFIX
+ISJBX,Voya US Stock Index Port S,2,ISJBX ISIVX
+ISMOX,Voya MidCap Opportunities Port S,1,ISMOX
+ISMSX,VY American Century Sm-Mid Cp Val S2,1,ISMSX
+ISOPX,Voya SmallCap Opportunities Port A,2,ISOPX ISCTX
+IVCSX,Voya Small Company Port I,2,IVCSX IVPSX
+IVGSX,VY Invesco Growth and Income S,4,IVGSX IVITX IVGAX IVGIX
+IVKAX,VY Invesco Comstock A,3,IVKAX IVKSX IVKIX
+IVPOX,Voya SmallCap Opportunities Port S,2,IVPOX IVSOX
+IVVIX,Nomura Smid Cap Core I,1,IVVIX
+IYSAX,Nomura Smid Cap Core A,2,IYSAX IYSYX
+JACAX,Janus Henderson VIT Forty Instl,7,JACAX JARTX JACCX JDCAX JDCRX JCAPX JACTX
+JAENX,Janus Henderson Enterprise T,8,JAENX JANEX JAAGX JGRTX JGRCX JDMAX JDMRX JMGRX
+JAGIX,Janus Henderson Growth And Income T,7,JAGIX JNGIX JADGX JGICX JDNAX JDNRX JGINX
+JAGRX,Janus Henderson VIT Research Instl,1,JAGRX
+JAMEX,Jamestown Equity,1,JAMEX
+JAMRX,Janus Henderson Research T,6,JAMRX JNRFX JRAAX JRACX JRAIX JRASX
+JAMVX,Janus Henderson VIT Mid Cap Value Instl,2,JAMVX JNMCX
+JANIX,Janus Henderson Triton D,7,JANIX JATTX JGMAX JGMCX JGMIX JGMRX JSMGX
+JANVX,Janus Henderson Venture D,6,JANVX JAVTX JVTAX JVTCX JVTIX JVTSX
+JASCX,James Small Cap,1,JASCX
+JDESX,JPMorgan US Research Enhanced Equity I,3,JDESX JDEAX JDEUX
+JECIX,John Hancock Variable Insurance Trust - Mid Cap Index Trust,1,JECIX
+JEMUX,John Hancock Variable Insurance Trust - Mid Value Trust,1,JEMUX
+JENHX,Johnson Enhanced Return,1,JENHX
+JENSX,Jensen Quality Growth J,3,JENSX JENIX JENRX
+JEQAX,John Hancock Variable Insurance Trust - Fundamental All Cap Core Trust,1,JEQAX
+JEQIX,Johnson Equity Income,1,JEQIX
+JESGX,John Hancock Variable Insurance Trust - Small Cap Stock Trust,1,JESGX
+JESIX,John Hancock Variable Insurance Trust - Small Cap Index Trust,1,JESIX
+JESVX,John Hancock Variable Insurance Trust - Small Cap Core Trust,1,JESVX
+JETSX,John Hancock Variable Insurance Trust - Total Stock Market Index Trust,1,JETSX
+JFCAX,JHancock Fundamental All Cap Core A,2,JFCAX JFCIX
+JGACX,JPMorgan Growth Advantage C,1,JGACX
+JGVRX,JPMorgan Growth Advantage R5,1,JGVRX
+JHLVX,JHancock Fundamental Large Cap Core C,1,JHLVX
+JIBCX,JHancock Blue Chip Growth 1,1,JIBCX
+JIEMX,JHancock Equity Income 1,1,JIEMX
+JIISX,JPMorgan US Sustainable Leaders I,3,JIISX JICAX JICCX
+JLPSX,JPMorgan US Large Cap Core Plus I,2,JLPSX JCPRX
+JMCVX,Janus Henderson Mid Cap Value T,1,JMCVX
+JMIGX,Jacob Discovery Fd Instl,2,JMIGX JMCGX
+JNVIX,Jensen Quality Mid Cap I,2,JNVIX JNVSX
+JOPPX,Johnson Opportunity,1,JOPPX
+JRSAX,JH Adaptive Risk Mgd U.S. Eq A,1,JRSAX
+JRSCX,JH Adaptive Risk Mgd U.S. Eq C,1,JRSCX
+JRSIX,JH Adaptive Risk Mgd U.S. Eq I,1,JRSIX
+JRSSX,JH Adaptive Risk Mgd U.S. Eq S,1,JRSSX
+JRSTX,JH Adaptive Risk Mgd U.S. Eq T,1,JRSTX
+JSCGX,Jacob Innovation Investor,1,JSCGX
+JSCSX,JPMorgan US Small Company I,4,JSCSX JUSSX JTUAX JTUCX
+JSCVX,Janus Henderson Small Cap Value T,2,JSCVX JNPSX
+JSIGX,Jacob Innovation Institutional,1,JSIGX
+JSIVX,Janus Henderson Small Cap Value L,1,JSIVX
+JSVAX,Janus Henderson Contrarian T,7,JSVAX JACNX JCNAX JCNIX JCNRX JCNCX JCONX
+JUESX,JPMorgan US Equity I,7,JUESX JMUEX JUEAX JUECX JUSRX JUEZX JUEMX
+JVAAX,JPMorgan Value Advantage A,4,JVAAX JVACX JVAIX JVASX
+JVLIX,JHancock Disciplined Value I,5,JVLIX JVLAX JVLCX JDVFX JDVVX
+JVMAX,JHancock Disciplined Value Mid Cap A,2,JVMAX JVMIX
+KAUAX,Federated Hermes Kaufmann A,1,KAUAX
+KAUCX,Federated Hermes Kaufmann C,1,KAUCX
+KAUFX,Federated Hermes Kaufmann R,1,KAUFX
+KDHAX,DWS CROCI Equity Dividend A,4,KDHAX KDHCX KDHIX KDHSX
+KLCAX,Federated Hermes Kaufmann Large Cap A,4,KLCAX KLCCX KLCIX KLCKX
+KLGAX,NYLIM WMC Growth Class A,2,KLGAX KLGIX
+KMKAX,Kinetics Market Opportunities Adv A,4,KMKAX KMKNX KMKCX KMKYX
+KMVAX,Kirr Marbach Partners Value,1,KMVAX
+KSCOX,Kinetics Small Cap Opportunities No Load,4,KSCOX KSOAX KSCYX KSOCX
+KSDIX,Keeley Gabelli Small Cap Dividend I,2,KSDIX KSDVX
+KSMIX,Keeley Gabelli SMID Cap Value I,2,KSMIX KSMVX
+LADIX,ClearBridge Tactical Dividend Income I,1,LADIX
+LAFFX,Lord Abbett Affiliated A,5,LAFFX LAFCX LAAFX LAFQX LAFRX
+LAFPX,Lord Abbett Affiliated P,2,LAFPX LAFYX
+LAGWX,Lord Abbett Developing Growth A,7,LAGWX LADCX LADPX LADYX LADFX LADRX LADQX
+LAMAX,Lord Abbett Dividend Growth A,4,LAMAX LAMCX LAMPX LAMYX
+LAMFX,Lord Abbett Dividend Growth F,3,LAMFX LAMQX LAMRX
+LAVLX,Lord Abbett Mid Cap Stock A,7,LAVLX LMCCX LMCPX LMCYX LMCFX LMCQX LMCRX
+LBGAX,ClearBridge Mid Cap Growth A,3,LBGAX LBGCX LBGIX
+LBISX,BrandywineGLOBAL Div US Large Value IS,4,LBISX LBWAX LBWCX LBWIX
+LCBOX,ClearBridge Dividend Strategy 1,2,LCBOX LMMRX
+LCEAX,Invesco Diversified Dividend A,6,LCEAX LCEVX LCEIX DDFIX DDFRX LCEYX
+LCGFX,William Blair Large Cap Growth I,2,LCGFX LCGNX
+LCGRX,Loomis Sayles Small Cap Growth Retail,2,LCGRX LSSIX
+LCIAX,SEI Large Cap Index A (SIIT),1,LCIAX
+LEIFX,Federated Hermes Strategic Div Gr A,3,LEIFX LEICX LFEIX
+LEXCX,Voya Corporate Leaders Trust B,1,LEXCX
+LGILX,Schwab Large Cap Growth Opportunities,1,LGILX
+LGLAX,Lord Abbett Growth Leaders A,6,LGLAX LGLCX LGLFX LGLIX LGLQX LGLRX
+LIACX,Columbia Acorn C,1,LIACX
+LIMAX,Cromwell Tran Focus Investor,1,LIMAX
+LIMIX,Cromwell Tran Focus Instl,1,LIMIX
+LKEQX,LKCM Equity,1,LKEQX
+LKSCX,LKCM Small Cap Equity Instl,1,LKSCX
+LKSMX,LKCM Small-Mid Cap Equity Institutional,1,LKSMX
+LLPFX,Longleaf Partners,1,LLPFX
+LMASX,ClearBridge Smaller Companies C,5,LMASX LMNSX LGASX LMARX LMSAX
+LMESX,ClearBridge Appreciation IS,1,LMESX
+LMGAX,Lord Abbett Growth Opportunities A,3,LMGAX LMGYX LGOPX
+LMGCX,Lord Abbett Growth Opportunities C,4,LMGCX LGOFX LGOQX LGORX
+LMISX,Franklin U.S. Large Cap Equity IS,1,LMISX
+LMIYX,Lord Abbett Micro Cap Growth I,1,LMIYX
+LMOPX,Patient Opportunity C,5,LMOPX LMNOX LMOFX LMORX LGOAX
+LMPLX,ClearBridge Large Cap Growth R,1,LMPLX
+LMPPX,ClearBridge Appreciation R,2,LMPPX LMPIX
+LMPRX,ClearBridge Growth R,3,LMPRX LMPFX LSIFX
+LMSIX,Franklin U.S. Small Cap Equity I,4,LMSIX LGSCX LMBAX LMBCX
+LMVTX,ClearBridge Value C,5,LMVTX LMNVX LMVFX LMVRX LGVAX
+LMVYX,Lord Abbett Focused Small Cap Value I,1,LMVYX
+LOMAX,Edgar Lomax Value,1,LOMAX
+LRSCX,Lord Abbett Small Cap Value A,6,LRSCX LRSYX LRSPX LRSFX LRSQX LRSRX
+LSGRX,Loomis Sayles Growth Y,3,LSGRX LGRRX LGRCX
+LSRCX,Lord Abbett Small Cap Value C,1,LSRCX
+LSSCX,Loomis Sayles Small Cap Value Instl,2,LSSCX LSCRX
+LSVAX,Loomis Sayles Small Cap Value Admin,1,LSVAX
+LSVEX,LSV Value Equity,1,LSVEX
+LSVVX,LSV Conservative Value Equity,1,LSVVX
+LVOAX,Lord Abbett Value Opportunities A,7,LVOAX LVOCX LVOPX LVOYX LVOFX LVOQX LVORX
+LVPIX,ProFunds Large Cap Value Inv,2,LVPIX LVPSX
+LZCOX,Lazard US Small Cap Equity Select Open,1,LZCOX
+LZSCX,Lazard US Small Cap Equity Select Instl,1,LZSCX
+LZUOX,Lazard US Equity Focus Open,1,LZUOX
+LZUSX,Lazard US Equity Focus Instl,1,LZUSX
+MABAX,BlackRock Large Cap Focus Value Instl,4,MABAX MCBAX MDBAX MRBVX
+MADVX,BlackRock Equity Dividend Instl,5,MADVX MCDVX MDDVX MRDVX MSDVX
+MAFGX,BlackRock Capital Appreciation Instl,4,MAFGX MCFGX MDFGX MRFGX
+MAFOX,BlackRock Large Cap Focus Growth Instl,1,MAFOX
+MALRX,BlackRock Advantage Large Cap Core Instl,4,MALRX MCLRX MDLRX MRLRX
+MALVX,BlackRock Advantage Large Cap Val Instl,4,MALVX MCLVX MDLVX MRLVX
+MAPLX,Morgan Stanley Inst Advantage L,3,MAPLX MPAIX MAPPX
+MARFX,BlackRock Mid-Cap Value Institutional,4,MARFX MCRFX MDRFX MRRFX
+MASKX,iShares Russell 2000 Small-Cap Idx Instl,1,MASKX
+MASMX,Madison Small Cap A,1,MASMX
+MASPX,BlackRock Advantage SMID Cap Instl,4,MASPX MCSPX MDSPX MRSPX
+MBCGX,MassMutual Blue Chip Growth A,5,MBCGX MBCLX MBCSX MBCYX MBCNX
+MCFOX,BlackRock Large Cap Focus Growth Inv C,1,MCFOX
+MCGFX,AMG GW&K Small Cap Growth N,2,MCGFX MCGIX
+MCVSX,Victory Integrity Small-Cap Value C,1,MCVSX
+MDDAX,MassMutual Diversified Value A,1,MDDAX
+MDDLX,MassMutual Diversified Value Adm,1,MDDLX
+MDFOX,BlackRock Large Cap Focus Growth Inv A,1,MDFOX
+MDPIX,ProFunds Mid Cap Inv,2,MDPIX MDPSX
+MDSKX,iShares Russell 2000 Small-Cap Idx Inv A,1,MDSKX
+MDVNX,MassMutual Diversified Value R3,1,MDVNX
+MDVSX,MassMutual Diversified Value R5,1,MDVSX
+MDVYX,MassMutual Diversified Value Svc,1,MDVYX
+MEFAX,MassMutual Mid Cap Growth A,5,MEFAX MGRFX MMELX MEFYX MEFNX
+MEFOX,Meehan Focus,1,MEFOX
+MEFZX,MassMutual Mid Cap Growth I,1,MEFZX
+MEGBX,MFS Growth B,8,MEGBX MFEGX MFECX MFEIX MEGRX MFEHX MFEJX MFELX
+MEIAX,MFS Value A,9,MEIAX MEIIX MEICX MFEBX MVRRX MEIGX MEIHX MEIJX MEIKX
+MEQFX,AMG River Road Large Cap Value Select I,2,MEQFX FQUAX
+MERAX,Madison Mid Cap A,1,MERAX
+MERDX,Meridian Growth Legacy,1,MERDX
+MFOCX,Marsico Focus,1,MFOCX
+MFRFX,MFS Research A,9,MFRFX MFRBX MFRCX MRFIX MSRRX MFRHX MFRJX MFRLX MFRKX
+MGNDX,Praxis Growth Index A,2,MGNDX MMDEX
+MGOAX,Victory Mid-Cap Core Growth A,1,MGOAX
+MGOYX,Victory Mid-Cap Core Growth Y,1,MGOYX
+MGPIX,ProFunds Mid Cap Growth Inv,2,MGPIX MGPSX
+MGRIX,Marsico Growth,1,MGRIX
+MIDKX,Shelton S&P Midcap Index K,1,MIDKX
+MIEAX,MM S&P 500 Index R4,3,MIEAX MIEYX MMIEX
+MIEZX,MM S&P 500 Index R5,2,MIEZX MMINX
+MIGFX,MFS Massachusetts Inv Gr Stk A,8,MIGFX MIGBX MGTIX MIGDX MIRGX MIGHX MIGKX MIGMX
+MINVX,Madison Large Cap Y,1,MINVX
+MISEX,Midas Special Opportunities,1,MISEX
+MITTX,MFS Massachusetts Investors Tr A,8,MITTX MITBX MITCX MITIX MIRTX MITDX MITGX MITHX
+MLAAX,NYLIM Winslow Large Cap Growth Class A,1,MLAAX
+MLACX,NYLIM Winslow Large Cap Growth Class C,1,MLACX
+MLAIX,NYLIM Winslow Large Cap Growth Class I,1,MLAIX
+MLGRX,NYLIM Winslow Large Cap Growth Class R3,1,MLGRX
+MLINX,NYLIM Winslow Large Cap Growth Inv Class,1,MLINX
+MLPIX,ProFunds Mid Cap Value Inv,1,MLPIX
+MLPSX,ProFunds Mid Cap Value Svc,1,MLPSX
+MLRRX,NYLIM Winslow Large Cap Growth Class R1,1,MLRRX
+MLRTX,NYLIM Winslow Large Cap Growth Class R2,1,MLRTX
+MMEAX,Victory Integrity Discovery A,2,MMEAX MMEYX
+MMECX,Victory Integrity Discovery C,1,MMECX
+MMGEX,MassMutual Small Cap Gr Eq A,1,MMGEX
+MMSCX,Praxis Small Cap Index A,2,MMSCX MMSIX
+MNDAX,MFS New Discovery A,8,MNDAX MNDIX MNDBX MNDCX MNDRX MNDGX MNDHX MNDJX
+MNNAX,Victory Multi-Cap A,2,MNNAX MNNYX
+MNNCX,Victory Multi-Cap C,1,MNNCX
+MNRGX,Manor Growth,1,MNRGX
+MNRMX,Manor,1,MNRMX
+MONTX,Monetta,1,MONTX
+MOPIX,NYLIM WMC Small Companies Class I,4,MOPIX MOPCX MOPAX MOINX
+MPEGX,Morgan Stanley Inst Discovery I,2,MPEGX MACGX
+MPGFX,Mairs & Power Fund,1,MPGFX
+MPSSX,BNY Mellon Small Cap Multi-Strategy M,2,MPSSX MISCX
+MRGAX,MFS Core Equity A,8,MRGAX MRGBX MRGCX MRGRX MRERX MRGGX MRGHX MRGJX
+MRLIX,AMG Renaissance Large Cap Growth Z,2,MRLIX MRLTX
+MRLSX,AMG Renaissance Large Cap Growth I,1,MRLSX
+MSCDX,MassMutual Small Cap Opps R5,1,MSCDX
+MSCYX,MassMutual Small Cap Gr Eq Svc,3,MSCYX MSGLX MSGSX
+MSEQX,Morgan Stanley Inst Growth I,2,MSEQX MSEGX
+MSGNX,MassMutual Small Cap Gr Eq R3,1,MSGNX
+MSGZX,MassMutual Small Cap Gr Eq I,1,MSGZX
+MSIGX,Invesco Main Street A,3,MSIGX MIGCX MIGYX
+MSOAX,NYLIM WMC Enduring Capital Class A,4,MSOAX MGOCX MSOIX MCSSX
+MSSCX,AMG Frontier Small Cap Growth I,1,MSSCX
+MSSGX,Morgan Stanley Inst Inception I,2,MSSGX MSSMX
+MSSVX,AMG Frontier Small Cap Growth N,2,MSSVX MSSYX
+MUBFX,NYLIM WMC Value Class I,4,MUBFX MAPAX MMPCX MSMIX
+MUHLX,Muhlenkamp,1,MUHLX
+MUIFX,Nationwide Institutional Service,2,MUIFX NWFAX
+MUIGX,Nationwide BNY Mellon Dyn US Core R6,1,MUIGX
+MUSEX,MFS Blended Research Core Equity I,8,MUSEX MUEAX MUECX MUSBX MUERX MUESX MUETX MUEUX
+MUXYX,Victory S&P 500 Index Y,3,MUXYX MUXAX MUXRX
+MVALX,Meridian Contrarian Legacy,1,MVALX
+MVCAX,MFS Mid Cap Value A,5,MVCAX MCBVX MCVIX MVCCX MCVRX
+MVCGX,MFS Mid Cap Value R1,3,MVCGX MVCHX MVCJX
+MVIAX,Praxis Value Index A,1,MVIAX
+MVIIX,Praxis Value Index I,1,MVIIX
+MXCCX,Federated Hermes Max-Cap Index C,1,MXCCX
+MXEQX,Empower Large Cap Value Inv,1,MXEQX
+MXISX,Empower S&P SmallCap 600 Index Inv,1,MXISX
+MXLGX,Empower Large Cap Growth Inv,1,MXLGX
+MXLSX,Empower Small Cap Value Inv,1,MXLSX
+MXMDX,Empower S&P Mid Cap 400 Index Inv,1,MXMDX
+MXMGX,Empower T. Rowe Price Mid Cp Gr Inv,1,MXMGX
+MXMVX,Empower Mid Cap Value Inv,1,MXMVX
+MXVIX,Empower S&P 500 Index Investor,1,MXVIX
+MXXIX,Marsico Midcap Growth Focus Fund,1,MXXIX
+MXXVX,Matthew 25,1,MXXVX
+MYIFX,Monetta Young Investor Growth,1,MYIFX
+NAESX,Vanguard MStar Small Cap Index Investor,4,NAESX VSCIX VSMAX VSCPX
+NAMAX,Columbia Select Mid Cap Value Instl,5,NAMAX CMUAX CMUCX CMVRX CMVYX
+NASDX,Shelton Nasdaq-100 Index Investor,2,NASDX NDXKX
+NAVFX,Sector Rotation Fund,1,NAVFX
+NBGAX,Neuberger Genesis Adv,1,NBGAX
+NBGEX,Neuberger Genesis Tr,1,NBGEX
+NBGNX,Neuberger Genesis Inv,2,NBGNX NBGIX
+NBGUX,Neuberger Large Cap Growth Adv,1,NBGUX
+NBHAX,Neuberger Equity Income A,1,NBHAX
+NBHCX,Neuberger Equity Income C,1,NBHCX
+NBHIX,Neuberger Equity Income I,1,NBHIX
+NBHRX,Neuberger Equity Income R3,1,NBHRX
+NBMIX,Neuberger Small Cap Growth Inv,7,NBMIX NBMOX NBMVX NBSMX NSNAX NSNCX NSNRX
+NBNGX,Sit Mid Cap Growth,1,NBNGX
+NBRVX,Neuberger M/C Intrinsic Val Inv,6,NBRVX NBREX NBRTX NBRAX NBRCX NBRRX
+NBSRX,Neuberger Quality Equity Inv,4,NBSRX NBSTX NBSLX NRAAX
+NCBVX,PGIM Quant Solutions Mid-Cap Val C,3,NCBVX SPRAX SPVZX
+NCEGX,The North Country Large Cap Equity Fund,1,NCEGX
+NCGFX,New Covenant Growth,1,NCGFX
+NCLEX,Nicholas Limited Edition I,2,NCLEX NNLEX
+NCTWX,Nicholas II I,2,NCTWX NNTWX
+NCVLX,Nuance Concentrated Value Institutional,1,NCVLX
+NDVAX,MFS New Discovery Value A,5,NDVAX NDVBX NDVCX NDVRX NDVSX
+NDVIX,MFS New Discovery Value I,3,NDVIX NDVTX NDVUX
+NEAGX,Needham Aggressive Growth Retail,1,NEAGX
+NECCX,Natixis US Equity Opportunities C,3,NECCX NEFSX NESYX
+NEEGX,Needham Growth Retail,1,NEEGX
+NEFJX,Natixis Vaughan Nelson Small Cap A,2,NEFJX NEJYX
+NEFOX,Natixis Oakmark A,3,NEFOX NECOX NEOYX
+NEIMX,Neiman Large Cap Value No-Load,1,NEIMX
+NEJCX,Natixis Vaughan Nelson Small Cap C,1,NEJCX
+NESGX,Needham Small Cap Growth Retail,1,NESGX
+NFEAX,Columbia Large Cap Growth Opp A,2,NFEAX NFEPX
+NFJEX,Virtus NFJ Dividend Value Inst,3,NFJEX PNEAX PNECX
+NGDAX,Neuberger Large Cap Growth A,1,NGDAX
+NGDCX,Neuberger Large Cap Growth C,1,NGDCX
+NGDRX,Neuberger Large Cap Growth R3,1,NGDRX
+NGUAX,Neuberger Large Cap Growth Inv,3,NGUAX NBGTX NGDLX
+NICSX,Nicholas,1,NICSX
+NINAX,Neuberger Intrinsic Value A,1,NINAX
+NINCX,Neuberger Intrinsic Value C,1,NINCX
+NINLX,Neuberger Intrinsic Value I,1,NINLX
+NMANX,Neuberger Mid Cap Growth Inv,6,NMANX NBMTX NBMBX NBMLX NMGAX NMGRX
+NMCAX,Voya MidCap Opportunities A,4,NMCAX NMCIX NMCCX IMOWX
+NMFAX,Nationwide BNY Mellon Dyn US Core A,1,NMFAX
+NMGCX,Neuberger Mid Cap Growth C,1,NMGCX
+NMIAX,Columbia Large Cap Enhanced Core A,4,NMIAX NMIMX CCERX CECYX
+NMSAX,Columbia Small Cap Index A,1,NMSAX
+NMSCX,Columbia Small Cap Index Inst,1,NMSCX
+NMUCX,Neuberger Multi-Cap Opportunities C,1,NMUCX
+NMULX,Neuberger Multi-Cap Opportunities I,2,NMULX NMUAX
+NOIEX,Northern Income Equity,1,NOIEX
+NOLCX,Northern Large Cap Core,1,NOLCX
+NOLVX,Northern Large Cap Value,1,NOLVX
+NOMIX,Northern Mid Cap Index,1,NOMIX
+NOSGX,Northern Small Cap Value,1,NOSGX
+NOSIX,Northern Stock Index,1,NOSIX
+NPNAX,Neuberger Large Cap Value A,1,NPNAX
+NPRTX,Neuberger Large Cap Value Inv,5,NPRTX NBPTX NBPBX NBPIX NPNRX
+NQCAX,Nuveen Large Cap Value Opportunities A,1,NQCAX
+NQCCX,Nuveen Large Cap Value Opportunities C,1,NQCCX
+NQCFX,NorthQuest Capital,1,NQCFX
+NQCRX,Nuveen Large Cap Value Opportunities I,1,NQCRX
+NQVRX,Nuveen Multi Cap Value I,3,NQVRX NQVAX NQVCX
+NRACX,Neuberger Quality Equity C,1,NRACX
+NRARX,Neuberger Quality Equity R3,1,NRARX
+NSBAX,Nuveen Dividend Growth A,3,NSBAX NSBCX NSBRX
+NSCAX,Nuveen Small-Cap Value Opps A,3,NSCAX NSCCX NSCRX
+NSEIX,Nicholas Equity Income I,1,NSEIX
+NSEPX,Columbia Cornerstone Equity Inst,1,NSEPX
+NSGAX,Columbia Cornerstone Equity A,2,NSGAX NSGCX
+NSGRX,Northern Small Cap Core I,1,NSGRX
+NSIDX,Northern Small Cap Index,1,NSIDX
+NSMAX,Nuveen Small/Mid-Cap Value A,3,NSMAX NSMRX NSMCX
+NVLIX,Nuveen Winslow Large-Cap Growth ESG I,2,NVLIX NWCAX
+NWAMX,Nationwide BNY Mellon Dyn US Eq Inc K,1,NWAMX
+NYVTX,Davis NY Venture A,4,NYVTX NYVCX DNVYX NYVRX
+OAKLX,Oakmark Select Investor,1,OAKLX
+OAKMX,Oakmark Investor,1,OAKMX
+OALGX,Optimum Large Cap Growth A,1,OALGX
+OALVX,Optimum Large Cap Value A,3,OALVX OCLVX OILVX
+OARDX,Invesco Rising Dividends A,4,OARDX OCRDX OYRDX ONRDX
+OASGX,Optimum Small-Mid Cap Growth A,3,OASGX OCSGX OISGX
+OASVX,Optimum Small-Mid Cap Value A,3,OASVX OCSVX OISVX
+OBMCX,Oberweis Micro-Cap,1,OBMCX
+OBSOX,Oberweis Small-Cap Opportunities,1,OBSOX
+OCLGX,Optimum Large Cap Growth C,1,OCLGX
+ODIYX,Invesco Discovery Y,3,ODIYX ODICX ODINX
+OEGAX,Invesco Discovery Mid Cap Growth A,4,OEGAX OEGCX OEGYX OEGNX
+OILGX,Optimum Large Cap Growth Instl,1,OILGX
+OINCX,JPMorgan Equity Income C,1,OINCX
+OLVCX,JPMorgan Large Cap Value C,2,OLVCX JLVRX
+OMGCX,JPMorgan Mid Cap Growth C,1,OMGCX
+OMGNX,Invesco Main Street R,1,OMGNX
+OMSCX,Invesco Main Street All Cap C,4,OMSCX OMSOX OMSYX OMSNX
+OPMCX,Invesco Main Street Mid Cap C,1,OPMCX
+OPMSX,Invesco Main Street Mid Cap A,3,OPMSX OPMYX OPMNX
+OPOCX,Invesco Discovery A,1,OPOCX
+OPTFX,Invesco Discovery Large Cap A,4,OPTFX OTFCX OTCYX OTCNX
+ORIGX,North Square Spectrum Alpha Fund A,2,ORIGX ORIYX
+OSGCX,JPMorgan Small Cap Growth C,1,OSGCX
+OSGIX,JPMorgan Mid Cap Growth A,2,OSGIX JMGZX
+OSTFX,Osterweis,1,OSTFX
+OTCAX,MFS Mid Cap Growth A,7,OTCAX OTCBX OTCIX MCPRX OTCGX OTCHX OTCJX
+OTCCX,MFS Mid Cap Growth C,1,OTCCX
+OTCFX,T. Rowe Price Small-Cap Stock,3,OTCFX PASSX TRSSX
+OWACX,"Old Westbury Funds, Inc. - Old Westbury All Cap Core Fund",1,OWACX
+PAGRX,Permanent Portfolio Aggressive Growth I,1,PAGRX
+PAPPX,Papp Small & Mid-Cap Growth,1,PAPPX
+PARMX,Parnassus Mid-Cap,1,PARMX
+PARNX,Parnassus Mid Cap Growth Investor,1,PARNX
+PARWX,Parnassus Value Equity Investor,1,PARWX
+PAULX,T. Rowe Price US Large-Cap Core Adv,2,PAULX TRULX
+PBEAX,PGIM Jennison Value A,4,PBEAX PEICX PEIZX JDVRX
+PBFDX,Payson Total Return,1,PBFDX
+PBQAX,PGIM Jennison Blend A,3,PBQAX PRECX PEQZX
+PCCGX,Victory Pioneer Mid Cap Value C,1,PCCGX
+PCEQX,Victory Pioneer Equity Income C,1,PCEQX
+PCGRX,Victory Pioneer Mid Cap Value A,2,PCGRX PYCGX
+PCKAX,PIMCO Small Cap Stocks PLUS Bd Alp A,1,PCKAX
+PCKCX,PIMCO Small Cap Stocks PLUS Bd Alp C,1,PCKCX
+PCKPX,PIMCO Small Cap Stocks PLUS Bd Alp I-2,1,PCKPX
+PCLCX,PACE Large Co Growth Equity P,2,PCLCX PLAAX
+PCLVX,PACE Large Co Value Equity P,2,PCLVX PCPAX
+PCODX,Victory Pioneer C,3,PCODX PYODX PIORX
+PCSGX,PACE Small/Medium Co Growth Equity P,2,PCSGX PQUAX
+PCSVX,PACE Small/Medium Co Value Equity P,2,PCSVX PEVAX
+PDIAX,Virtus KAR Equity Income A,1,PDIAX
+PECAX,JPMorgan SMID Cap Equity A,2,PECAX ODMCX
+PEEAX,PGIM Jennison Mid-Cap Growth A,5,PEEAX PEGCX PEGZX JDERX PJGQX
+PEIYX,Putnam Large Cap Value Y,1,PEIYX
+PEMGX,Principal MidCap A,6,PEMGX PMBMX PMBPX PCBIX PMBJX PMBCX
+PENNX,Royce Small-Cap Fund Invmt,1,PENNX
+PEOPX,BNY Mellon S&P 500 Index,2,PEOPX DSPIX
+PESPX,BNY Mellon MidCap Index Inv,1,PESPX
+PEXMX,T. Rowe Price Extended Equity Market Idx,1,PEXMX
+PEYAX,Putnam Large Cap Value A,3,PEYAX PEQCX PEQRX
+PFSLX,Paradigm Select,1,PFSLX
+PGICX,Virtus KAR Equity Income C,1,PGICX
+PGOAX,PGIM Jennison Small Company A,1,PGOAX
+PGOFX,Victory Pioneer Select Mid Cap Growth A,3,PGOFX GOFCX GROYX
+PGRTX,Principal SmallCap Growth I Instl,2,PGRTX PSIJX
+PGSGX,JPMorgan Small Cap Growth A,5,PGSGX OGGFX JISGX JSGZX JGSMX
+PGWCX,Virtus Silvant Focused Growth C,3,PGWCX PGWAX PGFIX
+PHSKX,Virtus KAR Mid-Cap Growth A,3,PHSKX PSKCX PICMX
+PIGFX,Victory Pioneer Fundamental Growth A,2,PIGFX FUNYX
+PINDX,Victory Pioneer Disciplined Growth A,3,PINDX INDCX INYDX
+PIODX,Victory Pioneer A,1,PIODX
+PIOTX,Victory Pioneer Core Equity A,3,PIOTX PCOTX PVFYX
+PJARX,Principal SmallCap Value II R3,3,PJARX PLARX PPVIX
+PJFAX,PGIM Jennison Growth A,4,PJFAX PJFCX PJFZX PJGRX
+PJGCX,PGIM Jennison Focused Value C,2,PJGCX PJGZX
+PJIAX,PGIM Jennison Focused Value A,2,PJIAX PJORX
+PKSAX,Virtus KAR Small-Cap Core A,2,PKSAX PKSCX
+PKSFX,Virtus KAR Small-Cap Core I,1,PKSFX
+PLBEX,Plumb Equity Investor,1,PLBEX
+PLFIX,Principal Large Cap S&P 500 Index Inst,2,PLFIX PSPJX
+PLFMX,Principal Large Cap S&P 500 Index R3,3,PLFMX PLFPX PLSAX
+PLGIX,Principal LargeCap Growth I Instl,4,PLGIX PPUMX PPUPX PLGJX
+PLLAX,Principal SmallCap A,5,PLLAX PSBMX PSBPX PSBJX PSLIX
+PLVIX,Principal Large Cap Value III Inst,2,PLVIX PLVJX
+PMDAX,Principal Small-MidCap Dividend Inc A,2,PMDAX PMDIX
+PMFMX,Principal MidCap S&P 400 Index R3,4,PMFMX PMFPX MPSIX PMFJX
+PMVQX,PGIM Quant Solutions Mid-Cap Val R6,1,PMVQX
+PMYAX,Putnam Core Equity Fund A,4,PMYAX PMYCX PMYYX PMYZX
+PNOPX,Putnam Sustainable Leaders A,4,PNOPX PNOYX PNOCX PNORX
+PNRAX,Putnam U.S. Research A,3,PNRAX PURYX PRSRX
+PNSAX,Putnam Small Cap Growth A,4,PNSAX PNSCX PSYGX PSGRX
+POAGX,PRIMECAP Odyssey Aggressive Growth,1,POAGX
+POGAX,Putnam Large Cap Growth A,4,POGAX POGCX PGOYX PGORX
+POGRX,PRIMECAP Odyssey Growth,1,POGRX
+POGSX,Pin Oak Equity,1,POGSX
+POLIX,Polen Growth Institutional,2,POLIX POLRX
+POMIX,T. Rowe Price Total Equity Market Idx,1,POMIX
+POSKX,PRIMECAP Odyssey Stock,1,POSKX
+PPNMX,Principal SmallCap Growth I R3,2,PPNMX PPNPX
+PPSFX,Principal Large Cap Value III R3,2,PPSFX PPSRX
+PQIAX,Principal Equity Income A,5,PQIAX PEIIX PEUCX PEIOX PEIQX
+PQIRX,Victory Pioneer Equity Income R,1,PQIRX
+PQNCX,Virtus NFJ Mid-Cap Value C,3,PQNCX PQNAX PRNIX
+PQSAX,Virtus KAR Small-Cap Value A,3,PQSAX PQSCX PXQSX
+PRACX,Putnam U.S. Research C,1,PRACX
+PRBLX,Parnassus Core Equity Investor,2,PRBLX PRILX
+PRCOX,T. Rowe Price U.S. Equity Research,3,PRCOX PACOX RRCOX
+PRDGX,T. Rowe Price Dividend Growth,2,PRDGX TADGX
+PRDMX,T. Rowe Price Diversified Mid Cap Gr,1,PRDMX
+PRDSX,T. Rowe Price Integrated US Sm Gr Eq,1,PRDSX
+PREFX,T. Rowe Price Tax-Efficient Equity,1,PREFX
+PREIX,T. Rowe Price Equity Index 500,1,PREIX
+PRFDX,T. Rowe Price Equity Income,3,PRFDX PAFDX RRFDX
+PRGFX,T. Rowe Price Growth Stock,3,PRGFX TRSAX RRGSX
+PRNHX,T. Rowe Price New Horizons,1,PRNHX
+PROVX,Provident Trust Strategy,1,PROVX
+PRSGX,T. Rowe Price Spectrum Diversified Eq,1,PRSGX
+PRSVX,T. Rowe Price Small-Cap Value,2,PRSVX PASVX
+PRWAX,T. Rowe Price All-Cap Opportunities Fund,2,PRWAX PAWAX
+PSCCX,PGIM Jennison Small Company C,4,PSCCX PSCZX JSCRX PJSQX
+PSCSX,PIMCO Small Cap Stocks PLUS Bd Alp Inst,1,PSCSX
+PSGIX,BlackRock Advantage Small Cap Gr Instl,2,PSGIX CSGEX
+PSIFX,PGIM Quant Solutions Large-Cap Index Z,4,PSIFX PDSIX PSIAX PSICX
+PSKPX,PIMCO Stocks PLUS Bond Alpha I-2,1,PSKPX
+PSLAX,Putnam Small Cap Value A,1,PSLAX
+PSLCX,Putnam Small Cap Value C,3,PSLCX PYSVX PSCRX
+PSMJX,Principal SmallCap Value II J,1,PSMJX
+PSOAX,JPMorgan Small Cap Value A,6,PSOAX PSOPX OSVCX JSVUX JSVRX JSVZX
+PSOCX,PIMCO Stocks PLUS Bond Abs Ret Alp C,1,PSOCX
+PSPAX,PIMCO Stocks PLUS Bond Alpha A,1,PSPAX
+PSPCX,PIMCO Stocks PLUS Bond Alpha C,1,PSPCX
+PSPRX,PIMCO Stocks PLUS Bond Alpha R,1,PSPRX
+PSPTX,PIMCO Stocks PLUS Bond Abs Ret Alp I,1,PSPTX
+PSSIX,Principal SmallCap S&P 600 Index Inst,1,PSSIX
+PSSMX,Principal SmallCap S&P 600 Index R3,3,PSSMX PSSPX PSSJX
+PSTAX,Virtus KAR Capital Growth A,2,PSTAX PLXGX
+PSTKX,PIMCO Stocks PLUS Bond Alpha Inst,1,PSTKX
+PSVIX,Virtus NFJ Small-Cap Value Inst,2,PSVIX PCVAX
+PTEZX,PGIM Quant Solutions Large-Cap Cor Eq Z,3,PTEZX PTMAX PTMCX
+PTOAX,PIMCO Stocks PLUS Bond Abs Ret Alp A,1,PTOAX
+PTOPX,PIMCO Stocks PLUS Bond Abs Ret Alp I-2,1,PTOPX
+PTSGX,Touchstone Sands Capital Select Growth Z,3,PTSGX CFSIX TSNAX
+PVFAX,Paradigm Value,1,PVFAX
+PVFIX,Pinnacle Value,1,PVFIX
+PVIVX,Paradigm Micro-Cap,1,PVIVX
+PVMIX,Principal MidCap Value I Inst,4,PVMIX PABVX PMPRX PVEJX
+PWGIX,Impax US Sustainable Economy Instl,1,PWGIX
+PXIIX,Virtus KAR Equity Income I,1,PXIIX
+PXSGX,Virtus KAR Small-Cap Growth I,3,PXSGX PSGAX PSGCX
+PXSIX,Impax Small Cap Institutional,2,PXSIX PXSCX
+PXWGX,Impax US Sustainable Economy Investor,1,PXWGX
+PYEQX,Victory Pioneer Equity Income Y,1,PYEQX
+PYVLX,Payden Equity Income,1,PYVLX
+PZFVX,JHancock Classic Value A,4,PZFVX JCVCX JCVIX JCVVX
+QALGX,Federated Hermes MDT Large Cap Growth A,3,QALGX QCLGX QILGX
+QASCX,Federated Hermes MDT Small Cap Core A,3,QASCX QCSCX QISCX
+QASGX,Federated Hermes MDT Small Cap Growth A,3,QASGX QISGX QCSGX
+QIACX,Federated Hermes MDT All Cap Core IS,4,QIACX QAACX QCACX QKACX
+QRVLX,FPA Queens Road Value,1,QRVLX
+QUASX,AB Small Cap Growth A,3,QUASX QUAYX QUAIX
+RBCGX,Reynolds Blue Chip Growth,1,RBCGX
+RCKSX,Rock Oak Core Growth,1,RCKSX
+RCOCX,Victory RS Large Cap Alpha C,1,RCOCX
+RDCCX,Columbia Disciplined Value C,1,RDCCX
+RDCEX,Columbia Disciplined Core C,1,RDCEX
+RDLAX,Columbia Disciplined Growth A,1,RDLAX
+RDLCX,Columbia Disciplined Growth C,1,RDLCX
+RDVIX,Royce Smid-Cap Total Return Investment,1,RDVIX
+REBYX,Russell Inv US Small Cap Equity Y,4,REBYX RLACX RLECX RLESX
+REQAX,Russell Investments Sustainable Equity A,3,REQAX REQCX REQTX
+REQSX,Russell Inv Equity Income C,3,REQSX RLISX RSQAX
+RETSX,Russell Inv Tax-Managed US Large Cap S,1,RETSX
+REUYX,Russell Investments Sustainable Equity Y,1,REUYX
+RGWCX,Victory RS Growth C,1,RGWCX
+RIVCX,Victory RS Investors C,1,RIVCX
+RIVSX,River Oak Discovery,1,RIVSX
+RLCAX,Columbia Disciplined Value A,1,RLCAX
+RMBJX,RMB C,1,RMBJX
+RMBMX,RMB SMID Cap I,1,RMBMX
+RMDAX,Virtus Silvant Mid-Cap Growth A,1,RMDAX
+RMDCX,Virtus Silvant Mid-Cap Growth C,1,RMDCX
+RPEAX,Davis Opportunity A,3,RPEAX DGOCX DGOYX
+RPFFX,Royce Premier Service,1,RPFFX
+RPMGX,T. Rowe Price Mid-Cap Growth,4,RPMGX PMEGX PAMCX RRMGX
+RPMIX,Royce Small-Cap Fund Instl,1,RPMIX
+RPRCX,Royce Premier Consult,1,RPRCX
+RPXFX,RiverPark Large Growth Retail,2,RPXFX RPXIX
+RSDFX,Columbia Dividend Opportunity Inst2,1,RSDFX
+RSDGX,Victory RS Select Growth A,3,RSDGX RSGFX RSSYX
+RSEGX,Victory RS Small Cap Growth A,3,RSEGX RSYEX REGWX
+RSGRX,Victory RS Growth A,2,RSGRX RGRYX
+RSINX,Victory RS Investors A,2,RSINX RSIYX
+RSIPX,Columbia Disciplined Core Inst2,1,RSIPX
+RSMOX,Victory RS Mid Cap Growth A,3,RSMOX RMOYX RMOCX
+RSOOX,Columbia Dividend Opportunity R,1,RSOOX
+RSPFX,Victory RS Partners A,3,RSPFX RSPKX RSPYX
+RSVAX,Victory RS Value A,2,RSVAX RSVYX
+RTLCX,Russell Inv Tax-Managed US Large Cap C,2,RTLCX RTLAX
+RTRIX,Royce Small-Cap Total Return Instl,1,RTRIX
+RTSCX,Russell Inv Tax-Managed US Mid&Sm Cap C,2,RTSCX RTSAX
+RTSSX,Russell Inv Tax-Managed US Mid&Sm Cap S,1,RTSSX
+RVACX,Victory RS Value C,1,RVACX
+RVVHX,Royce Small-Cap Value Investment,1,RVVHX
+RYAVX,Rydex S&P MidCap 400 Pure Value H,3,RYAVX RYMMX RYMVX
+RYAWX,Rydex S&P 500 Pure Growth H,3,RYAWX RYGRX RYLGX
+RYAZX,Rydex S&P SmallCap 600 Pure Value H,3,RYAZX RYYCX RYSVX
+RYBHX,Rydex S&P MidCap 400 Pure Growth H,2,RYBHX RYMGX
+RYCKX,Rydex S&P MidCap 400 Pure Growth C,1,RYCKX
+RYDVX,Royce Smid-Cap Total Return Service,1,RYDVX
+RYOCX,Rydex NASDAQ-100 Inv,3,RYOCX RYCOX RYATX
+RYOTX,Royce Micro-Cap Invmt,3,RYOTX RYMCX RMCFX
+RYPCX,Royce Small-Cap Fund Consult,1,RYPCX
+RYPFX,Royce Small-Cap Fund Svc,1,RYPFX
+RYPNX,Royce Small-Cap Opportunity Invmt,5,RYPNX RYOFX ROFIX ROFCX ROFRX
+RYPRX,Royce Premier Invmt,2,RYPRX RPFIX
+RYRHX,Rydex Russell 2000 H,3,RYRHX RYROX RYRRX
+RYSEX,Royce Small-Cap Special Equity Invmt,4,RYSEX RSQCX RSEIX RSEFX
+RYSOX,Rydex S&P 500 A,3,RYSOX RYSPX RYSYX
+RYTCX,Royce Small-Cap Total Return Consult,2,RYTCX RTRRX
+RYTFX,Royce Small-Cap Total Return Svc,1,RYTFX
+RYTRX,Royce Small-Cap Total Return Invmt,1,RYTRX
+RYVFX,Royce Small-Cap Value Service,1,RYVFX
+RYVPX,Royce Small-Cap Growth Svc,3,RYVPX RVPIX RVPHX
+RYWAX,Rydex S&P SmallCap 600 Pure Growth H,2,RYWAX RYSGX
+RYWCX,Rydex S&P SmallCap 600 Pure Growth C,1,RYWCX
+RYZAX,Rydex S&P 500 Pure Value H,3,RYZAX RYVVX RYLVX
+SABTX,SA US Value,1,SABTX
+SAGAX,Virtus Zevenbergen Innovative Gr Stk A,2,SAGAX SCATX
+SAGWX,Touchstone Small Company A,1,SAGWX
+SAIFX,ClearBridge Large Cap Value I,3,SAIFX SINAX SINOX
+SAMKX,SA US Core Market,1,SAMKX
+SAMVX,Virtus Ceredex Mid-Cap Value Equity A,1,SAMVX
+SAOPX,Barrett Opportunity Retail,1,SAOPX
+SASMX,ClearBridge Small Cap Growth A,2,SASMX SCSMX
+SASVX,Virtus Ceredex Small-Cap Value Eq A,1,SASVX
+SAUMX,SA US Small Company,1,SAUMX
+SBLGX,ClearBridge Large Cap Growth A,3,SBLGX SLCCX SBLYX
+SBMAX,ClearBridge Mid Cap A,3,SBMAX SBMLX SMBYX
+SBPYX,ClearBridge Small Cap Growth I,5,SBPYX LMPOX LMPMX LMPSX LMOIX
+SBSPX,Franklin S&P 500 Index A,2,SBSPX SBSDX
+SCDGX,DWS Core Equity S,4,SCDGX SUWAX SUWCX SUWIX
+SCECX,Steward Values Enhanced SmMidCapI,1,SCECX
+SCETX,Virtus Ceredex Small-Cap Value Eq I,1,SCETX
+SCGSX,DWS Capital Growth S,4,SCGSX SDGAX SDGCX SDGTX
+SCPAX,SEI Large Cap Disciplined Eq A (SIIT),1,SCPAX
+SCQGX,DWS Large Cap Focus Growth S,4,SCQGX SGGAX SGGCX SGGIX
+SCSAX,Allspring Common Stock A,2,SCSAX SCNSX
+SCUIX,Hartford Schroders US Small Cap Opps I,1,SCUIX
+SCUVX,Hartford Schroders US Small Cap Opps A,1,SCUVX
+SCVAX,Allspring Small Company Value A,2,SCVAX SCVNX
+SDSCX,BNY Mellon Sm/Md Cp Gr I,3,SDSCX DBMAX DBMCX
+SDVGX,Sit Dividend Growth I,2,SDVGX SDVSX
+SECEX,NAA Large Core A,1,SECEX
+SECIX,NAA Large Cap Value A,2,SECIX SEGIX
+SECUX,NAA Mid Growth A,1,SECUX
+SEEGX,JPMorgan Large Cap Growth I,6,SEEGX OLGAX OLGCX JLGZX JLGRX JLGMX
+SELCX,SEI Large Cap Growth F (SIMT),2,SELCX SPGIX
+SEMCX,SEI Mid-Cap F (SIMT),2,SEMCX SIPIX
+SENAX,Allspring Mid Cap Growth Fund - Cl A,2,SENAX WFEIX
+SENCX,Touchstone Large Cap Focused A,3,SENCX SCSCX SICWX
+SESVX,SEI Small Cap Value F (SIMT),2,SESVX SMVIX
+SEVAX,NAA SMid Cap Value A,1,SEVAX
+SFLNX,Schwab Fundamental US Large Company Idx,1,SFLNX
+SFSNX,Schwab Fundamental US Small Company Idx,1,SFSNX
+SGFFX,Sparrow Growth A,2,SGFFX SGNFX
+SGPIX,ProFunds Small Cap Growth Inv,2,SGPIX SGPSX
+SGRAX,Allspring Growth A,3,SGRAX SGRNX SGRKX
+SHAPX,ClearBridge Appreciation A,3,SHAPX SAPCX SAPYX
+SHRAX,ClearBridge Growth A,2,SHRAX SAGYX
+SIGWX,Touchstone Small Company Y,1,SIGWX
+SIVIX,State Street Instl Small-Cap Equity Inv,2,SIVIX SSQSX
+SKSEX,AMG GW&K Small Cap Value N,1,SKSEX
+SLASX,Selected American Shares S,2,SLASX SLADX
+SLCAX,SEI Large Cap A (SIIT),1,SLCAX
+SLCGX,Saratoga Large Capitalization Growth I,1,SLCGX
+SLCVX,Saratoga Large Capitalization Value I,3,SLCVX SLVCX SLVYX
+SLGAX,SEI Large Cap F (SIMT),1,SLGAX
+SLGCX,Saratoga Large Capitalization Growth C,1,SLGCX
+SLGYX,Saratoga Large Capitalization Growth A,1,SLGYX
+SLLAX,SEI Small Cap F (SIMT),1,SLLAX
+SLPAX,SEI Small Cap A (SIIT),1,SLPAX
+SLPIX,ProFunds Small Cap Inv,2,SLPIX SLPSX
+SLVAX,Columbia Select Large Cap Value A,5,SLVAX SVLCX SLVIX SLVRX CSVZX
+SMCIX,Shelton S&P Smallcap Index Investor,1,SMCIX
+SMCPX,ClearBridge Mid Cap 1,3,SMCPX LSIRX LMREX
+SMDIX,Hartford Schroders US MidCap Opps I,2,SMDIX SMDVX
+SMEAX,Invesco Small Cap Equity A,4,SMEAX SMERX SMEIX SMEYX
+SMECX,Invesco Small Cap Equity C,1,SMECX
+SMGIX,Columbia Contrarian Core Inst,4,SMGIX LCCAX LCCCX CCCRX
+SMIPX,Saratoga Mid Capitalization I,1,SMIPX
+SMLKX,Shelton S&P Smallcap Index K,1,SMLKX
+SMMIX,Invesco Summit P,5,SMMIX CSMMX ASMYX SMITX SMMSX
+SMVFX,Virtus Ceredex Mid-Cap Value Equity C,2,SMVFX SMVTX
+SMVLX,Smead Value Investor,2,SMVLX SVFFX
+SNIGX,Sit Large Cap Growth,1,SNIGX
+SNWAX,Easterly Snow Small Cap Value A,3,SNWAX SNWCX SNWIX
+SNXFX,Schwab 1000 Index,2,SNXFX SWTSX
+SOAVX,Spirit of America Large Cap Value A,1,SOAVX
+SOPAX,ClearBridge Dividend Strategy A,1,SOPAX
+SOPVX,Allspring Opportunity A,3,SOPVX WOFDX WOFNX
+SOPYX,ClearBridge Dividend Strategy I,2,SOPYX SBPLX
+SPEGX,Alger Responsible Investing A,1,SPEGX
+SPFAX,PGIM Jennison Focused Growth A,3,SPFAX SPFCX SPFZX
+SPGRX,DWS Equity Sector Strategy Fund Class S,2,SPGRX SUPCX
+SPICX,Invesco S&P 500 Index C,3,SPICX SPIAX SPIDX
+SPMAX,Saratoga Mid Capitalization A,1,SPMAX
+SPMCX,Saratoga Mid Capitalization C,1,SPMCX
+SPMIX,Shelton S&P Midcap Index Investor,5,SPMIX VMIDX NMPAX NTIAX VSPMX
+SPSCX,Sterling Capital Behav Sm Cp Val Eq Intl,3,SPSCX SPSAX SPSDX
+SRVEX,Victory Diversified Stock A,4,SRVEX GRINX VDSCX VDSIX
+SSAQX,State Street US Core Equity Fund,1,SSAQX
+SSCCX,Saratoga Small Capitalization C,1,SSCCX
+SSCGX,SEI Small Cap Growth F (SIMT),2,SSCGX SPWIX
+SSCPX,Saratoga Small Capitalization I,1,SSCPX
+SSCVX,Columbia Select Small Cap Value A,3,SSCVX SSVIX CSSZX
+SSCYX,Saratoga Small Capitalization A,1,SSCYX
+SSDAX,DWS Small Cap Growth A,4,SSDAX SSDCX SSDIX SSDSX
+SSGFX,Saturna Growth,1,SSGFX
+SSHFX,Sound Shore Investor,1,SSHFX
+SSLCX,DWS Small Cap Core S,3,SSLCX SZCAX SZCCX
+SSMAX,SEI Small/Mid Cap Equity A (SIIT),1,SSMAX
+SSMGX,Sit Small Cap Growth,1,SSMGX
+SSPIX,SEI S&P 500 Index F (SIMT),2,SSPIX SPIIX
+SSSFX,"SouthernSun Small Cap, N",2,SSSFX SSSIX
+SSTFX,Virtus KAR Capital Growth C,1,SSTFX
+STAFX,Allspring Large Cap Growth A,3,STAFX STDFX STNFX
+STCAX,Virtus Silvant Large-Cap Growth Stk I,1,STCAX
+STCIX,Virtus Silvant Large-Cap Growth Stk A,1,STCIX
+STFAX,State Street Equity 500 Index Adm,2,STFAX STBIX
+STFGX,State Farm Growth,1,STFGX
+STMGX,American Beacon Stephens Mid-Cap Gr Inv,2,STMGX SFMIX
+STMSX,SEI Tax-Managed Small/Mid Cap F (SIMT),1,STMSX
+STRGX,Sterling Capital MdCp Relatv Val Instl,1,STRGX
+STSCX,Sterling Capital SmCp Val Instl,1,STSCX
+STSEX,BlackRock Exchange BlackRock,1,STSEX
+STSGX,American Beacon Stephens Sm Cp Gr Inv,2,STSGX STSIX
+STSVX,BNY Mellon Sm Cp Val I,1,STSVX
+STVTX,Virtus Ceredex Large-Cap Value Equity I,2,STVTX SVIIX
+SUPAX,DWS Equity Sector Strategy Fund Class A,1,SUPAX
+SUSIX,State Street Instl US Equity Inv,1,SUSIX
+SUSSX,State Street Instl US Equity Svc,1,SUSSX
+SUVAX,PGIM Quant Solutions Large-Cap Val A,3,SUVAX SUVCX SUVZX
+SVAAX,Federated Hermes Strategic Value Div A,1,SVAAX
+SVACX,Federated Hermes Strategic Value Div C,1,SVACX
+SVAIX,Federated Hermes Strategic Value Div IS,1,SVAIX
+SVOAX,SEI US Managed Volatility F (SIMT),1,SVOAX
+SVPIX,ProFunds Small Cap Value Inv,2,SVPIX SVPSX
+SVSPX,State Street S&P 500 Index N,1,SVSPX
+SVYAX,SEI US Managed Volatility A (SIIT),1,SVYAX
+SWANX,Schwab Core Equity,1,SWANX
+SWDSX,Schwab Dividend Equity,1,SWDSX
+SWLSX,Schwab Large-Cap Growth,1,SWLSX
+SWPPX,Schwab S&P 500 Index,1,SWPPX
+SWSCX,Schwab Small-Cap Equity,1,SWSCX
+SWSSX,Schwab Small Cap Index,1,SWSSX
+TAAGX,Timothy Plan Small/Mid Cap Growth Cl A,1,TAAGX
+TADAX,Transamerica US Growth A,3,TADAX TADCX TDEIX
+TAGRX,JHancock Fundamental Large Cap Core A,4,TAGRX JLVIX JLCFX JLCVX
+TASCX,Third Avenue Small Cap Value Instl,2,TASCX TVSVX
+TASVX,PGIM Quant Solutions Small-Cap Val Z,2,TASVX TSVRX
+TBDAX,PGIM Jennison Diversified Growth A,1,TBDAX
+TBDCX,PGIM Jennison Diversified Growth C,1,TBDCX
+TCAGX,Timothy Plan Small/Mid Cap Growth Cl C,1,TCAGX
+TCGCX,Thornburg Focus Growth C,6,TCGCX THCGX THCRX THIGX THGRX TCGRX
+TCMSX,Voya Small Cap Growth I,1,TCMSX
+TCVAX,Touchstone Mid Cap Value A,4,TCVAX TCVIX TCVYX TMFCX
+TEGAX,Touchstone Mid Cap Growth A,1,TEGAX
+TEGYX,Touchstone Mid Cap Growth Y,2,TEGYX TEGIX
+TFFYX,Touchstone Focused Y,3,TFFYX TFOAX TFFIX
+TFOIX,Transamerica Capital Growth I,1,TFOIX
+TGCEX,TCW Concentrated Large Cap Growth I Cl,2,TGCEX TGCNX
+TGDVX,TCW Relative Value Large Cap N,2,TGDVX TGDIX
+TGFRX,Tanaka Growth,1,TGFRX
+TGVFX,Touchstone Dynamic Large Cap Growth A,3,TGVFX TGVVX TGVYX
+TGVOX,TCW Relative Value Mid Cap I,2,TGVOX TGVNX
+THLCX,Thrivent Large Cap Growth S,1,THLCX
+THPGX,Thompson LargeCap,1,THPGX
+THPMX,Thompson MidCap,1,THPMX
+TICRX,Nuveen Large Cap Responsible Eq A,1,TICRX
+TIEIX,Nuveen Equity Index R6,4,TIEIX TINRX TIQRX TCEPX
+TIGRX,Nuveen Core Equity R6,3,TIGRX TRGIX TRPGX
+TIHGX,The Investment House Growth,1,TIHGX
+TIIRX,Nuveen Core Equity A,1,TIIRX
+TILCX,T. Rowe Price Lrg Cp Va I,1,TILCX
+TILGX,Nuveen Large Cap Growth R6,4,TILGX TILRX TIRTX TILPX
+TISCX,Nuveen Large Cap Responsible Eq R6,3,TISCX TRSCX TRPSX
+TLGAX,Timothy Plan Large/Mid Cap Growth A,1,TLGAX
+TLGCX,Timothy Plan Large/Mid Cap Growth C,1,TLGCX
+TLVAX,Timothy Plan Large/Mid Cap Value A,2,TLVAX TLVCX
+TLVIX,Thrivent Large Cap Value S,1,TLVIX
+TMCAX,RBC SMID Cap Growth A,1,TMCAX
+TMCIX,RBC SMID Cap Growth I,1,TMCIX
+TMCPX,Touchstone Mid Cap Y,4,TMCPX TMCTX TMAPX TMCJX
+TMDIX,AMG TimesSquare Mid Cap Growth Z,2,TMDIX TMDPX
+TMLCX,SEI Tax-Managed Large Cap F (SIMT),1,TMLCX
+TMMAX,SEI Tax-Managed Mgd Volatility F (SIMT),1,TMMAX
+TOCQX,Tocqueville,1,TOCQX
+TORYX,Torray Equity Income Fund,1,TORYX
+TPLNX,Timothy Plan Small Cap Value A,2,TPLNX TSVCX
+TQCAX,Touchstone Dividend Equity A,1,TQCAX
+TQCCX,Touchstone Dividend Equity C,1,TQCCX
+TRBCX,T. Rowe Price Blue Chip Growth,4,TRBCX PABGX RRBGX TPLGX
+TRBIX,Nuveen Small Cap Blend Idx Retire,2,TRBIX TISBX
+TRCVX,Nuveen Large Cap Value Idx Retire,2,TRCVX TILVX
+TRDFX,Steward Values Enhanced SmMidCapA,1,TRDFX
+TRGMX,Nuveen Quant Mid Cap Growth Retire,4,TRGMX TCMGX TRPWX TRGPX
+TRIRX,Nuveen Large Cap Gr Idx Retire,2,TRIRX TILIX
+TRLCX,Nuveen Large Cap Value Retire,4,TRLCX TCLCX TRLIX TRCPX
+TRLGX,T. Rowe Price Lrg Cp Gr I,1,TRLGX
+TRMCX,T. Rowe Price Mid-Cap Value,3,TRMCX RRMVX TAMVX
+TRMVX,SEI Large Cap Value F (SIMT),2,TRMVX SEUIX
+TRSEX,Nuveen Quant Small Cap Equity Ret,4,TRSEX TCSEX TISEX TSRPX
+TRSPX,Nuveen S&P 500 Index Retire,2,TRSPX TISPX
+TRVLX,T. Rowe Price Value,2,TRVLX PAVLX
+TRVRX,Nuveen Mid Cap Value Retire,4,TRVRX TCMVX TIMVX TRVPX
+TSCIX,AMG TimesSquare Small Cap Growth Z,2,TSCIX TSCPX
+TSFAX,Touchstone Small Cap A,4,TSFAX TSFCX TSFIX TSFYX
+TSNCX,Touchstone Sands Capital Select Growth C,1,TSNCX
+TSWEX,TSW Large Cap Value Institutional,1,TSWEX
+TVAFX,Thornburg American Opportunities A,6,TVAFX TVCFX TVIFX TVRFX TVRRX TVIRX
+TVLAX,Touchstone Value A,1,TVLAX
+TVLIX,Touchstone Value Institutional,1,TVLIX
+TVLYX,Touchstone Value Y,1,TVLYX
+TVOAX,Touchstone Small Cap Value A,4,TVOAX TVOCX TVOIX TVOYX
+TWADX,American Century Value A,1,TWADX
+TWCGX,American Century Growth Inv,5,TWCGX TCRAX TWGIX AGWRX TWRCX
+TWCIX,American Century Select Inv,5,TWCIX TWSIX TWCAX ACSLX ASERX
+TWCUX,American Century Ultra Inv,5,TWCUX TWUAX TWUIX TWCCX AULRX
+TWEAX,American Century Equity Income A,1,TWEAX
+TWEIX,American Century Equity Income Inv,1,TWEIX
+TWHIX,American Century Heritage Inv,5,TWHIX ATHIX ATHAX AHGCX ATHWX
+TWQAX,Transamerica Large Cap Value A,3,TWQAX TWQIX TWQZX
+TWQCX,Transamerica Large Cap Value C,1,TWQCX
+TWVLX,American Century Value Inv,1,TWVLX
+UBVLX,Undiscovered Managers Behavioral Val L,3,UBVLX UBVAX UBVCX
+UIVAX,Victory Value Institutional,1,UIVAX
+UMBHX,Carillon Chartwell Small Cap I,1,UMBHX
+UMBMX,Carillon Scout Mid Cap I,1,UMBMX
+UMLGX,Columbia Select Large Cap Growth Inst,1,UMLGX
+URLGX,Columbia Select Large Cap Growth R,1,URLGX
+USAAX,Victory Growth,2,USAAX UIGRX
+USAUX,Victory Aggressive Growth,2,USAUX UIAGX
+USBNX,Pear Tree Polaris Small Cap Ord,2,USBNX QBNAX
+USBOX,Pear Tree Quality Ordinary,2,USBOX QGIAX
+USCAX,Victory Small Cap Stock,2,USCAX UISCX
+USGLX,JHancock U.S. Global Leaders Growth A,3,USGLX USLCX USLIX
+USGRX,Victory Growth & Income,1,USGRX
+USISX,Victory Income Stock,2,USISX UIISX
+USMIX,Victory Extended Market Index,1,USMIX
+USNQX,Victory NASDAQ-100 Index,1,USNQX
+USPVX,Union Street Partners Value A,2,USPVX USPCX
+USSPX,Victory 500 Index Member,2,USSPX USPRX
+UVALX,Victory Value,1,UVALX
+VADAX,Invesco Equally-Wtd S&P 500 A,4,VADAX VADCX VADDX VADRX
+VAFAX,Invesco American Franchise A,5,VAFAX VAFCX VAFIX VAFNX VAFRX
+VALAX,Al Frank Adv,1,VALAX
+VALLX,Value Line Larger Companies Focused Inv,1,VALLX
+VALSX,Value Line Select Core Inv,1,VALSX
+VAPPX,VALIC Company I Capital Appreciation,1,VAPPX
+VASVX,Vanguard Selected Value Inv,1,VASVX
+VBCVX,VALIC Company I Systematic Value,1,VBCVX
+VCBCX,VALIC Company I Systematic Growth,1,VCBCX
+VCGAX,VALIC Company I Systematic Core Fund,1,VCGAX
+VCIGX,VALIC Company I Dividend Value,1,VCIGX
+VCNIX,VALIC Company I NASDAQ-100 Index,1,VCNIX
+VCSLX,VALIC Company I Small Cap Index,2,VCSLX VRTIX
+VCULX,VALIC Company I Growth,1,VCULX
+VDEQX,Vanguard Diversified Equity Inv,1,VDEQX
+VDIGX,Vanguard Dividend Growth Inv,1,VDIGX
+VEIPX,Vanguard Equity-Income Inv,2,VEIPX VEIRX
+VETAX,Victory Sycamore Established Value A,2,VETAX VEVIX
+VEVFX,Vanguard Explorer Value Inv,1,VEVFX
+VEXMX,Vanguard Extended Market Index Investor,4,VEXMX VIEIX VEXAX VEMPX
+VEXPX,Vanguard Explorer Inv,2,VEXPX VEXRX
+VFINX,Vanguard 500 Index Investor,13,VFINX VINIX MSPIX SPFIX NINDX NEIAX VSTIX VIIIX VFIAX SPXKX MSXAX MYSPX FXAIX
+VFPIX,Private Capital Management Value I,1,VFPIX
+VFTNX,Vanguard FTSE Social Index I,1,VFTNX
+VGRIX,JPMorgan US Value A,3,VGRIX VGIIX VGICX
+VHCOX,Vanguard Capital Opportunity Inv,2,VHCOX VHCAX
+VHIAX,JPMorgan Growth Advantage A,2,VHIAX JGASX
+VIGRX,Vanguard MStar Growth Index Investor,3,VIGRX VIGIX VIGAX
+VIMCX,Virtus KAR Mid-Cap Core I,3,VIMCX VMACX VMCCX
+VIMSX,Vanguard MStar Mid Cap Index Investor,4,VIMSX VMCIX VIMAX VMCPX
+VISGX,Vanguard MStar Small Cap Growth Indx Inv,2,VISGX VSGIX
+VISVX,Vanguard MStar Small Cap Value Index,2,VISVX VSIIX
+VIVAX,Vanguard MStar Value Index Investor,3,VIVAX VIVIX VVIAX
+VLACX,Vanguard MStar Large Cap Index Investor,3,VLACX VLCAX VLISX
+VLCGX,VALIC Company I Large Cap Core,1,VLCGX
+VLEOX,Value Line Small Cap Opportunities Inv,1,VLEOX
+VLIFX,Value Line Mid Cap Focused Inv,1,VLIFX
+VMCTX,Vanguard MStar Mega Cap Index Instl,1,VMCTX
+VMFGX,Vanguard S&P Mid-Cap 400 Growth Idx I,1,VMFGX
+VMFVX,Vanguard S&P Mid-Cap 400 Value Idx I,1,VMFVX
+VMGAX,Vanguard MStar Mega Cap Growth Idx Instl,1,VMGAX
+VMGIX,Vanguard MStar Mid Cap Growth Index Inv,1,VMGIX
+VMGRX,Vanguard Mid Cap Growth Inv,1,VMGRX
+VMSGX,VALIC Company I Mid Cap Strategic Gr,1,VMSGX
+VMVIX,Vanguard MStar Mid Cap Value Index Inv,1,VMVIX
+VMVLX,Vanguard MStar Mega Cap Value Indx Instl,1,VMVLX
+VNVAX,Natixis Vaughan Nelson Mid Cap A,3,VNVAX VNVCX VNVYX
+VOLMX,Volumetric,1,VOLMX
+VPCCX,Vanguard PRIMECAP Core Inv,1,VPCCX
+VPMCX,Vanguard PRIMECAP Inv,2,VPMCX VPMAX
+VQNPX,Vanguard Growth & Income Inv,2,VQNPX VGIAX
+VRGWX,Vanguard Russell 1000 Growth Index I,1,VRGWX
+VRTGX,Vanguard Russell 2000 Growth Index I,1,VRTGX
+VRTVX,Vanguard Russell 2000 Value Index I,1,VRTVX
+VRVIX,Vanguard Russell 1000 Value Index I,1,VRVIX
+VSCAX,Invesco Small Cap Value A,2,VSCAX VSMIX
+VSCOX,JPMorgan Small Cap Blend A,3,VSCOX VSCCX JDSCX
+VSEAX,JPMorgan Small Cap Equity A,5,VSEAX VSEIX JSECX JSERX JSEZX
+VSEQX,Vanguard Strategic Equity Inv,1,VSEQX
+VSFAX,Federated Hermes MDT Small Cap Value A,4,VSFAX VSFCX VSFIX VSFRX
+VSMVX,Vanguard S&P Small-Cap 600 Val Idx Instl,1,VSMVX
+VSNGX,JPMorgan Mid Cap Equity I,3,VSNGX JCMAX JMCCX
+VSPGX,Vanguard S&P 500 Growth Index Instl,1,VSPGX
+VSPVX,Vanguard S&P 500 Value Index Instl,1,VSPVX
+VSRDX,VALIC Company I U.S. Socially Rspnb,1,VSRDX
+VSSVX,VALIC Company I Small Cap Core,1,VSSVX
+VSTCX,Vanguard Strategic Small-Cap Equity Inv,1,VSTCX
+VSVIX,Victory Integrity Small-Cap Value Y,2,VSVIX MRVSX
+VTMSX,Vanguard Tax-Managed Small Cap Adm,3,VTMSX VTSIX VSMSX
+VTSMX,Vanguard MStar Total Stk Mkt Idx Invest,9,VTSMX VITSX VTCIX VTSAX VITPX VITNX VTCLX VRNIX VRTTX
+VVMCX,VALIC Company I Mid Cap Value,1,VVMCX
+VVOAX,Invesco Value Opportunities A,5,VVOAX VVOCX VVOIX VVONX VVORX
+VVPLX,Vulcan Value Partners,1,VVPLX
+VVSCX,VALIC Company I Small Cap Value,1,VVSCX
+VVSGX,VALIC Company I Small Cap Growth,1,VVSGX
+VWNDX,Vanguard Windsor Investor Shares,2,VWNDX VWNEX
+VWNFX,Vanguard Windsor II Inv,2,VWNFX VWNAX
+VWUAX,Vanguard US Growth Admiral,1,VWUAX
+VWUSX,Vanguard US Growth Investor,1,VWUSX
+WAAEX,Wasatch Small Cap Growth Investor,1,WAAEX
+WAMCX,Wasatch Ultra Growth,1,WAMCX
+WAMVX,Wasatch Micro Cap Value,1,WAMVX
+WBGSX,William Blair Growth N,1,WBGSX
+WBSIX,William Blair Small Cap Growth I,2,WBSIX WBSNX
+WBVNX,William Blair Small Cap Value N,1,WBVNX
+WCEAX,Nomura Core Equity Fund Class A,1,WCEAX
+WCEYX,Nomura Core Equity Fund Class Y,2,WCEYX ICIEX
+WEECX,TETON Westwood Equity A,1,WEECX
+WEEIX,TETON Westwood Equity I,1,WEEIX
+WEMAX,Allspring Emerging Growth A,2,WEMAX WEMIX
+WEMMX,TETON Westwood Mighty Mites AAA,1,WEMMX
+WEQCX,TETON Westwood Equity C,1,WEQCX
+WESCX,Keeley Small Cap Fund AAA,4,WESCX WWSAX WWSCX WWSIX
+WESWX,TETON Westwood Equity AAA,1,WESWX
+WFDDX,Allspring SMID Cap Growth Fund -Cl Admin,3,WFDDX WFDSX WFDAX
+WFIOX,Allspring Index Admin,3,WFIOX WFILX WFINX
+WFIVX,Wilshire 5000 Index Invmt,2,WFIVX WINDX
+WFMDX,Allspring Special Mid Cap Value Admin,4,WFMDX WFMIX WFPAX WFPCX
+WFSAX,Allspring Small Company Growth A,2,WFSAX WSCGX
+WFSPX,iShares S&P 500 Index K,2,WFSPX HSTIX
+WGROX,Wasatch Core Growth,1,WGROX
+WHGLX,Westwood Quality Value Fund Inst,1,WHGLX
+WHGMX,Westwood Quality SMidCap Fund Inst,1,WHGMX
+WHGSX,Westwood Quality SmallCap Fund Inst,1,WHGSX
+WLGAX,Nomura Large Cap Growth A,5,WLGAX WLGCX WLGYX WLGRX IYGIX
+WMCVX,Wasatch Small Cap Value,1,WMCVX
+WMFFX,American Funds Washington Mutual F-2,2,WMFFX RWMGX
+WMGAX,Nomura Mid Cap Growth A,5,WMGAX WMGCX WMGYX WMGRX IYMIX
+WMICX,Wasatch Micro Cap,1,WMICX
+WMKGX,WesMark Large Company Fund,1,WMKGX
+WMKSX,WesMark Small Company Fund,1,WMKSX
+WMLIX,Wilmington Large-Cap Strategy Instl,1,WMLIX
+WMMAX,TETON Westwood Mighty Mites A,3,WMMAX WMMCX WEIMX
+WOGSX,White Oak Select Growth,1,WOGSX
+WOOPX,JPMorgan SMID Cap Equity I,1,WOOPX
+WPGTX,WPG Partners Small Cap Value Div Fund,1,WPGTX
+WPSGX,AB Concentrated Growth Advisor,1,WPSGX
+WPVLX,Weitz Multi Cap Equity-Investor Cl,1,WPVLX
+WSACX,Wellington Shields All-Cap Instl,1,WSACX
+WSCYX,Nomura Small Cap Growth Y,2,WSCYX IYSIX
+WSEFX,Boston Trust Walden Equity,1,WSEFX
+WSGAX,Nomura Small Cap Growth A,2,WSGAX WSGRX
+WSMDX,William Blair Small-Mid Cap Growth I,2,WSMDX WSMNX
+WTRCX,Nomura Core Equity Fund Class C,1,WTRCX
+WVALX,Weitz Large Cap Equity-Investor Cl,1,WVALX
+WWLAX,Westwood Quality Value Fund A,1,WWLAX
+WWNPX,Kinetics Paradigm No Load,4,WWNPX KNPAX KNPCX KNPYX
+YACKX,AMG Yacktman I,1,YACKX

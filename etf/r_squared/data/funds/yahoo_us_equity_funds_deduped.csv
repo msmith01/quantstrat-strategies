@@ -1,0 +1,1459 @@
+ticker,name,yahoo_category,first_price_date,last_price_date,n_days
+AAAGX,Thrivent Large Cap Growth A,Large Growth,1999-10-29,2026-09-30,6770
+AADEX,American Beacon Large Cap Value R5,Large Value,1988-01-04,2026-09-30,9759
+AAGOX,Alger Large Cap Growth I-2,Large Growth,1989-01-10,2026-09-30,9501
+AASCX,Thrivent Mid Cap Stock A,Mid-Cap Blend,1996-06-20,2026-09-30,7618
+AASMX,Thrivent Small Cap Stock A,Small Blend,1996-06-28,2026-09-30,7612
+AAUTX,Thrivent Large Cap Value A,Large Value,1996-06-20,2026-09-30,7618
+ABASX,AB Discovery Value A,Small Value,2001-03-29,2026-09-30,6414
+ABVAX,AB Large Cap Value A,Large Value,2001-03-28,2026-09-30,6415
+ACAAX,Alger Capital Appreciation A,Large Growth,1996-12-31,2026-09-30,7484
+ACFCX,American Century Focused Dynamic Gr R,Large Growth,2006-06-01,2026-09-30,5115
+ACGIX,Invesco Growth and Income A,Large Value,1988-01-04,2026-09-30,9759
+ACIIX,American Century Equity Income I,Large Value,1998-07-08,2026-09-30,7102
+ACLCX,American Century Value C,Large Value,2001-06-04,2026-09-30,6369
+ACMVX,American Century Mid Cap Value Inv,Mid-Cap Value,2004-04-01,2026-09-30,5660
+ACRNX,Columbia Acorn Inst,Mid-Cap Growth,1988-01-04,2026-09-30,9758
+ACSCX,American Century Small Cap Value A,Small Value,1999-12-31,2026-09-30,6727
+ACSMX,Advisors Capital Small/Mid Cap,Small Growth,2003-02-03,2026-09-30,3899
+ACSTX,Invesco Comstock A,Large Value,1988-01-04,2026-09-30,9759
+ACUIX,Columbia Dividend Opportunity C,Large Value,2000-06-26,2026-09-30,6605
+ACVIX,American Century Small Cap Value I,Small Value,1998-10-26,2026-09-30,7025
+ACWDX,AMG GW&K Small/Mid Cap Growth N,Small Growth,2010-11-03,2026-09-30,4000
+ADCIX,American Century Disciplined Growth I,Large Growth,2005-10-03,2026-09-30,5281
+ADECX,Columbia Intrinsic Value C,Large Value,2000-06-26,2026-09-30,6605
+ADGAX,AB Core Opportunities A,Large Blend,1999-12-22,2026-09-30,6733
+ADJEX,Azzad Ethical,Mid-Cap Growth,2000-12-22,2026-09-30,6479
+ADKSX,Adirondack Small Cap,Small Value,2005-04-08,2026-09-30,5404
+AEURX,American Century Equity Income R,Large Value,2003-08-29,2026-09-30,5808
+AEYIX,American Century Equity Income C,Large Value,2001-07-13,2026-09-30,6341
+AFAZX,Applied Finance Dividend Institutional,Large Value,2009-09-01,2026-09-30,4296
+AFDAX,American Century Large Cap Equity A,Large Blend,2004-12-01,2026-09-30,5492
+AGFCX,Alger Responsible Investing C,Large Growth,2008-09-24,2026-09-30,4529
+AGIFX,Alger Responsible Investing I,Large Growth,2008-09-24,2026-09-30,4532
+AGIRX,Alger Mid Cap Growth Institutional R,Mid-Cap Growth,2003-01-27,2026-09-30,5958
+AGRFX,AB Growth A,Large Growth,1990-08-31,2026-09-30,9085
+AGSCX,Alger Small Cap Growth C,Small Growth,1997-07-31,2026-09-30,7337
+AGTHX,American Funds Growth Fd of Amer A,Large Growth,1988-01-04,2026-09-30,9759
+AIGOX,Alger Growth & Income I-2,Large Blend,1988-01-04,2026-09-30,9759
+AIVSX,American Funds Invmt Co of Amer A,Large Blend,1988-01-04,2026-09-30,9759
+ALARX,Alger Capital Appreciation Instl I,Large Growth,1993-11-08,2026-09-30,8279
+ALFAX,Lord Abbett Alpha Strategy A,Small Growth,1997-12-29,2026-09-30,7233
+ALGRX,Alger Focus Equity I,Large Growth,1993-11-08,2026-09-30,8279
+ALMAX,Alger Weatherbie Specialized Growth A,Small Growth,2002-05-14,2026-09-30,6135
+ALPAX,American Century Focused Lg Cap Val A,Large Value,2000-10-26,2026-09-30,6519
+ALPCX,American Century Focused Lg Cap Val C,Large Value,2001-11-07,2026-09-30,6263
+ALSAX,Alger Small Cap Growth A,Small Growth,1996-12-31,2026-09-30,7484
+ALSRX,Alger Small Cap Growth Institutional I,Small Growth,1993-11-08,2026-09-30,8279
+ALVIX,American Century Focused Lg Cap Val Inv,Large Value,1999-07-23,2026-09-30,6839
+ALVOX,Alger Capital Appreciation Ptfl I-2,Large Growth,1995-01-26,2026-09-30,7972
+ALVRX,American Century Focused Lg Cap Val R,Large Value,2003-08-29,2026-09-30,5808
+ALVSX,American Century Focused Lg Cap Val I,Large Value,2001-08-10,2026-09-30,6321
+AMAGX,Amana Growth Investor,Large Growth,1994-02-03,2026-09-30,8218
+AMANX,Amana Income Investor,Large Blend,1988-01-04,2026-09-30,9759
+AMCFX,American Funds AMCAP F-2,Large Growth,2008-08-01,2026-09-30,4569
+AMCPX,American Funds AMCAP A,Large Growth,1988-01-04,2026-09-30,9759
+AMRAX,"American Growth Fund, Inc. - American Growth Fund Series One",Large Growth,1996-07-24,2026-09-30,7595
+AMRBX,"American Growth Fund, Inc. - American Growth Fund Series One",Large Growth,1996-11-19,2026-09-30,7512
+AMRCX,"American Growth Fund, Inc. - American Growth Fund Series One",Large Growth,1999-04-14,2026-09-30,6909
+AMRFX,American Funds American Mutual F-2,Large Value,2008-08-01,2026-09-30,4569
+AMRGX,"American Growth Fund, Inc. - American Growth Fund Series One",Large Growth,1996-06-20,2026-09-30,7618
+AMRMX,American Funds American Mutual A,Large Value,1988-01-04,2026-09-30,9759
+ANCFX,American Funds Fundamental Invs A,Large Blend,1988-01-04,2026-09-30,9759
+ANOIX,American Century Small Cap Growth Inv,Small Growth,2001-05-31,2026-09-30,6371
+ANVIX,Virtus NFJ Large-Cap Value Fund Inst,Large Value,2000-05-08,2026-09-30,6639
+AOFAX,Alger Small Cap Focus A,Small Growth,2008-03-03,2026-09-30,4675
+AOFIX,Alger Small Cap Focus I,Small Growth,2008-03-03,2026-09-30,4675
+APGAX,AB Large Cap Growth A,Large Growth,1992-09-29,2026-09-30,8560
+AQEAX,Columbia Disciplined Core A,Large Blend,2003-04-24,2026-09-30,5897
+AQEIX,LKCM Aquinas Catholic Equity,Large Blend,1996-06-20,2026-09-30,7618
+ARDEX,AMG River Road Dividend All Cap Value N,Large Value,2005-06-29,2026-09-30,5347
+ARFFX,Ariel Focus Investor,Mid-Cap Value,2005-07-05,2026-09-30,5344
+ARGFX,Ariel Fund Investor,Small Value,1988-01-04,2026-09-30,9759
+ARIDX,AMG River Road Dividend All Cap Value I,Large Value,2007-06-27,2026-09-30,4846
+ARIMX,AMG River Road Small-Mid Cap Value I,Small Value,2007-06-27,2026-09-30,4846
+ARSKX,Archer Stock,Large Blend,2011-03-09,2026-09-30,3914
+ARSMX,AMG River Road Small-Mid Cap Value N,Small Value,2007-03-30,2026-09-30,4907
+ARSTX,Nuveen Small Cap Select I,Small Blend,1992-04-30,2026-09-30,8665
+ARSVX,AMG River Road Small Cap Value N,Small Value,2005-06-29,2026-09-30,5347
+ARTMX,Artisan Mid Cap Investor,Mid-Cap Growth,1997-06-27,2026-09-30,7360
+ARTSX,Artisan Small Cap Investor,Small Growth,1996-02-29,2026-09-30,7696
+ASCGX,Lisanti Small Cap Growth,Small Growth,2004-03-01,2026-09-30,5683
+ASCQX,American Century Small Company I,Small Blend,1999-09-30,2026-09-30,6791
+ASMMX,Invesco Summit A,Large Growth,2005-10-31,2026-09-30,5261
+ASQIX,American Century Small Company Inv,Small Blend,1998-07-31,2026-09-30,7085
+ASVIX,American Century Small Cap Value Inv,Small Value,1998-07-30,2026-09-30,7086
+ASVNX,American Century Small Cap Value C,Small Value,2010-03-01,2026-09-30,4173
+ASVRX,American Century Small Cap Value R,Small Value,2010-03-01,2026-09-30,4173
+ATGAX,Cantor Fitzgerald Equity Opp A,Mid-Cap Blend,1994-07-25,2026-09-30,8101
+AUERX,Auer Growth,Small Value,2007-12-28,2026-09-30,4718
+AUIAX,AB Equity Income A,Large Value,1993-10-18,2026-09-30,8294
+AUXFX,Auxier Focus Inv,Large Value,1999-07-09,2026-09-30,6849
+AVEDX,Ave Maria Rising Dividend,Large Blend,2005-05-03,2026-09-30,5387
+AVEGX,Ave Maria Growth,Large Growth,2003-05-05,2026-09-30,5890
+AVEMX,Ave Maria Value,Mid-Cap Blend,2001-04-30,2026-09-30,6393
+AVERX,Ave Maria Value Focused,Mid-Cap Blend,1988-01-04,2026-09-30,9759
+AVFIX,American Beacon Small Cp Val R5,Small Value,1998-12-31,2026-09-30,6979
+AVLIX,American Century Value I,Large Value,1997-07-31,2026-09-30,7337
+AVURX,American Century Value R,Large Value,2005-07-29,2026-09-30,5326
+AWEIX,CIBC Atlas Disciplined Equity Instl,Large Blend,2005-12-01,2026-09-30,5239
+AWGIX,CIBC Atlas All Cap Growth Institutional,Large Growth,2007-09-28,2026-09-30,4781
+AWSHX,American Funds Washington Mutual A,Large Value,1988-01-04,2026-09-30,9759
+AWYIX,CIBC Atlas Equity Income Institutional,Large Blend,2010-04-30,2026-09-30,4130
+BAEIX,Sterling Capital Equity Income A,Large Value,2004-07-01,2026-09-30,5598
+BAFAX,Brown Advisory Flexible Equity Adv,Large Blend,2006-12-04,2026-09-30,4986
+BAFSX,Brown Advisory Small-Cap Growth Inst,Small Growth,2002-09-20,2026-09-30,6045
+BARAX,Baron Asset Retail,Mid-Cap Growth,1988-01-04,2026-09-30,9759
+BBTGX,Sterling Capital Behav Lg Cp Val Eq A,Large Value,1992-10-09,2026-09-30,8552
+BCIFX,Blue Chip Investor,Large Value,2001-12-31,2026-09-30,6227
+BDBKX,iShares Russell 2000 Small-Cap Idx K,Small Blend,2011-03-31,2026-09-30,3898
+BEQGX,American Century Disciplined Core Eq Inv,Large Blend,1991-05-03,2026-09-30,8916
+BERCX,Carillon Chartwell Mid Cap Value I,Mid-Cap Value,2002-05-13,2026-09-30,6136
+BFGBX,BlackRock Capital Appreciation K,Large Growth,1997-12-31,2026-09-30,7231
+BFGFX,Baron Focused Growth Retail,Mid-Cap Growth,2008-07-01,2026-09-30,4590
+BFONX,Biondo Focus Investor,Large Growth,2010-03-19,2026-09-30,4159
+BFTHX,Baron Fifth Avenue Growth Retail,Large Growth,2004-05-04,2026-09-30,5638
+BGFIX,William Blair Growth I,Large Growth,1999-09-30,2026-09-30,6791
+BGRFX,Baron Generational Growth Retail,Mid-Cap Growth,1995-08-07,2026-09-30,7839
+BGRWX,Barrett Growth Retail,Large Growth,1998-12-29,2026-09-30,6981
+BHBFX,Madison Dividend Income Y,Large Value,1996-06-20,2026-09-30,7618
+BIAFX,Brown Advisory Flexible Equity Inv,Large Blend,2006-12-04,2026-09-30,4986
+BIAGX,Brown Advisory Growth Equity Inv,Large Growth,1999-06-28,2026-09-30,6857
+BIASX,Brown Advisory Small-Cap Growth Inv,Small Growth,1999-06-28,2026-09-30,6857
+BIAUX,Brown Advisory Small-Cap Fdmtl Val Inv,Small Blend,2009-01-02,2026-09-30,4463
+BIGRX,American Century Disciplined Value Inv,Large Value,1990-12-17,2026-09-30,9010
+BIOPX,Baron Opportunity Retail,Large Growth,2000-02-29,2026-09-30,6687
+BMCAX,BlackRock Advantage Large Cap Gr Inv A,Large Growth,1988-01-04,2026-09-30,9759
+BMDIX,Baird Mid Cap Growth Institutional,Mid-Cap Growth,2000-12-29,2026-09-30,6475
+BMGAX,BlackRock Mid-Cap Growth Equity Inv A,Mid-Cap Growth,1996-12-27,2026-09-30,7486
+BMPEX,Beck Mack + Oliver Partners,Large Blend,2009-12-01,2026-09-30,4233
+BOGIX,SGI Small Cap Core Fund I Shares,Small Blend,1999-09-30,2026-09-30,6791
+BOPAX,Sterling Capital Special Opps A,Large Blend,2003-06-03,2026-09-30,5870
+BOSOX,Boston Trust Walden Small Cap,Small Blend,2005-12-19,2026-09-30,5227
+BOYAX,Boyar Value,Large Value,1998-05-05,2026-09-30,7144
+BPAIX,Boston Partners All Cap Value Instl,Large Value,2002-07-02,2026-09-30,6101
+BPSCX,Boston Partners Small Cap Value II Inv,Small Value,1998-06-30,2026-09-30,7107
+BPTRX,Baron Partners Retail,Large Growth,1992-01-31,2026-09-30,8727
+BQLCX,Bright Rock Quality Large Cap Instl,Large Blend,2010-05-26,2026-09-30,4112
+BQMGX,Bright Rock Mid Cap Growth Instl,Mid-Cap Growth,2010-05-26,2026-09-30,4112
+BRGIX,Bridges Investment Fund,Large Blend,1988-01-04,2026-09-30,9759
+BRGKX,iShares Russell 1000 Large-Cap Idx K,Large Blend,2011-03-31,2026-09-30,3898
+BRLGX,American Beacon Man Lg Cp Growth R5,Large Growth,2003-11-03,2026-09-30,5763
+BRLVX,American Beacon Man Lg Cp Value R5,Large Value,2003-11-03,2026-09-30,5763
+BRTNX,Bretton Fund,Large Blend,2010-09-30,2026-09-30,4024
+BRUSX,Bridgeway Ultra-Small Company,Small Value,1994-08-05,2026-09-30,8092
+BSCFX,Baron Small Cap Retail,Small Growth,1997-09-30,2026-09-30,7295
+BTEFX,Boston Trust Equity,Large Blend,2003-10-01,2026-09-30,5786
+BTIEX,DWS Equity 500 Index S,Large Blend,1996-06-20,2026-09-30,7618
+BTMFX,Boston Trust Midcap,Mid-Cap Blend,2007-10-05,2026-09-30,4776
+BUFBX,Buffalo Flexible Allocation,Large Value,1994-08-12,2026-09-30,8087
+BUFEX,Buffalo Blue Chip Growth,Large Growth,1995-05-19,2026-09-30,7893
+BUFGX,Buffalo Growth,Large Growth,1995-05-19,2026-09-30,7893
+BUFMX,Buffalo Mid Cap Growth,Mid-Cap Growth,2001-12-14,2026-09-30,6237
+BUFOX,Buffalo Early Stage Growth Fd,Small Growth,2004-05-25,2026-09-30,5623
+BUFSX,Buffalo Small Cap Growth,Small Growth,1998-04-14,2026-09-30,7161
+BUFTX,Buffalo Mid Cap Discovery,Mid-Cap Growth,2001-04-16,2026-09-30,6403
+BVEFX,Becker Equity Fund Retail,Large Value,2003-11-04,2026-09-30,5762
+BVSIX,Baywood Socially Responsible Instl,Large Value,2005-01-04,2026-09-30,5469
+CAAPX,Ariel Appreciation Investor,Mid-Cap Value,1989-11-30,2026-09-30,9275
+CABDX,AB Relative Value A,Large Value,1988-01-04,2026-09-30,9759
+CAMLX,Congress Large Cap Growth Retail,Large Growth,2009-03-31,2026-09-30,4403
+CAMMX,Cambiar SMID Investor,Mid-Cap Blend,2011-06-01,2026-09-30,3856
+CAMOX,Cambiar Opportunity Inv,Large Value,1998-06-30,2026-09-30,7107
+CAMSX,Cambiar Small Cap Inv,Small Blend,2004-09-02,2026-09-30,5554
+CBBCX,AB Relative Value C,Large Value,1993-04-30,2026-09-30,8412
+CBBIX,AB Relative Value I,Large Value,2005-03-01,2026-09-30,5430
+CBBYX,AB Relative Value Advisor,Large Value,1996-10-01,2026-09-30,7547
+CBEAX,Allspring Large Cap Value CL A,Large Value,2004-07-26,2026-09-30,5582
+CBLSX,Allspring Large Cap Value Inst,Large Value,2004-07-26,2026-09-30,5582
+CCASX,Conestoga Small Cap Investors,Small Growth,2002-01-14,2026-09-30,6218
+CCRZX,Columbia Disciplined Core Inst,Large Blend,2010-09-27,2026-09-30,4027
+CCVAX,Calvert Small-Cap A,Small Blend,2004-10-01,2026-09-30,5534
+CDGCX,Crawford Large Cap Dividend C,Large Value,2004-01-26,2026-09-30,5707
+CDGIX,Crawford Large Cap Dividend I,Large Value,2004-01-05,2026-09-30,5721
+CDGRX,Copeland Dividend Growth Fund Class A,Mid-Cap Blend,2010-12-30,2026-09-30,3961
+CDOZX,Columbia Dividend Opportunity Inst,Large Value,2010-09-27,2026-09-30,4027
+CFAGX,Commerce MidCap Growth,Mid-Cap Growth,1996-06-20,2026-09-30,7618
+CFGRX,Commerce Growth,Large Growth,1996-06-20,2026-09-30,7618
+CFLGX,ClearBridge Tactical Dividend Income A,Large Value,1990-10-19,2026-09-30,9051
+CFVLX,Commerce Value,Large Value,1997-02-28,2026-09-30,7443
+CGRWX,Invesco Comstock Select A,Large Value,1988-01-04,2026-09-30,9759
+CHAIX,Chase Growth Institutional,Large Growth,2007-01-29,2026-09-30,4950
+CHASX,Chase Growth N,Large Growth,1997-12-02,2026-09-30,7251
+CHCGX,Chesapeake Growth,Large Growth,1997-09-29,2026-09-30,7296
+CHCLX,AB Discovery Growth A,Mid-Cap Growth,1988-01-04,2026-09-30,9759
+CHDEX,Cullen High Dividend Equity Retail,Large Value,2003-08-05,2026-09-30,5826
+CHTRX,Invesco Charter A,Large Blend,1988-01-04,2026-09-30,9759
+CHTTX,AMG River Road Mid Cap Value N,Mid-Cap Value,1994-09-19,2026-09-30,8062
+CIAOX,Capital Advisors Growth Investor,Large Blend,1999-12-30,2026-09-30,6728
+CIPMX,Champlain Mid Cap Adv,Mid-Cap Growth,2008-07-01,2026-09-30,4591
+CIPSX,Champlain Small Company Adv,Small Growth,2004-12-01,2026-09-30,5492
+CISIX,Calvert US Large Cap Core Rspnb Idx I,Large Blend,2000-06-30,2026-09-30,6601
+CLQZX,Columbia Disciplined Growth Inst,Large Growth,2010-09-27,2026-09-30,4027
+CLSPX,Columbia Select Mid Cap Gro Fd I,Mid-Cap Growth,1988-01-04,2026-09-30,9759
+CMNWX,Principal Capital Appreciation A,Large Blend,1996-06-20,2026-09-30,7618
+CMSCX,Columbia Small Cap Growth Inst,Small Growth,1996-09-30,2026-09-30,7548
+CNREX,Commonwealth Real Estate Securities,Mid-Cap Blend,2004-01-06,2026-09-30,5720
+COPLX,Copley Fund,Large Value,1996-06-20,2026-09-30,7618
+COVAX,Columbia Sm Cp Val and Inflection A,Small Value,2002-05-01,2026-09-30,6144
+CPOAX,Morgan Stanley Insight A,Large Growth,1997-07-28,2026-09-30,7340
+CRIAX,CRM Small/Mid Cap Value Inst,Small Blend,2004-09-03,2026-09-30,5553
+CRIEX,CRM All Cap Value Inst,Mid-Cap Blend,2006-10-26,2026-09-30,5012
+CRIMX,CRM Mid Cap Value Instl,Mid-Cap Blend,1997-12-31,2026-09-30,7231
+CRISX,CRM Small Cap Value Instl,Small Blend,1997-12-31,2026-09-30,7231
+CRMEX,CRM All Cap Value Inv,Mid-Cap Blend,2006-10-26,2026-09-30,5012
+CRMSX,CRM Small Cap Value Inv,Small Blend,1995-09-29,2026-09-30,7801
+CSIEX,Calvert Equity A,Large Blend,1988-01-04,2026-09-30,9759
+CSMCX,Congress Small Cap Growth Institutional,Small Growth,1999-12-09,2026-09-30,6742
+CSMIX,Columbia Small Cap Value Discv A,Small Value,1988-01-04,2026-09-30,9759
+CSSCX,Columbia Small Cap Value Discv C,Small Value,1996-01-15,2026-09-30,7728
+CUSEX,Capital Group US Equity,Large Blend,2011-04-01,2026-09-30,3897
+CUSIX,Cullen Small Cap Value I,Small Value,2009-10-01,2026-09-30,4275
+CVAAX,Calamos Select Fund A,Large Blend,2001-12-31,2026-09-30,6227
+CVFCX,Victory Pioneer Disciplined Value A,Large Value,2001-07-24,2026-09-30,6334
+CVGRX,Calamos Growth A,Large Growth,1990-08-31,2026-09-30,9085
+CVQZX,Columbia Disciplined Value Inst,Large Value,2010-09-27,2026-09-30,4027
+CZOVX,Zacks All-Cap Core Institutional,Large Blend,2005-12-02,2026-09-30,5238
+DAGVX,BNY Mellon Dynamic Value Fund A,Large Value,1995-09-29,2026-09-30,7801
+DALCX,Dean Mid Cap Value,Mid-Cap Value,1997-05-28,2026-09-30,7382
+DALVX,Dunham Large Cap Value A,Large Value,2006-12-29,2026-09-30,4968
+DASCX,Dean Small Cap Value,Small Value,1997-05-28,2026-09-30,7382
+DAVPX,Davenport Core Leaders Fund,Large Blend,1998-01-02,2026-09-30,7230
+DCCAX,Nomura Small Cap Core A,Small Blend,1998-12-28,2026-09-30,6982
+DCDGX,Dunham Small Cap Growth C,Small Growth,2004-12-10,2026-09-30,5485
+DCLVX,Dunham Large Cap Value C,Large Value,2004-12-10,2026-09-30,5485
+DCSVX,Dunham Small Cap Value C,Small Value,2004-12-10,2026-09-30,5485
+DDVAX,Nomura Value A,Large Value,1998-09-14,2026-09-30,7055
+DDVCX,Nomura Value C,Large Value,2002-04-29,2026-09-30,6146
+DEOPX,Davenport Equity Opportunities,Mid-Cap Blend,2010-12-31,2026-09-30,3960
+DESAX,DWS Enhanced Core Equity A,Large Blend,2005-08-02,2026-09-30,5324
+DEVLX,Nomura Small Cap Value A,Small Value,1988-01-04,2026-09-30,9759
+DEYCX,BNY Mellon Large Cap Equity C,Large Blend,2008-09-12,2026-09-30,4540
+DFDPX,DF Dent Premier Growth Investor,Large Growth,2001-07-16,2026-09-30,6340
+DFELX,DFA Enhanced US Large Company I,Large Blend,1996-07-02,2026-09-30,7610
+DFEOX,DFA U.S. Core Equity 1 I,Large Blend,2005-09-16,2026-09-30,5292
+DFFVX,DFA U.S. Targeted Value I,Small Value,2000-02-23,2026-09-30,6691
+DFLVX,DFA US Large Cap Value I,Large Value,1993-02-18,2026-09-30,8462
+DFMAX,Davidson Multi-Cap Equity A,Large Blend,2008-08-11,2026-09-30,4563
+DFQTX,DFA U.S. Core Equity 2 Instl,Large Blend,2005-09-16,2026-09-30,5292
+DFSCX,DFA US Micro Cap I,Small Blend,1988-01-04,2026-09-30,9759
+DFSIX,DFA US Sustainability Core 1,Large Blend,2008-03-13,2026-09-30,4667
+DFSTX,DFA U.S. Small Cap I,Small Blend,1992-03-19,2026-09-30,8694
+DFSVX,DFA U.S. Small Cap Value I,Small Value,1993-02-26,2026-09-30,8456
+DFUEX,DFA US Social Core Equity 2 Portfolio,Large Blend,2007-10-02,2026-09-30,4779
+DFUSX,DFA US Large Company I,Large Blend,1999-09-23,2026-09-30,6796
+DFVEX,DFA U.S. Vector Equity I,Mid-Cap Value,2006-01-03,2026-09-30,5218
+DGAGX,BNY Mellon Appreciation Investor,Large Growth,1988-01-04,2026-09-30,9759
+DHLAX,Diamond Hill Large Cap Inv,Large Value,2001-06-29,2026-09-30,6350
+DHLTX,Diamond Hill Select I,Mid-Cap Value,2006-01-03,2026-09-30,5218
+DHMAX,Diamond Hill Small-Mid Cap Inv,Small Value,2006-01-03,2026-09-30,5218
+DHSCX,Diamond Hill Small Cap Inv,Small Value,2000-12-29,2026-09-30,6475
+DIEQX,Domini Impact Equity Institutional,Large Growth,1997-02-26,2026-09-30,7445
+DISSX,BNY Mellon Small Cap Stock Index Inv,Small Blend,1997-06-30,2026-09-30,7359
+DLBMX,MassMutual Small Cap Opps A,Small Blend,1998-07-13,2026-09-30,7099
+DLQAX,BNY Mellon Large Cap Equity A,Large Blend,1996-06-20,2026-09-30,7618
+DMCVX,BNY Mellon Midcap Value Fund A,Mid-Cap Blend,1995-09-29,2026-09-30,7801
+DNLDX,BNY Mellon Active MidCap A,Mid-Cap Blend,1988-01-04,2026-09-30,9758
+DODGX,Dodge & Cox Stock I,Large Value,1988-01-04,2026-09-30,9758
+DQIAX,BNY Mellon Equity Income Fund A,Large Value,2006-07-05,2026-09-30,5092
+DREQX,BNY Mellon Research Growth Z,Large Growth,1988-01-04,2026-09-30,9759
+DREVX,BNY Mellon Large Cap Securities Inc,Large Growth,1988-01-04,2026-09-30,9759
+DRIPX,The MP 63,Large Value,1999-02-26,2026-09-30,6941
+DRMCX,Virtus Silvant Mid-Cap Growth Inst,Mid-Cap Growth,1996-12-17,2026-09-30,7493
+DRSVX,North Square Small Cap Value Investor,Small Value,2003-12-31,2026-09-30,5723
+DRTCX,BNY Mellon Sust US Equity I,Large Blend,1999-08-31,2026-09-30,6812
+DRTHX,BNY Mellon Sustainable US Eq Fd Z,Large Blend,1988-01-04,2026-09-30,9759
+DSEFX,Domini Impact Equity Investor,Large Growth,1991-05-31,2026-09-30,8897
+DTLGX,Wilshire Large Company Growth Invmt,Large Growth,1992-09-30,2026-09-30,8559
+DTLVX,Wilshire Large Company Value Invmt,Large Value,1992-09-30,2026-09-30,8559
+DTSGX,Wilshire Small Company Growth Invmt,Small Growth,1992-09-30,2026-09-30,8559
+DTSVX,Wilshire Small Company Value Invmt,Small Value,1992-09-30,2026-09-30,8559
+DVIPX,Davenport Value & Income,Large Value,2010-12-31,2026-09-30,3960
+EACPX,Eaton Vance Tax-Managed Multi-Cap Gr A,Large Growth,2000-07-05,2026-09-30,6599
+EAERX,Eaton Vance Stock A,Large Blend,2001-11-02,2026-09-30,6266
+EAFGX,Eaton Vance Focused Growth Opps A,Large Growth,2011-03-07,2026-09-30,3916
+EAFVX,Eaton Vance Focused Value Opps A,Large Value,2011-03-07,2026-09-30,3916
+EALCX,Eaton Vance Growth A,Large Growth,2002-09-10,2026-09-30,6053
+EATVX,Eaton Vance Tx-Mgd Value A,Large Value,1999-12-27,2026-09-30,6731
+EGOAX,Allspring Large Cap Core A,Large Blend,2007-12-18,2026-09-30,4725
+EHSTX,Eaton Vance Large-Cap Value A,Large Value,1988-01-04,2026-09-30,9759
+EICIX,EIC Value Institutional,Large Value,2011-05-02,2026-09-30,3877
+EICVX,EIC Value A,Large Value,2011-05-20,2026-09-30,3863
+EILGX,Eaton Vance Atlanta Capital Focused Gr I,Large Growth,2002-05-01,2026-09-30,6144
+EISMX,Eaton Vance Atlanta Capital SMID-Cap I,Mid-Cap Blend,2002-04-30,2026-09-30,6145
+EIUTX,Eaton Vance Dividend Builder I,Large Value,2005-06-20,2026-09-30,5354
+EIVAX,Allspring Special Large Cap Value A,Large Value,2006-08-01,2026-09-30,5073
+EIVDX,Allspring Special Large Cap Value Admin,Large Value,2010-07-30,2026-09-30,4067
+EIVIX,Allspring Special Large Cap Value Inst,Large Value,2006-08-01,2026-09-30,5073
+EKJAX,Allspring Premier Large Co Gr A,Large Growth,1998-01-20,2026-09-30,7219
+ELFNX,Elfun Trusts,Large Blend,1988-01-04,2026-09-30,9759
+ELGAX,Columbia Select Large Cap Growth A,Large Growth,2007-09-27,2026-09-30,4782
+EMCAX,Empiric Class A,Small Growth,1995-11-06,2026-09-30,7775
+EMGRX,Nuveen Small Cap Select A,Small Blend,1992-05-01,2026-09-30,8664
+EPLCX,NYLIM Epoch U.S. Equity Yield Class I,Large Value,2008-11-12,2026-09-30,4497
+EQPGX,Fidelity Advisor Equity Growth I,Large Growth,1988-01-04,2026-09-30,9759
+ERSMX,Eaton Vance Atlanta Capital SMID-Cap R,Mid-Cap Blend,2009-08-03,2026-09-30,4317
+ESPAX,Allspring Special Small Cap Value A,Small Value,1993-05-10,2026-09-30,8406
+ETEGX,Eaton Vance Small-Cap A,Small Growth,1996-12-31,2026-09-30,7484
+ETGLX,Eventide Gilead N,Mid-Cap Growth,2008-07-02,2026-09-30,4590
+ETMGX,Eaton Vance Tx-Mgd Small-Cap A,Small Growth,1997-09-25,2026-09-30,7298
+ETTGX,Eaton Vance Tx-Mgd Growth 1.1 A,Large Blend,1996-03-28,2026-09-30,7676
+EVSAX,Allspring Disciplined US Core A,Large Blend,1990-02-28,2026-09-30,9214
+EVSTX,Allspring Disciplined US Core C,Large Blend,1999-06-30,2026-09-30,6855
+EVTMX,Eaton Vance Dividend Builder A,Large Value,1988-01-04,2026-09-30,9759
+EWMCX,Evercore Equity,Large Blend,1988-01-04,2026-09-30,9759
+EXEYX,Manning & Napier Equity Series S,Large Growth,1998-05-01,2026-09-30,7148
+FAGOX,Fidelity Advisor Growth Opps M,Large Growth,1988-01-04,2026-09-30,9759
+FAMEX,FAM Dividend Focus Fund Investor,Mid-Cap Blend,1996-03-29,2026-09-30,7675
+FAMVX,FAM Value Investor,Mid-Cap Blend,1988-01-04,2026-09-30,9759
+FASEX,Nuveen Mid Cap Value Opportunities A,Mid-Cap Value,1988-01-04,2026-09-30,9759
+FASPX,Fidelity Advisor Value Strategies M,Mid-Cap Value,1988-01-04,2026-09-30,9759
+FBCVX,Fidelity Blue Chip Value,Large Value,2003-01-08,2026-09-30,5970
+FBGRX,Fidelity Blue Chip Growth,Large Growth,1988-01-04,2026-09-30,9759
+FCIGX,Fidelity Advisor Small Cap Growth I,Small Growth,2001-11-02,2026-09-30,6016
+FCNTX,Fidelity Contrafund,Large Growth,1988-01-04,2026-09-30,9759
+FCPVX,Fidelity Small Cap Value Fund,Small Value,2004-11-04,2026-09-30,5510
+FCSGX,Franklin Small Cap Growth C,Small Growth,2000-04-28,2026-09-30,6645
+FDCAX,Fidelity Capital Appreciation,Large Growth,1988-01-04,2026-09-30,9759
+FDEGX,Fidelity Growth Strategies,Mid-Cap Growth,1990-12-28,2026-09-30,9003
+FDEQX,Fidelity Disciplined Equity,Large Growth,1988-12-28,2026-09-30,9509
+FDESX,Fidelity Advisor Diversified Stock O,Large Blend,1988-01-04,2026-09-30,9759
+FDETX,Fidelity Advisor Capital Development O,Large Blend,1988-01-04,2026-09-30,9759
+FDGFX,Fidelity Dividend Growth,Large Blend,1995-07-14,2026-09-30,7855
+FDGRX,Fidelity Growth Company Fund,Large Growth,1988-01-04,2026-09-30,9759
+FDSCX,Fidelity Stock Selector Small Cap,Small Blend,1995-12-14,2026-09-30,7748
+FDSSX,Fidelity Stock Selec,Large Blend,1990-09-28,2026-09-30,9066
+FDVLX,Fidelity Value,Mid-Cap Value,1988-01-04,2026-09-30,9759
+FEAMX,First Eagle Rising Dividend Fund C,Large Value,1998-03-02,2026-09-30,7191
+FEFAX,First Eagle Rising Dividend Fund A,Large Value,1998-11-19,2026-09-30,7007
+FEIFX,Franklin Equity Income Adv,Large Value,2008-05-15,2026-09-30,4623
+FEQIX,Fidelity Equity-Income,Large Value,1988-01-04,2026-09-30,9759
+FEQTX,Fidelity Equity Dividend Income,Large Value,1990-08-21,2026-09-30,9093
+FFEIX,Nuveen Dividend Value A,Large Value,1992-12-18,2026-09-30,8503
+FFIDX,Fidelity,Large Growth,1988-01-04,2026-09-30,9759
+FGINX,Nomura Growth and Income A,Large Value,1993-10-04,2026-09-30,8304
+FGRAX,Franklin Growth Opportunities A,Large Growth,1999-06-23,2026-09-30,6860
+FGRIX,Fidelity Growth & Income,Large Blend,1988-01-04,2026-09-30,9759
+FGRTX,Fidelity Mega Cap Stock,Large Blend,1998-12-28,2026-09-30,6982
+FGSAX,Federated Hermes MDT Mid Cap Growth A,Mid-Cap Growth,1988-01-04,2026-09-30,9759
+FGSCX,Federated Hermes MDT Mid Cap Growth C,Mid-Cap Growth,1995-08-15,2026-09-30,7833
+FICEX,Frost Growth Equity Inst,Large Growth,2001-01-03,2026-09-30,6473
+FICGX,Cantor Fitzgerald Large Cap Fcs Cl A,Large Growth,1996-10-30,2026-09-30,7526
+FIIAX,Fidelity Advisor Mid Cap II A,Mid-Cap Blend,2004-08-16,2026-09-30,5567
+FIMPX,Nuveen Small Cap Growth Opp I,Small Growth,1995-07-31,2026-09-30,7844
+FINSX,Fidelity Advisor New Insights I,Large Growth,2003-01-08,2026-09-30,5970
+FISEX,Franklin Equity Income A,Large Value,1988-03-15,2026-09-30,9709
+FISGX,Nuveen Small/Mid Cap Growth Opp I,Mid-Cap Growth,1989-12-28,2026-09-30,9256
+FISPX,Federated Hermes Max-Cap Index IS,Large Blend,1990-07-02,2026-09-30,9128
+FIUSX,Nomura Opportunity A,Mid-Cap Value,1992-08-24,2026-09-30,8585
+FKASX,Federated Hermes Kaufmann Small Cap A,Small Growth,2002-12-19,2026-09-30,5982
+FKDNX,Franklin DynaTech A,Large Growth,1988-01-04,2026-09-30,9759
+FKGRX,Franklin Growth A,Large Growth,1988-01-04,2026-09-30,9759
+FLCSX,Fidelity Large Cap Stock,Large Blend,1995-06-22,2026-09-30,7870
+FLMVX,JPMorgan Mid Cap Value L,Mid-Cap Value,1997-11-13,2026-09-30,7263
+FLRAX,Nuveen Large Cap Select A,Large Blend,2003-02-03,2026-09-30,5953
+FLVCX,Fidelity Leveraged Company Stock,Large Blend,2000-12-19,2026-09-30,6482
+FMAGX,Fidelity Magellan,Large Growth,1988-01-04,2026-09-30,9759
+FMCAX,Fidelity Advisor Stock Selec Mid Cp M,Mid-Cap Blend,1996-02-20,2026-09-30,7703
+FMCSX,Fidelity Mid-Cap Stock,Mid-Cap Blend,1994-03-29,2026-09-30,8181
+FMDCX,Federated Hermes Mid-Cap Index Svc,Mid-Cap Blend,1992-11-05,2026-09-30,8533
+FMIHX,FMI Large Cap Investor,Large Value,2001-12-31,2026-09-30,6227
+FMILX,Fidelity New Millennium,Large Blend,1992-12-28,2026-09-30,8498
+FMIMX,FMI Common Stock Investor,Small Blend,1988-01-04,2026-09-30,9759
+FMUEX,Free Market US Equity Instl,Mid-Cap Value,2008-01-02,2026-09-30,4716
+FMXKX,Federated Hermes Max-Cap Index R,Large Blend,2003-04-07,2026-09-30,5909
+FMXSX,Federated Hermes Max-Cap Index Svc,Large Blend,1993-09-07,2026-09-30,8323
+FNCMX,Fidelity Nasdaq Composite Index,Large Growth,2003-01-08,2026-09-30,5970
+FNKCX,Frank Value C,Mid-Cap Value,2010-09-23,2026-09-30,4029
+FNKIX,Frank Value Instl,Mid-Cap Value,2010-09-27,2026-09-30,4027
+FOCPX,Fidelity OTC,Large Growth,1988-01-04,2026-09-30,9759
+FOSCX,Tributary Small Company Instl,Small Blend,1996-06-10,2026-09-30,7626
+FRBSX,Franklin Mutual U.S. Mid Cap Value A,Mid-Cap Value,1990-03-30,2026-09-30,9192
+FRDPX,Franklin Rising Dividends A,Large Blend,1988-01-04,2026-09-30,9759
+FRMCX,Franklin Mutual Small-Mid Cap Val A,Small Value,1995-12-12,2026-09-30,7750
+FRNKX,Frank Value Inv,Mid-Cap Value,2004-07-22,2026-09-30,5584
+FRSGX,Franklin Small-Mid Cap Growth A,Mid-Cap Growth,1992-02-14,2026-09-30,8717
+FRVLX,Franklin Small Cap Value A,Small Value,1996-03-11,2026-09-30,7689
+FSAEX,Fidelity Series All-Sector Equity,Large Blend,2008-10-20,2026-09-30,4514
+FSCAX,Nuveen Small Cap Value A,Small Value,1994-07-29,2026-09-30,8097
+FSCDX,Fidelity Advisor Small Cap A,Small Blend,1998-09-09,2026-09-30,7058
+FSCRX,Fidelity Small Cap Discovery,Small Blend,2000-09-26,2026-09-30,6541
+FSLCX,Fidelity Small Cap Stock,Small Blend,1998-03-12,2026-09-30,7183
+FSLVX,Fidelity Stk Selec Lg Cp Val,Large Value,2001-11-15,2026-09-30,6257
+FSMVX,Fidelity Mid Cap Value,Mid-Cap Value,2001-11-15,2026-09-30,6257
+FSOPX,Fidelity Series Small Cap Opps,Small Blend,2007-03-23,2026-09-30,4912
+FSTKX,Federated Hermes MDT Large Cap Value Svc,Large Value,1988-01-04,2026-09-30,9759
+FSTUX,Invesco Dividend Income Investor,Large Value,1988-01-04,2026-09-30,9759
+FTQGX,Fidelity Focused Stock,Large Growth,1996-11-12,2026-09-30,7517
+FTRNX,Fidelity Trend,Large Growth,1988-01-04,2026-09-30,9759
+FUNCX,Victory Pioneer Fundamental Growth C,Large Growth,2005-12-15,2026-09-30,5229
+FVALX,Forester Value N,Large Value,1999-09-10,2026-09-30,6805
+FVDFX,Fidelity Value Discovery,Large Value,2002-12-11,2026-09-30,5988
+FVILX,Forester Value I,Large Value,2009-06-08,2026-09-30,4356
+FVRLX,Forester Value R,Large Value,2010-12-28,2026-09-30,3963
+GABAX,Gabelli Asset AAA,Large Blend,1988-01-04,2026-09-30,9759
+GABBX,Gabelli Dividend Growth AAA,Large Value,1999-08-26,2026-09-30,6815
+GABEX,Gabelli Equity Income AAA,Large Value,1991-12-31,2026-09-30,8749
+GABGX,Gabelli Growth AAA,Large Growth,1988-01-04,2026-09-30,9759
+GABSX,Gabelli Small Cap Growth AAA,Small Blend,1991-10-22,2026-09-30,8797
+GABVX,Gabelli Value 25 A,Mid-Cap Value,1989-09-29,2026-09-30,9318
+GBCAX,Gabelli Dividend Growth A,Large Value,2003-12-31,2026-09-30,5723
+GCAEX,Gabelli Equity Income A,Large Value,2004-01-27,2026-09-30,5706
+GCEQX,Green Century Equity Individual Investor,Large Blend,1995-09-13,2026-09-30,7813
+GCIEX,Gabelli Equity Income I,Large Value,2008-01-11,2026-09-30,4709
+GCLSX,Goldman Sachs Large Cp Val Insghts Svc,Large Value,1998-12-31,2026-09-30,6979
+GCSAX,Goldman Sachs Small Cap Eq Insghts A,Small Blend,1997-08-15,2026-09-30,7326
+GCTAX,Goldman Sachs US Tax-Managed Eq A,Large Blend,2000-03-31,2026-09-30,6664
+GDIIX,Genter Dividend Income,Large Value,2009-01-02,2026-09-30,4463
+GEGTX,Columbia Cornerstone Growth Inst,Large Growth,1990-12-14,2026-09-30,9012
+GEQYX,GuideStone Funds Equity Index Instl,Large Blend,2001-08-27,2026-09-30,6310
+GEQZX,GuideStone Funds Equity Index Investor,Large Blend,2001-08-27,2026-09-30,6310
+GETGX,Victory Sycamore Established Value R,Mid-Cap Value,1988-01-04,2026-09-30,9757
+GGEFX,Summitry Equity Fund,Large Blend,2009-04-02,2026-09-30,4401
+GGEYX,GuideStone Funds Growth Equity Instl,Large Growth,2001-08-27,2026-09-30,6310
+GGEZX,GuideStone Funds Growth Equity Investor,Large Growth,2001-08-27,2026-09-30,6310
+GGFRX,Nationwide BNY Mellon Dyn US Core R,Large Blend,2003-10-01,2026-09-30,5785
+GGLIX,abrdn US Sustainable Leaders Instl,Large Growth,2004-06-29,2026-09-30,5600
+GGOAX,Goldman Sachs Mid Cap Growth A,Mid-Cap Growth,1999-05-24,2026-09-30,6881
+GGORX,Goldman Sachs Mid Cap Growth R,Mid-Cap Growth,2007-11-30,2026-09-30,4737
+GILAX,Lord Abbett Fundamental Equity C,Large Value,1993-12-31,2026-09-30,8242
+GLCGX,Goldman Sachs Large Cap Gr Insghts A,Large Growth,1997-04-30,2026-09-30,7401
+GLCRX,Goldman Sachs Large Cap Gr Insghts R,Large Growth,2007-11-30,2026-09-30,4737
+GMLGX,GuideMark Large Cap Core Service,Large Blend,2001-06-29,2026-09-30,6350
+GMRAX,Nationwide Small Cap Index A,Small Blend,1999-12-29,2026-09-30,6729
+GMSMX,GuideMark Small/Mid Cap Core Service,Small Blend,2001-06-29,2026-09-30,6350
+GMSRX,Nationwide Small Cap Index R,Small Blend,2007-03-09,2026-09-30,4921
+GMUEX,GMO US Equity III,Large Value,1988-01-04,2026-09-30,9758
+GMXAX,Nationwide Mid Cap Market Idx A,Mid-Cap Blend,1999-12-29,2026-09-30,6729
+GMXRX,Nationwide Mid Cap Market Idx R,Mid-Cap Blend,2007-03-19,2026-09-30,4915
+GNWRX,Nationwide R,Large Blend,2003-10-01,2026-09-30,5785
+GOGFX,Victory Sycamore Small Company Opp R,Small Value,1988-01-04,2026-09-30,9759
+GOODX,GoodHaven,Large Value,2011-04-08,2026-09-30,3892
+GPAFX,Victory RS Large Cap Alpha A,Large Value,1988-01-04,2026-09-30,9759
+GQEFX,GMO Quality IV,Large Blend,2004-02-06,2026-09-30,5698
+GQETX,GMO Quality III,Large Blend,2004-01-30,2026-09-30,5703
+GQIRX,Goldman Sachs US Tax-Managed Eq Inv,Large Blend,2010-08-31,2026-09-30,4045
+GQLOX,GMO Quality VI,Large Blend,2006-12-08,2026-09-30,4982
+GRISX,Nationwide S&P 500 Index Instl Svc,Large Blend,1998-10-30,2026-09-30,7021
+GRMAX,Nationwide S&P 500 Index A,Large Blend,1999-12-29,2026-09-30,6729
+GRMSX,Nationwide S&P 500 Index Svc,Large Blend,1998-10-30,2026-09-30,6967
+GRSPX,Cromwell Greenspring Mid Cap Instl,Mid-Cap Blend,1988-01-04,2026-09-30,9759
+GSAOX,Goldman Sachs Small Cap Gr Insghts A,Small Growth,2007-06-22,2026-09-30,4849
+GSATX,Goldman Sachs Small Cp Val Insghts A,Small Value,2007-06-22,2026-09-30,4849
+GSCGX,Goldman Sachs Large Cap Equity A,Large Blend,1990-04-20,2026-09-30,9178
+GSCTX,Goldman Sachs Small Cp Val Insghts C,Small Value,2007-06-22,2026-09-30,4849
+GSCYX,GuideStone Funds Small Cap Equity Instl,Small Blend,2001-08-27,2026-09-30,6310
+GSCZX,GuideStone Funds Small Cap Equity Inv,Small Blend,2001-08-27,2026-09-30,6310
+GSESX,Goldman Sachs US Equity Insights Svc,Large Blend,1991-05-24,2026-09-30,8901
+GSFTX,Columbia Dividend Income Inst,Large Value,1998-03-04,2026-09-30,7189
+GSGRX,Goldman Sachs Equity Income A,Large Value,1993-02-04,2026-09-30,8471
+GSLAX,Goldman Sachs Large Cap Value A,Large Value,1999-12-15,2026-09-30,6738
+GSLIX,Goldman Sachs Large Cap Value Instl,Large Value,1999-12-15,2026-09-30,6738
+GSMAX,Goldman Sachs Small/Mid Cap Growth A,Mid-Cap Growth,2005-07-05,2026-09-30,5344
+GSMCX,Goldman Sachs Mid Cap Value Instl,Mid-Cap Blend,1995-07-31,2026-09-30,7844
+GSRAX,Goldman Sachs Rising Dividend Gr A,Large Value,2004-03-24,2026-09-30,5666
+GSSMX,Goldman Sachs Small Cap Value A,Small Value,1995-10-26,2026-09-30,7782
+GSXAX,abrdn US Small Cap Equity A,Small Blend,1998-10-30,2026-09-30,7021
+GTCEX,Glenmede Strategic Equity,Large Blend,1989-07-20,2026-09-30,9368
+GTCSX,Glenmede Small Cap Equity Adv,Small Blend,1991-02-28,2026-09-30,8961
+GTLLX,Glenmede Disciplined US Growth Eq Ptf,Large Growth,2004-03-17,2026-09-30,5671
+GTLOX,Glenmede Disciplined US Eq Ptf,Mid-Cap Value,2004-03-01,2026-09-30,5683
+GTSAX,Invesco Small Cap Growth A,Small Growth,1995-10-18,2026-09-30,7788
+GTSDX,Invesco Small Cap Growth C,Small Growth,1999-04-30,2026-09-30,6897
+GTTMX,Glenmede Total Market Plus Eq Ptf,Mid-Cap Value,2006-12-22,2026-09-30,4972
+GVCCX,Gabelli Value 25 C,Mid-Cap Value,2000-02-29,2026-09-30,6687
+GVEQX,Government Street Equity,Large Blend,1991-05-31,2026-09-30,8897
+GVEYX,GuideStone Funds Value Equity Instl,Large Value,2001-08-27,2026-09-30,6310
+GVEZX,GuideStone Funds Value Equity Investor,Large Value,2001-08-27,2026-09-30,6310
+GVMCX,Government Street Opportunities,Mid-Cap Blend,2003-11-18,2026-09-30,5752
+GWETX,AMG GW&K Small Cap Core N,Small Blend,1996-12-11,2026-09-30,7497
+GXXAX,abrdn US Sustainable Leaders A,Large Growth,2000-06-30,2026-09-30,6601
+HACAX,Harbor Capital Appreciation Instl,Large Growth,1988-01-04,2026-09-30,9759
+HAGAX,Carillon Eagle Mid Cap Growth A,Mid-Cap Growth,1998-08-20,2026-09-30,7071
+HAGIX,Carillon Eagle Mid Cap Growth I,Mid-Cap Growth,2006-01-03,2026-09-30,5218
+HAIAX,Hartford Core Equity A,Large Blend,1998-04-30,2026-09-30,7149
+HAMVX,Harbor Mid Cap Value Instl,Mid-Cap Value,2002-03-04,2026-09-30,6185
+HASCX,Harbor Small Cap Value Instl,Small Blend,2001-12-14,2026-09-30,6237
+HASGX,Harbor Small Cap Growth Instl,Small Growth,2000-10-31,2026-09-30,6516
+HAVGX,Haverford Quality Growth Stock,Large Blend,2004-07-02,2026-09-30,5597
+HAVLX,Harbor Large Cap Value Instl,Large Value,1988-01-04,2026-09-30,9759
+HCAYX,Hartford Capital Appreciation Y,Large Blend,1996-07-22,2026-09-30,7597
+HCMAX,Hillman Value,Large Value,2001-01-31,2026-09-30,6454
+HDPMX,Hodges Retail,Mid-Cap Blend,1992-10-09,2026-09-30,8552
+HEQCX,Monteagle Opportunity Equity Instl,Mid-Cap Blend,2011-06-15,2026-09-30,3846
+HEQFX,Monteagle Opportunity Equity Inv,Mid-Cap Blend,1998-06-10,2026-09-30,7121
+HFCGX,Hennessy Cornerstone Growth Investor,Small Blend,1996-11-01,2026-09-30,7524
+HFCSX,Hennessy Focus Investor,Mid-Cap Blend,1996-12-31,2026-09-30,7484
+HFCVX,Hennessy Cornerstone Value Investor,Large Value,1996-11-01,2026-09-30,7524
+HFLGX,Hennessy Cornerstone Large Growth Inv,Mid-Cap Value,2009-03-20,2026-09-30,4410
+HFMDX,Hennessy Cornerstone Mid Cap 30 Inv,Small Blend,2003-09-17,2026-09-30,5796
+HGOAX,Hartford Growth Opportunities A,Large Growth,2002-02-15,2026-09-30,6195
+HIACX,Hartford Capital Appreciation HLS IA,Large Blend,1988-01-04,2026-09-30,9759
+HIADX,Hartford Dividend and Growth HLS IA,Large Value,1994-03-09,2026-09-30,8195
+HIASX,Hartford Small Company HLS IA,Small Growth,1996-08-09,2026-09-30,7583
+HILGX,Hennessy Cornerstone Large Growth Instl,Mid-Cap Value,2009-03-20,2026-09-30,4410
+HIMCX,Hartford MidCap HLS IA,Mid-Cap Growth,1997-07-14,2026-09-30,7350
+HISCX,Hartford Small Cap Growth HLS IA,Small Growth,1994-05-02,2026-09-30,8159
+HISGX,Harbor Small Cap Growth Inv,Small Growth,2002-10-31,2026-09-30,6016
+HISVX,Harbor Small Cap Value Investor,Small Blend,2002-10-31,2026-09-30,6016
+HLEIX,JPMorgan Equity Index I,Large Blend,1991-07-02,2026-09-30,8875
+HLGEX,JPMorgan Mid Cap Growth I,Mid-Cap Growth,1989-03-02,2026-09-30,9465
+HLIEX,JPMorgan Equity Income I,Large Value,1988-01-04,2026-09-30,9759
+HLQVX,JPMorgan Large Cap Value I,Large Value,1991-02-28,2026-09-30,8961
+HMVAX,Hartford MidCap Value A,Mid-Cap Value,2001-04-30,2026-09-30,6393
+HNASX,Homestead Growth,Large Growth,2001-01-23,2026-09-30,6460
+HNTVX,Heartland Value Institutional,Small Value,2008-05-01,2026-09-30,4633
+HOVLX,Homestead Value,Large Value,1990-11-19,2026-09-30,9030
+HQIAX,Hartford Equity Income A,Large Value,2003-08-28,2026-09-30,5809
+HRCVX,Carillon Eagle Growth & Income A,Large Value,1988-01-04,2026-09-30,9759
+HRSCX,Carillon Eagle Small Cap Growth A,Small Growth,1993-05-07,2026-09-30,8407
+HRSMX,Hood River Small-Cap Growth Instl,Small Growth,2003-01-06,2026-09-30,5972
+HRTVX,Heartland Value Investor,Small Value,1988-01-04,2026-09-30,9759
+HRVIX,Heartland Value Plus Investor,Small Value,1993-10-26,2026-09-30,8288
+HSCCX,Carillon Eagle Small Cap Growth C,Small Growth,1995-03-31,2026-09-30,7927
+HSCSX,Homestead Small Company Stock,Small Blend,1998-03-04,2026-09-30,7189
+HSCYX,Hartford Small Company Y,Small Growth,1996-07-22,2026-09-30,7597
+HSIIX,Carillon Eagle Small Cap Growth I,Small Growth,2006-01-03,2026-09-30,5218
+HSLAX,Hartford Small Cap Growth A,Small Growth,2002-02-15,2026-09-30,6195
+HSMAX,Hartford Small Cap Value A,Small Value,2004-12-31,2026-09-30,5471
+HSTAX,Hartford Stock HLS IA,Large Blend,1988-01-04,2026-09-30,9759
+HSUAX,Rational Dynamic Brands A,Large Growth,2002-10-02,2026-09-30,6037
+HSUTX,Rational Dynamic Brands Instl,Large Growth,2002-10-01,2026-09-30,6038
+HULIX,Huber Select Large Cap Value Inv,Large Value,2007-07-02,2026-09-30,4843
+HUSIX,Huber Small Cap Value Inv,Small Value,2007-07-02,2026-09-30,4843
+HWAAX,Hotchkis & Wiley Opps A,Mid-Cap Value,2003-01-02,2026-09-30,5974
+HWCAX,Hotchkis & Wiley Disciplined Value A,Large Value,2004-09-01,2026-09-30,5555
+HWLIX,Hotchkis & Wiley Large Cap Fdml Value I,Large Value,1988-01-04,2026-09-30,9759
+HWMIX,Hotchkis & Wiley Mid-Cap Value I,Mid-Cap Value,1996-12-31,2026-09-30,7484
+HWSIX,Hotchkis & Wiley Small Cap Value I,Small Value,1988-01-04,2026-09-30,9759
+IACIX,VY American Century Sm-Mid Cp Val I,Mid-Cap Value,2002-05-02,2026-09-30,6143
+IALAX,Transamerica Capital Growth A,Large Growth,1999-02-26,2026-09-30,6941
+IAMOX,Voya MidCap Opportunities Port A,Mid-Cap Growth,2006-12-29,2026-09-30,4968
+IASAX,VY American Century Sm-Mid Cp Val A,Mid-Cap Value,2002-05-02,2026-09-30,6143
+IASCX,Voya Small Company Port A,Small Blend,2008-12-16,2026-09-30,4474
+IASSX,VY American Century Sm-Mid Cp Val S,Mid-Cap Value,2002-05-02,2026-09-30,6143
+IAXAX,VY T. Rowe Price Divers Mid Cap Gr A,Mid-Cap Growth,2001-12-10,2026-09-30,6241
+IAXIX,VY T. Rowe Price Divers Mid Cap Gr I,Mid-Cap Growth,2001-12-10,2026-09-30,6241
+IAXSX,VY T. Rowe Price Divers Mid Cap Gr S,Mid-Cap Growth,2001-12-10,2026-09-30,6241
+IAXTX,VY T. Rowe Price Divers Mid Cap Gr S2,Mid-Cap Growth,2009-02-27,2026-09-30,4425
+ICISX,VY Columbia Small Cp Val & Inflection I,Small Value,2006-05-04,2026-09-30,5134
+ICSCX,William Blair Small Cap Value I,Small Value,1999-09-30,2026-09-30,6791
+IEDAX,Voya Large Cap Value A,Large Value,2007-12-20,2026-09-30,4723
+IEDCX,Voya Large Cap Value C,Large Value,2007-12-20,2026-09-30,4723
+IEDIX,Voya Large Cap Value I,Large Value,2008-02-01,2026-09-30,4695
+IEOPX,Voya Large Cap Growth Port A,Large Growth,2002-01-03,2026-09-30,6225
+IGIAX,Integrity Growth & Income Fund A,Large Blend,1994-12-30,2026-09-30,7990
+IGOWX,Voya Large-Cap Growth W,Large Growth,1997-07-15,2026-09-30,7349
+IICAX,AMF Large Cap Equity AMF,Large Blend,2004-06-17,2026-09-30,5608
+IICHX,AMF Large Cap Equity H,Large Blend,2009-02-20,2026-09-30,4430
+IIMOX,Voya MidCap Opportunities Port I,Mid-Cap Growth,2001-05-30,2026-09-30,6372
+IIRLX,Voya Russell Large Cap Index Port I,Large Blend,2008-03-11,2026-09-30,4669
+IIRMX,Voya Russell Mid Cap Index Port I,Mid-Cap Blend,2008-03-11,2026-09-30,4669
+IIRSX,Voya Russell Small Cap Index Port I,Small Blend,2002-04-29,2026-09-30,6146
+IIVAX,Transamerica Small/Mid Cap Value A,Mid-Cap Value,2001-03-30,2026-09-30,6413
+IIVGX,Voya Growth and Income Port I,Large Blend,1988-01-04,2026-09-30,9759
+IIVLX,Transamerica Small/Mid Cap Value C,Mid-Cap Value,2002-11-11,2026-09-30,6009
+IJMAX,VY JPMorgan Mid Cap Value A,Mid-Cap Value,2002-01-03,2026-09-30,6225
+IJPMX,VY JPMorgan Mid Cap Value S2,Mid-Cap Value,2009-02-27,2026-09-30,4425
+IJSAX,VY JPMorgan Small Cap Core Equity A,Small Blend,2002-01-03,2026-09-30,6225
+IMANX,Iman K,Large Growth,2000-06-30,2026-09-30,6601
+IMOPX,Voya MidCap Opportunities Port S2,Mid-Cap Growth,2009-02-27,2026-09-30,4425
+IMSCX,IMS Capital Value,Large Blend,1996-07-31,2026-09-30,7590
+INDZX,Columbia Intrinsic Value A,Large Value,1990-10-15,2026-09-30,9055
+INGIX,Voya US Stock Index Port I,Large Blend,2002-01-03,2026-09-30,6225
+INUTX,Columbia Dividend Opportunity A,Large Value,1988-07-29,2026-09-30,9614
+IOLZX,ICON Equity Institutional,Mid-Cap Blend,2004-02-03,2026-09-30,5701
+IPFPX,Poplar Forest Partners Institutional,Mid-Cap Value,2009-12-31,2026-09-30,4212
+IPLSX,Voya Index Plus LargeCap Port S,Large Blend,1996-09-16,2026-09-30,7558
+IPMIX,Voya Index Plus MidCap Port I,Mid-Cap Blend,1997-12-17,2026-09-30,7240
+IPSIX,Voya Index Plus SmallCap Port I,Small Blend,1997-12-22,2026-09-30,7237
+IRCIX,Voya Russell Small Cap Index Port S2,Small Blend,2009-02-27,2026-09-30,4425
+IRLAX,Voya Russell Large Cap Growth Idx Port A,Large Growth,2009-05-04,2026-09-30,4380
+IRLUX,Voya Russell Large Cap Index Port S2,Large Blend,2009-02-27,2026-09-30,4425
+IRMTX,Voya Russell Mid Cap Index Port S2,Mid-Cap Blend,2009-02-27,2026-09-30,4425
+IRVAX,Voya Russell Large Cap Value Idx Port A,Large Value,2009-05-04,2026-09-30,4380
+IRVSX,Voya Russell Large Cap Value Idx Port S,Large Value,2009-05-04,2026-09-30,4380
+ISBAX,VY Columbia Contrarian Core A,Large Blend,2001-12-10,2026-09-30,6241
+ISJBX,Voya US Stock Index Port S,Large Blend,2007-04-30,2026-09-30,4887
+ISMOX,Voya MidCap Opportunities Port S,Mid-Cap Growth,2001-04-30,2026-09-30,6393
+ISMSX,VY American Century Sm-Mid Cp Val S2,Mid-Cap Value,2009-02-27,2026-09-30,4425
+ISOPX,Voya SmallCap Opportunities Port A,Small Growth,2008-11-20,2026-09-30,4491
+IVCSX,Voya Small Company Port I,Small Blend,1996-12-30,2026-09-30,7485
+IVGSX,VY Invesco Growth and Income S,Large Value,1993-10-12,2026-09-30,8298
+IVKAX,VY Invesco Comstock A,Large Value,2002-01-03,2026-09-30,6225
+IVPOX,Voya SmallCap Opportunities Port S,Small Growth,2001-05-03,2026-09-30,6390
+IVVIX,Nomura Smid Cap Core I,Small Blend,2007-04-02,2026-09-30,4906
+IYSAX,Nomura Smid Cap Core A,Small Blend,1997-01-31,2026-09-30,7462
+JACAX,Janus Henderson VIT Forty Instl,Large Growth,1997-04-30,2026-09-30,7401
+JAENX,Janus Henderson Enterprise T,Mid-Cap Growth,1992-08-31,2026-09-30,8580
+JAGIX,Janus Henderson Growth And Income T,Large Blend,1991-05-17,2026-09-30,8906
+JAGRX,Janus Henderson VIT Research Instl,Large Growth,1993-09-13,2026-09-30,8319
+JAMEX,Jamestown Equity,Large Blend,1992-11-30,2026-09-30,8517
+JAMRX,Janus Henderson Research T,Large Growth,1993-04-30,2026-09-30,8412
+JAMVX,Janus Henderson VIT Mid Cap Value Instl,Mid-Cap Value,2000-05-05,2026-09-30,6640
+JANIX,Janus Henderson Triton D,Small Growth,2005-02-28,2026-09-30,5432
+JANVX,Janus Henderson Venture D,Small Growth,1988-01-04,2026-09-30,9759
+JASCX,James Small Cap,Small Blend,1998-10-02,2026-09-30,7041
+JDESX,JPMorgan US Research Enhanced Equity I,Large Blend,1997-12-31,2026-09-30,7231
+JECIX,John Hancock Variable Insurance Trust - Mid Cap Index Trust,Mid-Cap Blend,2000-05-01,2026-09-30,6644
+JEMUX,John Hancock Variable Insurance Trust - Mid Value Trust,Mid-Cap Value,2005-04-29,2026-09-30,5389
+JENHX,Johnson Enhanced Return,Large Blend,2006-01-05,2026-09-30,5216
+JENSX,Jensen Quality Growth J,Large Blend,1992-07-31,2026-09-30,8601
+JEQAX,John Hancock Variable Insurance Trust - Fundamental All Cap Core Trust,Large Growth,2003-05-05,2026-09-30,5890
+JEQIX,Johnson Equity Income,Large Blend,2005-12-30,2026-09-30,5219
+JESGX,John Hancock Variable Insurance Trust - Small Cap Stock Trust,Small Growth,2005-04-29,2026-09-30,5389
+JESIX,John Hancock Variable Insurance Trust - Small Cap Index Trust,Small Blend,2000-05-01,2026-09-30,6644
+JESVX,John Hancock Variable Insurance Trust - Small Cap Core Trust,Small Blend,2005-04-29,2026-09-30,5389
+JETSX,John Hancock Variable Insurance Trust - Total Stock Market Index Trust,Large Blend,2000-05-01,2026-09-30,6644
+JFCAX,JHancock Fundamental All Cap Core A,Large Blend,2011-06-02,2026-09-30,3855
+JGACX,JPMorgan Growth Advantage C,Large Growth,2006-05-01,2026-09-30,5137
+JGVRX,JPMorgan Growth Advantage R5,Large Growth,2009-01-08,2026-09-30,4459
+JHLVX,JHancock Fundamental Large Cap Core C,Large Blend,1998-04-30,2026-09-30,7149
+JIBCX,JHancock Blue Chip Growth 1,Large Growth,2005-10-14,2026-09-30,5272
+JIEMX,JHancock Equity Income 1,Large Value,2005-10-14,2026-09-30,5272
+JIISX,JPMorgan US Sustainable Leaders I,Large Blend,2003-02-28,2026-09-30,5935
+JLPSX,JPMorgan US Large Cap Core Plus I,Large Blend,2005-11-01,2026-09-30,5260
+JMCVX,Janus Henderson Mid Cap Value T,Mid-Cap Value,1998-08-12,2026-09-30,7077
+JMIGX,Jacob Discovery Fd Instl,Small Blend,1997-12-31,2026-09-30,7231
+JNVIX,Jensen Quality Mid Cap I,Mid-Cap Blend,2010-03-31,2026-09-30,4151
+JOPPX,Johnson Opportunity,Small Blend,1994-05-16,2026-09-30,8149
+JRSAX,JH Adaptive Risk Mgd U.S. Eq A,Large Blend,2006-01-03,2026-09-30,5218
+JRSCX,JH Adaptive Risk Mgd U.S. Eq C,Large Blend,2006-01-03,2026-09-30,5218
+JRSIX,JH Adaptive Risk Mgd U.S. Eq I,Large Blend,2006-01-03,2026-09-30,5218
+JRSSX,JH Adaptive Risk Mgd U.S. Eq S,Large Blend,2006-01-03,2026-09-30,5218
+JRSTX,JH Adaptive Risk Mgd U.S. Eq T,Large Blend,2009-07-06,2026-09-30,4337
+JSCGX,Jacob Innovation Investor,Small Growth,2010-02-01,2026-09-30,4192
+JSCSX,JPMorgan US Small Company I,Small Blend,1988-01-04,2026-09-30,9759
+JSCVX,Janus Henderson Small Cap Value T,Small Value,1988-01-04,2026-09-30,9759
+JSIGX,Jacob Innovation Institutional,Small Growth,1997-04-11,2026-09-30,7414
+JSIVX,Janus Henderson Small Cap Value L,Small Value,1988-01-04,2026-09-30,9759
+JSVAX,Janus Henderson Contrarian T,Mid-Cap Blend,2000-02-29,2026-09-30,6687
+JUESX,JPMorgan US Equity I,Large Blend,1988-01-04,2026-09-30,9759
+JVAAX,JPMorgan Value Advantage A,Large Value,2005-02-28,2026-09-30,5431
+JVLIX,JHancock Disciplined Value I,Large Value,1996-12-31,2026-09-30,7484
+JVMAX,JHancock Disciplined Value Mid Cap A,Mid-Cap Value,1997-05-30,2026-09-30,7380
+KAUAX,Federated Hermes Kaufmann A,Mid-Cap Growth,2001-04-23,2026-09-30,6398
+KAUCX,Federated Hermes Kaufmann C,Mid-Cap Growth,2001-04-23,2026-09-30,6398
+KAUFX,Federated Hermes Kaufmann R,Mid-Cap Growth,1988-01-04,2026-09-30,9759
+KDHAX,DWS CROCI Equity Dividend A,Large Value,1988-03-18,2026-09-30,9706
+KLCAX,Federated Hermes Kaufmann Large Cap A,Large Growth,2007-12-06,2026-09-30,4733
+KLGAX,NYLIM WMC Growth Class A,Large Growth,2006-08-07,2026-09-30,5069
+KMKAX,Kinetics Market Opportunities Adv A,Mid-Cap Growth,2006-02-02,2026-09-30,5197
+KMVAX,Kirr Marbach Partners Value,Mid-Cap Blend,1998-12-31,2026-09-30,6979
+KSCOX,Kinetics Small Cap Opportunities No Load,Small Growth,2000-03-20,2026-09-30,6673
+KSDIX,Keeley Gabelli Small Cap Dividend I,Small Value,2009-12-02,2026-09-30,4232
+KSMIX,Keeley Gabelli SMID Cap Value I,Small Value,2007-08-16,2026-09-30,4811
+LADIX,ClearBridge Tactical Dividend Income I,Large Value,2008-05-16,2026-09-30,4622
+LAFFX,Lord Abbett Affiliated A,Large Value,1988-01-04,2026-09-30,9759
+LAFPX,Lord Abbett Affiliated P,Large Value,1997-11-24,2026-09-30,7256
+LAGWX,Lord Abbett Developing Growth A,Small Growth,1988-01-04,2026-09-30,9759
+LAMAX,Lord Abbett Dividend Growth A,Large Blend,2001-12-19,2026-09-30,6234
+LAMFX,Lord Abbett Dividend Growth F,Large Blend,2007-09-28,2026-09-30,4781
+LAVLX,Lord Abbett Mid Cap Stock A,Mid-Cap Value,1988-01-04,2026-09-30,9759
+LBGAX,ClearBridge Mid Cap Growth A,Mid-Cap Growth,2010-08-31,2026-09-30,4045
+LBISX,BrandywineGLOBAL Div US Large Value IS,Large Value,2010-09-07,2026-09-30,4041
+LCBOX,ClearBridge Dividend Strategy 1,Large Value,2011-04-29,2026-09-30,3878
+LCEAX,Invesco Diversified Dividend A,Large Value,2002-01-03,2026-09-30,6225
+LCGFX,William Blair Large Cap Growth I,Large Growth,1999-12-28,2026-09-30,6730
+LCGRX,Loomis Sayles Small Cap Growth Retail,Small Growth,1996-12-31,2026-09-30,7484
+LCIAX,SEI Large Cap Index A (SIIT),Large Blend,2007-09-04,2026-09-30,4799
+LEIFX,Federated Hermes Strategic Div Gr A,Large Value,1988-01-04,2026-09-30,9759
+LEXCX,Voya Corporate Leaders Trust B,Large Value,1988-01-04,2026-09-30,9759
+LGILX,Schwab Large Cap Growth Opportunities,Large Growth,1997-10-15,2026-09-30,7284
+LGLAX,Lord Abbett Growth Leaders A,Large Growth,2011-06-29,2026-09-30,3836
+LIACX,Columbia Acorn C,Mid-Cap Growth,2000-10-13,2026-09-30,6528
+LIMAX,Cromwell Tran Focus Investor,Mid-Cap Growth,2007-09-07,2026-09-30,4796
+LIMIX,Cromwell Tran Focus Instl,Mid-Cap Growth,2007-09-07,2026-09-30,4796
+LKEQX,LKCM Equity,Large Blend,1995-12-29,2026-09-30,7738
+LKSCX,LKCM Small Cap Equity Instl,Small Growth,1994-07-14,2026-09-30,8108
+LKSMX,LKCM Small-Mid Cap Equity Institutional,Mid-Cap Growth,2011-05-02,2026-09-30,3877
+LLPFX,Longleaf Partners,Mid-Cap Value,1988-01-04,2026-09-30,9759
+LMASX,ClearBridge Smaller Companies C,Small Blend,1988-01-04,2026-09-30,9757
+LMESX,ClearBridge Appreciation IS,Large Blend,2008-08-04,2026-09-30,4568
+LMGAX,Lord Abbett Growth Opportunities A,Mid-Cap Growth,1995-07-28,2026-09-30,7845
+LMGCX,Lord Abbett Growth Opportunities C,Mid-Cap Growth,1998-10-13,2026-09-30,7034
+LMISX,Franklin U.S. Large Cap Equity IS,Large Blend,2008-04-30,2026-09-30,4634
+LMIYX,Lord Abbett Micro Cap Growth I,Small Growth,1999-07-09,2026-09-30,6849
+LMOPX,Patient Opportunity C,Mid-Cap Value,1999-12-30,2026-09-30,6728
+LMPLX,ClearBridge Large Cap Growth R,Large Growth,2006-12-28,2026-09-30,4969
+LMPPX,ClearBridge Appreciation R,Large Blend,2006-12-28,2026-09-30,4969
+LMPRX,ClearBridge Growth R,Mid-Cap Growth,2006-12-28,2026-09-30,4969
+LMSIX,Franklin U.S. Small Cap Equity I,Small Blend,2000-03-13,2026-09-30,6678
+LMVTX,ClearBridge Value C,Large Value,1988-01-04,2026-09-30,9756
+LMVYX,Lord Abbett Focused Small Cap Value I,Small Value,1999-07-09,2026-09-30,6849
+LOMAX,Edgar Lomax Value,Large Value,1997-12-12,2026-09-30,7243
+LRSCX,Lord Abbett Small Cap Value A,Small Value,1995-12-13,2026-09-30,7749
+LSGRX,Loomis Sayles Growth Y,Large Growth,1991-05-13,2026-09-30,8910
+LSRCX,Lord Abbett Small Cap Value C,Small Value,1997-03-31,2026-09-30,7423
+LSSCX,Loomis Sayles Small Cap Value Instl,Small Blend,1991-05-13,2026-09-30,8910
+LSVAX,Loomis Sayles Small Cap Value Admin,Small Blend,1997-12-31,2026-09-30,7231
+LSVEX,LSV Value Equity,Mid-Cap Value,1999-03-31,2026-09-30,6918
+LSVVX,LSV Conservative Value Equity,Large Value,2007-04-02,2026-09-30,4906
+LVOAX,Lord Abbett Value Opportunities A,Mid-Cap Blend,2005-12-29,2026-09-30,5220
+LVPIX,ProFunds Large Cap Value Inv,Large Value,2002-09-30,2026-09-30,6039
+LZCOX,Lazard US Small Cap Equity Select Open,Small Blend,1997-01-30,2026-09-30,7463
+LZSCX,Lazard US Small Cap Equity Select Instl,Small Blend,1991-10-30,2026-09-30,8791
+LZUOX,Lazard US Equity Focus Open,Large Blend,2005-01-04,2026-09-30,5469
+LZUSX,Lazard US Equity Focus Instl,Large Blend,2005-01-04,2026-09-30,5469
+MABAX,BlackRock Large Cap Focus Value Instl,Large Value,1988-01-04,2026-09-30,9759
+MADVX,BlackRock Equity Dividend Instl,Large Value,1988-11-28,2026-09-30,9530
+MAFGX,BlackRock Capital Appreciation Instl,Large Growth,1996-06-20,2026-09-30,7618
+MAFOX,BlackRock Large Cap Focus Growth Instl,Large Growth,2000-03-03,2026-09-30,6684
+MALRX,BlackRock Advantage Large Cap Core Instl,Large Blend,1999-12-22,2026-09-30,6733
+MALVX,BlackRock Advantage Large Cap Val Instl,Large Value,1999-12-22,2026-09-30,6733
+MAPLX,Morgan Stanley Inst Advantage L,Large Growth,2008-07-01,2026-09-30,4591
+MARFX,BlackRock Mid-Cap Value Institutional,Mid-Cap Value,1995-01-31,2026-09-30,7969
+MASKX,iShares Russell 2000 Small-Cap Idx Instl,Small Blend,1997-04-08,2026-09-30,7417
+MASMX,Madison Small Cap A,Small Blend,2006-12-29,2026-09-30,4968
+MASPX,BlackRock Advantage SMID Cap Instl,Small Blend,1988-01-04,2026-09-30,9759
+MBCGX,MassMutual Blue Chip Growth A,Large Growth,2001-05-31,2026-09-30,6371
+MCFOX,BlackRock Large Cap Focus Growth Inv C,Large Growth,2000-03-03,2026-09-30,6684
+MCGFX,AMG GW&K Small Cap Growth N,Small Growth,1994-11-02,2026-09-30,8030
+MCVSX,Victory Integrity Small-Cap Value C,Small Value,2011-05-13,2026-09-30,3868
+MDDAX,MassMutual Diversified Value A,Large Value,2004-10-19,2026-09-30,5522
+MDDLX,MassMutual Diversified Value Adm,Large Value,2004-10-19,2026-09-30,5522
+MDFOX,BlackRock Large Cap Focus Growth Inv A,Large Growth,2000-03-03,2026-09-30,6684
+MDPIX,ProFunds Mid Cap Inv,Mid-Cap Blend,2001-08-31,2026-09-30,6306
+MDSKX,iShares Russell 2000 Small-Cap Idx Inv A,Small Blend,1997-04-08,2026-09-30,7417
+MDVNX,MassMutual Diversified Value R3,Large Value,2004-10-19,2026-09-30,5522
+MDVSX,MassMutual Diversified Value R5,Large Value,2004-10-19,2026-09-30,5522
+MDVYX,MassMutual Diversified Value Svc,Large Value,2004-10-19,2026-09-30,5522
+MEFAX,MassMutual Mid Cap Growth A,Mid-Cap Growth,2000-05-31,2026-09-30,6623
+MEFOX,Meehan Focus,Large Blend,1999-12-09,2026-09-30,6742
+MEFZX,MassMutual Mid Cap Growth I,Mid-Cap Growth,2010-11-15,2026-09-30,3992
+MEGBX,MFS Growth B,Large Growth,1988-01-04,2026-09-30,9758
+MEIAX,MFS Value A,Large Value,1995-12-29,2026-09-30,7738
+MEQFX,AMG River Road Large Cap Value Select I,Large Value,1992-08-14,2026-09-30,8591
+MERAX,Madison Mid Cap A,Mid-Cap Blend,2000-03-20,2026-09-30,6673
+MERDX,Meridian Growth Legacy,Small Growth,1988-01-04,2026-09-30,9759
+MFOCX,Marsico Focus,Large Growth,1997-12-31,2026-09-30,7231
+MFRFX,MFS Research A,Large Blend,1988-01-04,2026-09-30,9759
+MGNDX,Praxis Growth Index A,Large Growth,2007-05-02,2026-09-30,4885
+MGOAX,Victory Mid-Cap Core Growth A,Mid-Cap Growth,2000-06-30,2026-09-30,6601
+MGOYX,Victory Mid-Cap Core Growth Y,Mid-Cap Growth,1998-06-24,2026-09-30,7111
+MGPIX,ProFunds Mid Cap Growth Inv,Mid-Cap Growth,2001-08-31,2026-09-30,6306
+MGRIX,Marsico Growth,Large Growth,1997-12-31,2026-09-30,7231
+MIDKX,Shelton S&P Midcap Index K,Mid-Cap Blend,2003-10-17,2026-09-30,5774
+MIEAX,MM S&P 500 Index R4,Large Blend,1998-02-27,2026-09-30,7192
+MIEZX,MM S&P 500 Index R5,Large Blend,2001-04-30,2026-09-30,6393
+MIGFX,MFS Massachusetts Inv Gr Stk A,Large Growth,1988-01-04,2026-09-30,9759
+MINVX,Madison Large Cap Y,Large Blend,1988-01-04,2026-09-30,9759
+MISEX,Midas Special Opportunities,Large Blend,1988-01-04,2026-09-30,9759
+MITTX,MFS Massachusetts Investors Tr A,Large Blend,1988-01-04,2026-09-30,9759
+MLAAX,NYLIM Winslow Large Cap Growth Class A,Large Growth,1995-07-07,2026-09-30,7860
+MLACX,NYLIM Winslow Large Cap Growth Class C,Large Growth,2005-04-01,2026-09-30,5409
+MLAIX,NYLIM Winslow Large Cap Growth Class I,Large Growth,2005-03-31,2026-09-30,5410
+MLGRX,NYLIM Winslow Large Cap Growth Class R3,Large Growth,2006-04-28,2026-09-30,5138
+MLINX,NYLIM Winslow Large Cap Growth Inv Class,Large Growth,2008-02-28,2026-09-30,4677
+MLPIX,ProFunds Mid Cap Value Inv,Small Value,2001-08-31,2026-09-30,6306
+MLPSX,ProFunds Mid Cap Value Svc,Small Value,2001-08-31,2026-09-30,6306
+MLRRX,NYLIM Winslow Large Cap Growth Class R1,Large Growth,2005-03-31,2026-09-30,5410
+MLRTX,NYLIM Winslow Large Cap Growth Class R2,Large Growth,2005-03-31,2026-09-30,5410
+MMEAX,Victory Integrity Discovery A,Small Value,1996-12-26,2026-09-30,7487
+MMECX,Victory Integrity Discovery C,Small Value,1997-03-31,2026-09-30,7423
+MMGEX,MassMutual Small Cap Gr Eq A,Small Growth,1999-04-30,2026-09-30,6897
+MMSCX,Praxis Small Cap Index A,Small Blend,2007-05-02,2026-09-30,4885
+MNDAX,MFS New Discovery A,Small Growth,1996-12-31,2026-09-30,7484
+MNNAX,Victory Multi-Cap A,Large Blend,1996-08-19,2026-09-30,7577
+MNNCX,Victory Multi-Cap C,Large Blend,1998-11-03,2026-09-30,7019
+MNRGX,Manor Growth,Large Blend,1999-07-01,2026-09-30,6854
+MNRMX,Manor,Large Blend,2005-05-04,2026-09-30,5386
+MONTX,Monetta,Large Growth,1988-01-04,2026-09-30,9759
+MOPIX,NYLIM WMC Small Companies Class I,Small Blend,1988-01-04,2026-09-30,9759
+MPEGX,Morgan Stanley Inst Discovery I,Mid-Cap Growth,1990-03-30,2026-09-30,9192
+MPGFX,Mairs & Power Fund,Large Blend,1988-01-04,2026-09-30,9759
+MPSSX,BNY Mellon Small Cap Multi-Strategy M,Small Growth,2000-09-29,2026-09-30,6538
+MRGAX,MFS Core Equity A,Large Blend,1995-12-29,2026-09-30,7738
+MRLIX,AMG Renaissance Large Cap Growth Z,Large Growth,2009-06-03,2026-09-30,4359
+MRLSX,AMG Renaissance Large Cap Growth I,Large Growth,2009-06-04,2026-09-30,4358
+MSCDX,MassMutual Small Cap Opps R5,Small Blend,1996-06-20,2026-09-30,7618
+MSCYX,MassMutual Small Cap Gr Eq Svc,Small Growth,1999-04-30,2026-09-30,6897
+MSEQX,Morgan Stanley Inst Growth I,Large Growth,1991-04-02,2026-09-30,8939
+MSGNX,MassMutual Small Cap Gr Eq R3,Small Growth,2002-12-30,2026-09-30,5976
+MSGZX,MassMutual Small Cap Gr Eq I,Small Growth,2010-11-15,2026-09-30,3992
+MSIGX,Invesco Main Street A,Large Blend,1988-02-03,2026-09-30,9737
+MSOAX,NYLIM WMC Enduring Capital Class A,Large Blend,1998-05-29,2026-09-30,7129
+MSSCX,AMG Frontier Small Cap Growth I,Small Growth,1997-09-25,2026-09-30,7298
+MSSGX,Morgan Stanley Inst Inception I,Small Growth,1989-10-31,2026-09-30,9296
+MSSVX,AMG Frontier Small Cap Growth N,Small Growth,2010-01-04,2026-09-30,4211
+MUBFX,NYLIM WMC Value Class I,Large Value,1988-01-04,2026-09-30,9759
+MUHLX,Muhlenkamp,Large Value,1988-11-01,2026-09-30,9548
+MUIFX,Nationwide Institutional Service,Large Blend,1988-01-04,2026-09-30,9759
+MUIGX,Nationwide BNY Mellon Dyn US Core R6,Large Blend,1988-01-04,2026-09-30,9759
+MUSEX,MFS Blended Research Core Equity I,Large Blend,1994-01-14,2026-09-30,8232
+MUXYX,Victory S&P 500 Index Y,Large Blend,1991-11-29,2026-09-30,8770
+MVALX,Meridian Contrarian Legacy,Small Blend,1994-02-07,2026-09-30,8216
+MVCAX,MFS Mid Cap Value A,Mid-Cap Value,2001-08-31,2026-09-30,6306
+MVCGX,MFS Mid Cap Value R1,Mid-Cap Value,2005-03-31,2026-09-30,5410
+MVIAX,Praxis Value Index A,Large Value,2001-04-30,2026-09-30,6393
+MVIIX,Praxis Value Index I,Large Value,2006-05-01,2026-09-30,5137
+MXCCX,Federated Hermes Max-Cap Index C,Large Blend,1997-11-10,2026-09-30,7266
+MXEQX,Empower Large Cap Value Inv,Large Value,1994-11-02,2026-09-30,8030
+MXISX,Empower S&P SmallCap 600 Index Inv,Small Blend,1993-12-02,2026-09-30,8262
+MXLGX,Empower Large Cap Growth Inv,Large Growth,2003-05-27,2026-09-30,5875
+MXLSX,Empower Small Cap Value Inv,Small Value,1994-11-01,2026-09-30,8031
+MXMDX,Empower S&P Mid Cap 400 Index Inv,Mid-Cap Blend,2011-01-20,2026-09-30,3947
+MXMGX,Empower T. Rowe Price Mid Cp Gr Inv,Mid-Cap Growth,1997-07-01,2026-09-30,7358
+MXMVX,Empower Mid Cap Value Inv,Mid-Cap Value,2008-05-16,2026-09-30,4622
+MXVIX,Empower S&P 500 Index Investor,Large Blend,2003-09-09,2026-09-30,5802
+MXXIX,Marsico Midcap Growth Focus Fund,Mid-Cap Growth,2000-01-31,2026-09-30,6707
+MXXVX,Matthew 25,Large Blend,1995-10-16,2026-09-30,7790
+MYIFX,Monetta Young Investor Growth,Large Growth,2006-12-14,2026-09-30,4978
+NAESX,Vanguard MStar Small Cap Index Investor,Small Blend,1988-01-04,2026-09-30,9759
+NAMAX,Columbia Select Mid Cap Value Instl,Mid-Cap Value,2001-11-20,2026-09-30,6254
+NASDX,Shelton Nasdaq-100 Index Investor,Large Growth,2000-01-18,2026-09-30,6716
+NAVFX,Sector Rotation Fund,Large Blend,2009-12-30,2026-09-30,4213
+NBGAX,Neuberger Genesis Adv,Small Growth,1997-04-02,2026-09-30,7421
+NBGEX,Neuberger Genesis Tr,Small Growth,1993-08-26,2026-09-30,8330
+NBGNX,Neuberger Genesis Inv,Small Growth,1988-09-27,2026-09-30,9573
+NBGUX,Neuberger Large Cap Growth Adv,Large Growth,1996-08-30,2026-09-30,7568
+NBHAX,Neuberger Equity Income A,Large Value,2006-11-03,2026-09-30,5006
+NBHCX,Neuberger Equity Income C,Large Value,2006-11-03,2026-09-30,5006
+NBHIX,Neuberger Equity Income I,Large Value,2006-11-02,2026-09-30,5007
+NBHRX,Neuberger Equity Income R3,Large Value,2010-06-21,2026-09-30,4095
+NBMIX,Neuberger Small Cap Growth Inv,Small Growth,1998-10-20,2026-09-30,7029
+NBNGX,Sit Mid Cap Growth,Mid-Cap Growth,1995-12-06,2026-09-30,7754
+NBRVX,Neuberger M/C Intrinsic Val Inv,Mid-Cap Value,1999-05-28,2026-09-30,6877
+NBSRX,Neuberger Quality Equity Inv,Large Blend,1994-03-16,2026-09-30,8190
+NCBVX,PGIM Quant Solutions Mid-Cap Val C,Mid-Cap Value,1998-08-19,2026-09-30,7072
+NCEGX,The North Country Large Cap Equity Fund,Large Blend,2001-02-28,2026-09-30,6435
+NCGFX,New Covenant Growth,Large Blend,1999-06-30,2026-09-30,6855
+NCLEX,Nicholas Limited Edition I,Small Growth,1988-01-04,2026-09-30,9759
+NCTWX,Nicholas II I,Mid-Cap Growth,1988-01-04,2026-09-30,9758
+NCVLX,Nuance Concentrated Value Institutional,Mid-Cap Value,2011-06-02,2026-09-30,3855
+NDVAX,MFS New Discovery Value A,Small Value,2011-05-26,2026-09-30,3859
+NDVIX,MFS New Discovery Value I,Small Value,2011-05-26,2026-09-30,3859
+NEAGX,Needham Aggressive Growth Retail,Small Growth,2001-08-31,2026-09-30,6306
+NECCX,Natixis US Equity Opportunities C,Large Blend,1994-07-07,2026-09-30,8111
+NEEGX,Needham Growth Retail,Mid-Cap Growth,1995-12-26,2026-09-30,7741
+NEFJX,Natixis Vaughan Nelson Small Cap A,Small Blend,1996-12-31,2026-09-30,7484
+NEFOX,Natixis Oakmark A,Large Value,1988-01-04,2026-09-30,9757
+NEIMX,Neiman Large Cap Value No-Load,Large Value,2003-06-12,2026-09-30,5863
+NEJCX,Natixis Vaughan Nelson Small Cap C,Small Blend,1996-12-31,2026-09-30,7484
+NESGX,Needham Small Cap Growth Retail,Small Blend,2002-05-23,2026-09-30,6128
+NFEAX,Columbia Large Cap Growth Opp A,Large Growth,1997-12-31,2026-09-30,7231
+NFJEX,Virtus NFJ Dividend Value Inst,Large Value,2000-05-08,2026-09-30,6639
+NGDAX,Neuberger Large Cap Growth A,Large Growth,2009-05-27,2026-09-30,4364
+NGDCX,Neuberger Large Cap Growth C,Large Growth,2009-05-27,2026-09-30,4364
+NGDRX,Neuberger Large Cap Growth R3,Large Growth,2009-05-27,2026-09-30,4364
+NGUAX,Neuberger Large Cap Growth Inv,Large Growth,1988-01-04,2026-09-30,9759
+NICSX,Nicholas,Large Growth,1988-01-04,2026-09-30,9759
+NINAX,Neuberger Intrinsic Value A,Small Blend,2010-05-10,2026-09-30,4124
+NINCX,Neuberger Intrinsic Value C,Small Blend,2010-05-10,2026-09-30,4124
+NINLX,Neuberger Intrinsic Value I,Small Blend,1999-12-31,2026-09-30,6727
+NMANX,Neuberger Mid Cap Growth Inv,Mid-Cap Growth,1988-01-04,2026-09-30,9758
+NMCAX,Voya MidCap Opportunities A,Mid-Cap Growth,1998-08-20,2026-09-30,7071
+NMFAX,Nationwide BNY Mellon Dyn US Core A,Large Blend,1998-05-08,2026-09-30,7143
+NMGCX,Neuberger Mid Cap Growth C,Mid-Cap Growth,2009-05-27,2026-09-30,4364
+NMIAX,Columbia Large Cap Enhanced Core A,Large Blend,1996-07-31,2026-09-30,7590
+NMSAX,Columbia Small Cap Index A,Small Blend,1996-10-09,2026-09-30,7541
+NMSCX,Columbia Small Cap Index Inst,Small Blend,1996-10-09,2026-09-30,7541
+NMUCX,Neuberger Multi-Cap Opportunities C,Large Blend,2009-12-21,2026-09-30,4219
+NMULX,Neuberger Multi-Cap Opportunities I,Large Blend,2006-11-03,2026-09-30,5006
+NOIEX,Northern Income Equity,Large Value,1994-03-31,2026-09-30,8179
+NOLCX,Northern Large Cap Core,Large Blend,2005-12-19,2026-09-30,5227
+NOLVX,Northern Large Cap Value,Large Value,2000-08-03,2026-09-30,6578
+NOMIX,Northern Mid Cap Index,Mid-Cap Blend,2005-03-23,2026-09-30,5415
+NOSGX,Northern Small Cap Value,Small Value,1994-03-31,2026-09-30,8179
+NOSIX,Northern Stock Index,Large Blend,1996-10-07,2026-09-30,7543
+NPNAX,Neuberger Large Cap Value A,Large Value,2010-06-21,2026-09-30,4095
+NPRTX,Neuberger Large Cap Value Inv,Large Value,1988-01-04,2026-09-30,9759
+NQCAX,Nuveen Large Cap Value Opportunities A,Large Value,2006-12-14,2026-09-30,4978
+NQCCX,Nuveen Large Cap Value Opportunities C,Large Value,2006-12-15,2026-09-30,4977
+NQCFX,NorthQuest Capital,Large Growth,2002-03-21,2026-09-30,6172
+NQCRX,Nuveen Large Cap Value Opportunities I,Large Value,2006-12-14,2026-09-30,4978
+NQVRX,Nuveen Multi Cap Value I,Mid-Cap Value,1997-11-05,2026-09-30,7269
+NRACX,Neuberger Quality Equity C,Large Blend,2009-05-27,2026-09-30,4364
+NRARX,Neuberger Quality Equity R3,Large Blend,2009-05-27,2026-09-30,4364
+NSBAX,Nuveen Dividend Growth A,Large Blend,2006-03-28,2026-09-30,5160
+NSCAX,Nuveen Small-Cap Value Opps A,Small Blend,2004-12-08,2026-09-30,5487
+NSEIX,Nicholas Equity Income I,Large Value,1993-11-23,2026-09-30,8268
+NSEPX,Columbia Cornerstone Equity Inst,Large Blend,1998-10-02,2026-09-30,7041
+NSGAX,Columbia Cornerstone Equity A,Large Blend,1999-07-30,2026-09-30,6834
+NSGRX,Northern Small Cap Core I,Small Blend,1999-09-30,2026-09-30,6791
+NSIDX,Northern Small Cap Index,Small Blend,1999-09-03,2026-09-30,6809
+NSMAX,Nuveen Small/Mid-Cap Value A,Small Blend,2006-12-14,2026-09-30,4978
+NVLIX,Nuveen Winslow Large-Cap Growth ESG I,Large Growth,2009-05-15,2026-09-30,4371
+NWAMX,Nationwide BNY Mellon Dyn US Eq Inc K,Large Value,1996-06-20,2026-09-30,7618
+NYVTX,Davis NY Venture A,Large Value,1988-01-04,2026-09-30,9759
+OAKLX,Oakmark Select Investor,Large Value,1996-10-31,2026-09-30,7525
+OAKMX,Oakmark Investor,Large Value,1991-08-05,2026-09-30,8852
+OALGX,Optimum Large Cap Growth A,Large Growth,2003-07-23,2026-09-30,5835
+OALVX,Optimum Large Cap Value A,Large Value,2003-07-23,2026-09-30,5835
+OARDX,Invesco Rising Dividends A,Large Blend,1988-01-04,2026-09-30,9759
+OASGX,Optimum Small-Mid Cap Growth A,Small Growth,2003-07-23,2026-09-30,5835
+OASVX,Optimum Small-Mid Cap Value A,Small Value,2003-07-23,2026-09-30,5835
+OBMCX,Oberweis Micro-Cap,Small Growth,1996-06-03,2026-09-30,7631
+OBSOX,Oberweis Small-Cap Opportunities,Small Growth,1996-09-16,2026-09-30,7558
+OCLGX,Optimum Large Cap Growth C,Large Growth,2003-07-23,2026-09-30,5835
+ODIYX,Invesco Discovery Y,Small Growth,1994-05-31,2026-09-30,8139
+OEGAX,Invesco Discovery Mid Cap Growth A,Mid-Cap Growth,2000-10-31,2026-09-30,6516
+OILGX,Optimum Large Cap Growth Instl,Large Growth,2003-07-23,2026-09-30,5835
+OINCX,JPMorgan Equity Income C,Large Value,1997-11-04,2026-09-30,7270
+OLVCX,JPMorgan Large Cap Value C,Large Value,1999-03-22,2026-09-30,6925
+OMGCX,JPMorgan Mid Cap Growth C,Mid-Cap Growth,1997-11-04,2026-09-30,7270
+OMGNX,Invesco Main Street R,Large Blend,2001-02-28,2026-09-30,6435
+OMSCX,Invesco Main Street All Cap C,Large Blend,2000-09-25,2026-09-30,6542
+OPMCX,Invesco Main Street Mid Cap C,Mid-Cap Blend,1999-07-30,2026-09-30,6834
+OPMSX,Invesco Main Street Mid Cap A,Mid-Cap Blend,1999-07-30,2026-09-30,6834
+OPOCX,Invesco Discovery A,Small Growth,1988-01-04,2026-09-30,9759
+OPTFX,Invesco Discovery Large Cap A,Large Growth,1988-01-04,2026-09-30,9759
+ORIGX,North Square Spectrum Alpha Fund A,Small Blend,1993-12-31,2026-09-30,8240
+OSGCX,JPMorgan Small Cap Growth C,Small Growth,1997-11-04,2026-09-30,7270
+OSGIX,JPMorgan Mid Cap Growth A,Mid-Cap Growth,1992-02-18,2026-09-30,8716
+OSTFX,Osterweis,Large Blend,1993-09-30,2026-09-30,8306
+OTCAX,MFS Mid Cap Growth A,Mid-Cap Growth,1993-11-30,2026-09-30,8264
+OTCCX,MFS Mid Cap Growth C,Mid-Cap Growth,1994-07-29,2026-09-30,8097
+OTCFX,T. Rowe Price Small-Cap Stock,Small Growth,1988-01-04,2026-09-30,9759
+OWACX,"Old Westbury Funds, Inc. - Old Westbury All Cap Core Fund",Large Growth,1998-02-27,2026-09-30,7192
+PAGRX,Permanent Portfolio Aggressive Growth I,Large Blend,1990-01-02,2026-09-30,9254
+PAPPX,Papp Small & Mid-Cap Growth,Mid-Cap Growth,2010-03-08,2026-09-30,4168
+PARMX,Parnassus Mid-Cap,Mid-Cap Blend,2005-04-29,2026-09-30,5388
+PARNX,Parnassus Mid Cap Growth Investor,Mid-Cap Growth,1988-01-04,2026-09-30,9759
+PARWX,Parnassus Value Equity Investor,Large Value,2005-04-29,2026-09-30,5389
+PAULX,T. Rowe Price US Large-Cap Core Adv,Large Blend,2009-06-26,2026-09-30,4342
+PBEAX,PGIM Jennison Value A,Large Value,1990-01-22,2026-09-30,9240
+PBFDX,Payson Total Return,Large Blend,1991-11-25,2026-09-30,8773
+PBQAX,PGIM Jennison Blend A,Large Growth,1990-01-22,2026-09-30,9240
+PCCGX,Victory Pioneer Mid Cap Value C,Mid-Cap Value,1996-01-31,2026-09-30,7716
+PCEQX,Victory Pioneer Equity Income C,Large Value,1996-01-31,2026-09-30,7716
+PCGRX,Victory Pioneer Mid Cap Value A,Mid-Cap Value,1990-07-25,2026-09-30,9112
+PCKAX,PIMCO Small Cap Stocks PLUS Bd Alp A,Small Blend,2006-07-31,2026-09-30,5074
+PCKCX,PIMCO Small Cap Stocks PLUS Bd Alp C,Small Blend,2006-07-31,2026-09-30,5074
+PCKPX,PIMCO Small Cap Stocks PLUS Bd Alp I-2,Small Blend,2008-04-30,2026-09-30,4634
+PCLCX,PACE Large Co Growth Equity P,Large Growth,1995-08-18,2026-09-30,7830
+PCLVX,PACE Large Co Value Equity P,Large Value,1995-08-18,2026-09-30,7830
+PCODX,Victory Pioneer C,Large Blend,1996-06-28,2026-09-30,7612
+PCSGX,PACE Small/Medium Co Growth Equity P,Small Growth,1995-08-18,2026-09-30,7830
+PCSVX,PACE Small/Medium Co Value Equity P,Small Value,1995-08-18,2026-09-30,7830
+PDIAX,Virtus KAR Equity Income A,Large Value,1997-09-25,2026-09-30,7298
+PECAX,JPMorgan SMID Cap Equity A,Mid-Cap Blend,1991-05-31,2026-09-30,8897
+PEEAX,PGIM Jennison Mid-Cap Growth A,Mid-Cap Growth,1996-12-31,2026-09-30,7484
+PEIYX,Putnam Large Cap Value Y,Large Value,1998-09-30,2026-09-30,7043
+PEMGX,Principal MidCap A,Mid-Cap Growth,1996-06-20,2026-09-30,7618
+PENNX,Royce Small-Cap Fund Invmt,Small Blend,1988-01-04,2026-09-30,9759
+PEOPX,BNY Mellon S&P 500 Index,Large Blend,1989-12-29,2026-09-30,9255
+PESPX,BNY Mellon MidCap Index Inv,Mid-Cap Blend,1991-06-19,2026-09-30,8884
+PEXMX,T. Rowe Price Extended Equity Market Idx,Mid-Cap Blend,1998-01-30,2026-09-30,7211
+PEYAX,Putnam Large Cap Value A,Large Value,1988-01-04,2026-09-30,9759
+PFSLX,Paradigm Select,Mid-Cap Blend,2005-01-03,2026-09-30,5470
+PGICX,Virtus KAR Equity Income C,Large Value,1997-09-25,2026-09-30,7298
+PGOAX,PGIM Jennison Small Company A,Small Growth,1990-01-22,2026-09-30,9240
+PGOFX,Victory Pioneer Select Mid Cap Growth A,Mid-Cap Growth,1993-06-30,2026-09-30,8370
+PGRTX,Principal SmallCap Growth I Instl,Small Growth,2000-12-06,2026-09-30,6491
+PGSGX,JPMorgan Small Cap Growth A,Small Growth,1991-06-28,2026-09-30,8877
+PGWCX,Virtus Silvant Focused Growth C,Large Growth,1988-01-04,2026-09-30,9759
+PHSKX,Virtus KAR Mid-Cap Growth A,Mid-Cap Growth,1988-01-04,2026-09-30,9759
+PIGFX,Victory Pioneer Fundamental Growth A,Large Growth,2002-08-22,2026-09-30,6065
+PINDX,Victory Pioneer Disciplined Growth A,Large Growth,1998-10-16,2026-09-30,7031
+PIODX,Victory Pioneer A,Large Blend,1988-01-04,2026-09-30,9759
+PIOTX,Victory Pioneer Core Equity A,Large Blend,1996-05-31,2026-09-30,7632
+PJARX,Principal SmallCap Value II R3,Small Value,2004-06-02,2026-09-30,5618
+PJFAX,PGIM Jennison Growth A,Large Growth,1995-11-02,2026-09-30,7777
+PJGCX,PGIM Jennison Focused Value C,Large Value,1996-11-07,2026-09-30,7520
+PJIAX,PGIM Jennison Focused Value A,Large Value,1996-11-07,2026-09-30,7520
+PKSAX,Virtus KAR Small-Cap Core A,Small Blend,2002-08-30,2026-09-30,6059
+PKSFX,Virtus KAR Small-Cap Core I,Small Blend,1996-10-18,2026-09-30,7534
+PLBEX,Plumb Equity Investor,Large Growth,2007-05-24,2026-09-30,4869
+PLFIX,Principal Large Cap S&P 500 Index Inst,Large Blend,2001-02-28,2026-09-30,6435
+PLFMX,Principal Large Cap S&P 500 Index R3,Large Blend,2000-12-06,2026-09-30,6491
+PLGIX,Principal LargeCap Growth I Instl,Large Growth,2000-12-06,2026-09-30,6491
+PLLAX,Principal SmallCap A,Small Blend,1998-04-28,2026-09-30,7151
+PLVIX,Principal Large Cap Value III Inst,Large Value,2000-12-06,2026-09-30,6491
+PMDAX,Principal Small-MidCap Dividend Inc A,Small Blend,2011-06-07,2026-09-30,3852
+PMFMX,Principal MidCap S&P 400 Index R3,Mid-Cap Blend,2000-12-06,2026-09-30,6491
+PMVQX,PGIM Quant Solutions Mid-Cap Val R6,Mid-Cap Value,2011-01-18,2026-09-30,3949
+PMYAX,Putnam Core Equity Fund A,Large Blend,2010-09-27,2026-09-30,4027
+PNOPX,Putnam Sustainable Leaders A,Large Growth,1990-08-31,2026-09-30,9085
+PNRAX,Putnam U.S. Research A,Large Blend,1995-09-29,2026-09-30,7801
+PNSAX,Putnam Small Cap Growth A,Small Growth,1997-12-30,2026-09-30,7232
+POAGX,PRIMECAP Odyssey Aggressive Growth,Mid-Cap Growth,2004-11-02,2026-09-30,5512
+POGAX,Putnam Large Cap Growth A,Large Growth,1995-09-29,2026-09-30,7801
+POGRX,PRIMECAP Odyssey Growth,Large Blend,2004-11-03,2026-09-30,5511
+POGSX,Pin Oak Equity,Large Blend,1992-07-31,2026-09-30,8601
+POLIX,Polen Growth Institutional,Large Growth,2010-09-16,2026-09-30,4034
+POMIX,T. Rowe Price Total Equity Market Idx,Large Blend,1998-01-30,2026-09-30,7211
+POSKX,PRIMECAP Odyssey Stock,Large Blend,2004-11-02,2026-09-30,5512
+PPNMX,Principal SmallCap Growth I R3,Small Growth,2000-12-06,2026-09-30,6491
+PPSFX,Principal Large Cap Value III R3,Large Value,2000-12-06,2026-09-30,6491
+PQIAX,Principal Equity Income A,Large Value,1988-01-04,2026-09-30,9759
+PQIRX,Victory Pioneer Equity Income R,Large Value,2003-03-03,2026-09-30,5934
+PQNCX,Virtus NFJ Mid-Cap Value C,Mid-Cap Value,1988-04-18,2026-09-30,9686
+PQSAX,Virtus KAR Small-Cap Value A,Small Growth,2006-06-28,2026-09-30,5096
+PRACX,Putnam U.S. Research C,Large Blend,1999-01-29,2026-09-30,6960
+PRBLX,Parnassus Core Equity Investor,Large Blend,1992-08-31,2026-09-30,8580
+PRCOX,T. Rowe Price U.S. Equity Research,Large Blend,1994-11-30,2026-09-30,8011
+PRDGX,T. Rowe Price Dividend Growth,Large Blend,1992-12-31,2026-09-30,8495
+PRDMX,T. Rowe Price Diversified Mid Cap Gr,Mid-Cap Growth,2004-01-02,2026-09-30,5722
+PRDSX,T. Rowe Price Integrated US Sm Gr Eq,Small Growth,1997-06-30,2026-09-30,7359
+PREFX,T. Rowe Price Tax-Efficient Equity,Large Growth,2000-12-29,2026-09-30,6475
+PREIX,T. Rowe Price Equity Index 500,Large Blend,1990-03-30,2026-09-30,9192
+PRFDX,T. Rowe Price Equity Income,Large Value,1988-01-04,2026-09-30,9759
+PRGFX,T. Rowe Price Growth Stock,Large Growth,1988-01-04,2026-09-30,9759
+PRNHX,T. Rowe Price New Horizons,Mid-Cap Growth,1988-01-04,2026-09-30,9759
+PROVX,Provident Trust Strategy,Large Blend,1988-01-04,2026-09-30,9759
+PRSGX,T. Rowe Price Spectrum Diversified Eq,Large Blend,1990-06-29,2026-09-30,9129
+PRSVX,T. Rowe Price Small-Cap Value,Small Blend,1988-06-30,2026-09-30,9633
+PRWAX,T. Rowe Price All-Cap Opportunities Fund,Large Growth,1988-01-04,2026-09-30,9759
+PSCCX,PGIM Jennison Small Company C,Small Growth,1994-07-29,2026-09-30,8097
+PSCSX,PIMCO Small Cap Stocks PLUS Bd Alp Inst,Small Blend,2006-04-03,2026-09-30,5156
+PSGIX,BlackRock Advantage Small Cap Gr Instl,Small Growth,1993-09-14,2026-09-30,8318
+PSIFX,PGIM Quant Solutions Large-Cap Index Z,Large Blend,1992-11-05,2026-09-30,8533
+PSKPX,PIMCO Stocks PLUS Bond Alpha I-2,Large Blend,2008-04-30,2026-09-30,4634
+PSLAX,Putnam Small Cap Value A,Small Value,1999-04-12,2026-09-30,6911
+PSLCX,Putnam Small Cap Value C,Small Value,1999-07-26,2026-09-30,6838
+PSMJX,Principal SmallCap Value II J,Small Value,2009-03-02,2026-09-30,4424
+PSOAX,JPMorgan Small Cap Value A,Small Value,1995-01-27,2026-09-30,7971
+PSOCX,PIMCO Stocks PLUS Bond Abs Ret Alp C,Large Blend,2002-06-28,2026-09-30,6103
+PSPAX,PIMCO Stocks PLUS Bond Alpha A,Large Blend,1993-05-13,2026-09-30,8403
+PSPCX,PIMCO Stocks PLUS Bond Alpha C,Large Blend,1993-05-13,2026-09-30,8403
+PSPRX,PIMCO Stocks PLUS Bond Alpha R,Large Blend,2002-12-31,2026-09-30,5975
+PSPTX,PIMCO Stocks PLUS Bond Abs Ret Alp I,Large Blend,2002-07-01,2026-09-30,6102
+PSSIX,Principal SmallCap S&P 600 Index Inst,Small Blend,2001-02-28,2026-09-30,6435
+PSSMX,Principal SmallCap S&P 600 Index R3,Small Blend,2000-12-06,2026-09-30,6491
+PSTAX,Virtus KAR Capital Growth A,Large Growth,1995-10-16,2026-09-30,7790
+PSTKX,PIMCO Stocks PLUS Bond Alpha Inst,Large Blend,1993-05-13,2026-09-30,8403
+PSVIX,Virtus NFJ Small-Cap Value Inst,Small Value,1991-09-30,2026-09-30,8813
+PTEZX,PGIM Quant Solutions Large-Cap Cor Eq Z,Large Blend,1999-03-03,2026-09-30,6938
+PTOAX,PIMCO Stocks PLUS Bond Abs Ret Alp A,Large Blend,2002-06-28,2026-09-30,6103
+PTOPX,PIMCO Stocks PLUS Bond Abs Ret Alp I-2,Large Blend,2008-04-30,2026-09-30,4634
+PTSGX,Touchstone Sands Capital Select Growth Z,Large Growth,2000-08-11,2026-09-30,6572
+PVFAX,Paradigm Value,Small Blend,2002-12-31,2026-09-30,5975
+PVFIX,Pinnacle Value,Small Value,2003-04-22,2026-09-30,5898
+PVIVX,Paradigm Micro-Cap,Small Blend,2008-01-08,2026-09-30,4712
+PVMIX,Principal MidCap Value I Inst,Mid-Cap Value,2003-12-30,2026-09-30,5724
+PWGIX,Impax US Sustainable Economy Instl,Large Blend,2007-04-02,2026-09-30,4906
+PXIIX,Virtus KAR Equity Income I,Large Value,2007-11-13,2026-09-30,4749
+PXSGX,Virtus KAR Small-Cap Growth I,Small Growth,2006-06-29,2026-09-30,5095
+PXSIX,Impax Small Cap Institutional,Small Blend,2008-03-27,2026-09-30,4658
+PXWGX,Impax US Sustainable Economy Investor,Large Blend,1997-06-11,2026-09-30,7372
+PYEQX,Victory Pioneer Equity Income Y,Large Value,1998-07-02,2026-09-30,7105
+PYVLX,Payden Equity Income,Large Value,1996-11-04,2026-09-30,7523
+PZFVX,JHancock Classic Value A,Mid-Cap Value,1996-06-24,2026-09-30,7616
+QALGX,Federated Hermes MDT Large Cap Growth A,Large Growth,2005-09-16,2026-09-30,5292
+QASCX,Federated Hermes MDT Small Cap Core A,Small Blend,2005-09-19,2026-09-30,5291
+QASGX,Federated Hermes MDT Small Cap Growth A,Small Growth,2005-09-16,2026-09-30,5292
+QIACX,Federated Hermes MDT All Cap Core IS,Large Blend,2002-10-02,2026-09-30,6037
+QRVLX,FPA Queens Road Value,Large Value,2002-07-11,2026-09-30,6095
+QUASX,AB Small Cap Growth A,Small Growth,1988-01-04,2026-09-30,9759
+RBCGX,Reynolds Blue Chip Growth,Large Growth,1988-08-10,2026-09-30,9606
+RCKSX,Rock Oak Core Growth,Mid-Cap Blend,2005-01-03,2026-09-30,5470
+RCOCX,Victory RS Large Cap Alpha C,Large Value,2000-08-07,2026-09-30,6576
+RDCCX,Columbia Disciplined Value C,Large Value,2008-07-25,2026-09-30,4574
+RDCEX,Columbia Disciplined Core C,Large Blend,2003-04-24,2026-09-30,5897
+RDLAX,Columbia Disciplined Growth A,Large Growth,2007-05-17,2026-09-30,4874
+RDLCX,Columbia Disciplined Growth C,Large Growth,2007-05-17,2026-09-30,4874
+RDVIX,Royce Smid-Cap Total Return Investment,Mid-Cap Blend,2007-09-14,2026-09-30,4791
+REBYX,Russell Inv US Small Cap Equity Y,Small Blend,2000-03-29,2026-09-30,6666
+REQAX,Russell Investments Sustainable Equity A,Large Blend,2008-09-02,2026-09-30,4548
+REQSX,Russell Inv Equity Income C,Large Value,2008-09-02,2026-09-30,4548
+RETSX,Russell Inv Tax-Managed US Large Cap S,Large Blend,1996-10-07,2026-09-30,7543
+REUYX,Russell Investments Sustainable Equity Y,Large Blend,2000-03-30,2026-09-30,6665
+RGWCX,Victory RS Growth C,Large Growth,2007-06-29,2026-09-30,4844
+RIVCX,Victory RS Investors C,Mid-Cap Blend,2007-07-24,2026-09-30,4828
+RIVSX,River Oak Discovery,Small Blend,2005-06-30,2026-09-30,5346
+RLCAX,Columbia Disciplined Value A,Large Value,2008-07-29,2026-09-30,4572
+RMBJX,RMB C,Large Growth,2004-04-30,2026-09-30,5640
+RMBMX,RMB SMID Cap I,Mid-Cap Growth,2005-01-04,2026-09-30,5469
+RMDAX,Virtus Silvant Mid-Cap Growth A,Mid-Cap Growth,2002-02-05,2026-09-30,6203
+RMDCX,Virtus Silvant Mid-Cap Growth C,Mid-Cap Growth,2002-02-05,2026-09-30,6203
+RPEAX,Davis Opportunity A,Large Value,1994-11-30,2026-09-30,8011
+RPFFX,Royce Premier Service,Small Blend,2002-08-30,2026-09-30,6059
+RPMGX,T. Rowe Price Mid-Cap Growth,Mid-Cap Growth,1992-06-30,2026-09-30,8623
+RPMIX,Royce Small-Cap Fund Instl,Small Blend,2011-06-03,2026-09-30,3854
+RPRCX,Royce Premier Consult,Small Blend,2003-05-30,2026-09-30,5872
+RPXFX,RiverPark Large Growth Retail,Large Growth,2010-10-04,2026-09-30,4022
+RSDFX,Columbia Dividend Opportunity Inst2,Large Value,2008-07-24,2026-09-30,4575
+RSDGX,Victory RS Select Growth A,Mid-Cap Growth,1996-07-31,2026-09-30,7590
+RSEGX,Victory RS Small Cap Growth A,Small Growth,1988-01-04,2026-09-30,9759
+RSGRX,Victory RS Growth A,Large Growth,1992-05-12,2026-09-30,8656
+RSINX,Victory RS Investors A,Mid-Cap Blend,2005-11-16,2026-09-30,5249
+RSIPX,Columbia Disciplined Core Inst2,Large Blend,2006-12-11,2026-09-30,4981
+RSMOX,Victory RS Mid Cap Growth A,Mid-Cap Growth,1995-07-12,2026-09-30,7857
+RSOOX,Columbia Dividend Opportunity R,Large Value,2008-07-24,2026-09-30,4575
+RSPFX,Victory RS Partners A,Small Value,1995-07-12,2026-09-30,7857
+RSVAX,Victory RS Value A,Mid-Cap Value,1993-06-30,2026-09-30,8370
+RTLCX,Russell Inv Tax-Managed US Large Cap C,Large Blend,1999-12-03,2026-09-30,6746
+RTRIX,Royce Small-Cap Total Return Instl,Small Value,2003-03-04,2026-09-30,5933
+RTSCX,Russell Inv Tax-Managed US Mid&Sm Cap C,Small Blend,1999-11-30,2026-09-30,6749
+RTSSX,Russell Inv Tax-Managed US Mid&Sm Cap S,Small Blend,1999-11-30,2026-09-30,6749
+RVACX,Victory RS Value C,Mid-Cap Value,2007-05-01,2026-09-30,4886
+RVVHX,Royce Small-Cap Value Investment,Small Value,2007-03-15,2026-09-30,4918
+RYAVX,Rydex S&P MidCap 400 Pure Value H,Small Value,2004-02-20,2026-09-30,5689
+RYAWX,Rydex S&P 500 Pure Growth H,Large Growth,2004-02-20,2026-09-30,5689
+RYAZX,Rydex S&P SmallCap 600 Pure Value H,Small Value,2004-02-20,2026-09-30,5689
+RYBHX,Rydex S&P MidCap 400 Pure Growth H,Mid-Cap Growth,2004-02-20,2026-09-30,5689
+RYCKX,Rydex S&P MidCap 400 Pure Growth C,Mid-Cap Growth,2004-02-20,2026-09-30,5689
+RYDVX,Royce Smid-Cap Total Return Service,Mid-Cap Blend,2004-04-30,2026-09-30,5640
+RYOCX,Rydex NASDAQ-100 Inv,Large Growth,1994-02-14,2026-09-30,8211
+RYOTX,Royce Micro-Cap Invmt,Small Blend,1995-11-03,2026-09-30,7776
+RYPCX,Royce Small-Cap Fund Consult,Small Blend,1997-06-17,2026-09-30,7368
+RYPFX,Royce Small-Cap Fund Svc,Small Blend,2005-11-08,2026-09-30,5255
+RYPNX,Royce Small-Cap Opportunity Invmt,Small Value,1996-11-19,2026-09-30,7512
+RYPRX,Royce Premier Invmt,Small Blend,1991-12-31,2026-09-30,8749
+RYRHX,Rydex Russell 2000 H,Small Blend,2006-05-31,2026-09-30,5116
+RYSEX,Royce Small-Cap Special Equity Invmt,Small Value,1998-04-30,2026-09-30,7149
+RYSOX,Rydex S&P 500 A,Large Blend,2006-05-31,2026-09-30,5116
+RYTCX,Royce Small-Cap Total Return Consult,Small Value,2001-10-16,2026-09-30,6279
+RYTFX,Royce Small-Cap Total Return Svc,Small Value,2002-01-03,2026-09-30,6225
+RYTRX,Royce Small-Cap Total Return Invmt,Small Value,1993-12-15,2026-09-30,8253
+RYVFX,Royce Small-Cap Value Service,Small Value,2001-06-14,2026-09-30,6361
+RYVPX,Royce Small-Cap Growth Svc,Small Growth,2001-06-14,2026-09-30,6361
+RYWAX,Rydex S&P SmallCap 600 Pure Growth H,Small Growth,2004-01-02,2026-09-30,5722
+RYWCX,Rydex S&P SmallCap 600 Pure Growth C,Small Growth,2004-02-20,2026-09-30,5689
+RYZAX,Rydex S&P 500 Pure Value H,Large Value,2004-02-20,2026-09-30,5689
+SABTX,SA US Value,Large Value,1999-08-05,2026-09-30,6830
+SAGAX,Virtus Zevenbergen Innovative Gr Stk A,Large Growth,2004-02-24,2026-09-30,5687
+SAGWX,Touchstone Small Company A,Small Blend,1993-02-26,2026-09-30,8456
+SAIFX,ClearBridge Large Cap Value I,Large Value,1988-01-04,2026-09-30,9759
+SAMKX,SA US Core Market,Large Blend,1999-08-05,2026-09-30,6830
+SAMVX,Virtus Ceredex Mid-Cap Value Equity A,Mid-Cap Blend,2003-10-27,2026-09-30,5768
+SAOPX,Barrett Opportunity Retail,Large Blend,1988-01-04,2026-09-30,9759
+SASMX,ClearBridge Small Cap Growth A,Small Growth,1998-06-30,2026-09-30,7107
+SASVX,Virtus Ceredex Small-Cap Value Eq A,Small Blend,2003-10-09,2026-09-30,5780
+SAUMX,SA US Small Company,Small Blend,1999-08-05,2026-09-30,6830
+SBLGX,ClearBridge Large Cap Growth A,Large Growth,1997-07-14,2026-09-30,7350
+SBMAX,ClearBridge Mid Cap A,Mid-Cap Blend,1998-08-31,2026-09-30,7064
+SBPYX,ClearBridge Small Cap Growth I,Small Growth,2004-11-01,2026-09-30,5513
+SBSPX,Franklin S&P 500 Index A,Large Blend,1997-12-31,2026-09-30,7231
+SCDGX,DWS Core Equity S,Large Blend,1988-01-04,2026-09-30,9759
+SCECX,Steward Values Enhanced SmMidCapI,Small Blend,2006-04-03,2026-09-30,5156
+SCETX,Virtus Ceredex Small-Cap Value Eq I,Small Blend,1997-01-31,2026-09-30,7462
+SCGSX,DWS Capital Growth S,Large Growth,2000-07-14,2026-09-30,6592
+SCPAX,SEI Large Cap Disciplined Eq A (SIIT),Large Blend,2007-09-04,2026-09-30,4799
+SCQGX,DWS Large Cap Focus Growth S,Large Growth,1991-05-15,2026-09-30,8908
+SCSAX,Allspring Common Stock A,Mid-Cap Blend,2000-11-30,2026-09-30,6495
+SCUIX,Hartford Schroders US Small Cap Opps I,Small Blend,1993-08-05,2026-09-30,8345
+SCUVX,Hartford Schroders US Small Cap Opps A,Small Blend,2006-05-15,2026-09-30,5127
+SCVAX,Allspring Small Company Value A,Small Value,1997-06-02,2026-09-30,7379
+SDSCX,BNY Mellon Sm/Md Cp Gr I,Mid-Cap Growth,1996-06-20,2026-09-30,7618
+SDVGX,Sit Dividend Growth I,Large Blend,2004-01-05,2026-09-30,5721
+SECEX,NAA Large Core A,Large Blend,1988-01-04,2026-09-30,9757
+SECIX,NAA Large Cap Value A,Large Value,1988-01-04,2026-09-30,9757
+SECUX,NAA Mid Growth A,Mid-Cap Growth,1988-01-04,2026-09-30,9757
+SEEGX,JPMorgan Large Cap Growth I,Large Growth,1992-02-28,2026-09-30,8708
+SELCX,SEI Large Cap Growth F (SIMT),Large Growth,1994-12-20,2026-09-30,7997
+SEMCX,SEI Mid-Cap F (SIMT),Mid-Cap Blend,1993-02-25,2026-09-30,8457
+SENAX,Allspring Mid Cap Growth Fund - Cl A,Mid-Cap Growth,2000-02-24,2026-09-30,6690
+SENCX,Touchstone Large Cap Focused A,Large Blend,1988-01-04,2026-09-30,9759
+SESVX,SEI Small Cap Value F (SIMT),Small Value,1994-12-20,2026-09-30,7997
+SEVAX,NAA SMid Cap Value A,Small Value,1997-04-30,2026-09-30,7399
+SFLNX,Schwab Fundamental US Large Company Idx,Large Value,2007-04-02,2026-09-30,4906
+SFSNX,Schwab Fundamental US Small Company Idx,Small Blend,2007-04-02,2026-09-30,4906
+SGFFX,Sparrow Growth A,Large Growth,1998-09-30,2026-09-30,7043
+SGPIX,ProFunds Small Cap Growth Inv,Small Blend,2001-08-31,2026-09-30,6306
+SGRAX,Allspring Growth A,Large Growth,2000-02-24,2026-09-30,6690
+SHAPX,ClearBridge Appreciation A,Large Blend,1988-01-04,2026-09-30,9759
+SHRAX,ClearBridge Growth A,Mid-Cap Growth,1988-01-04,2026-09-30,9759
+SIGWX,Touchstone Small Company Y,Small Blend,2007-05-04,2026-09-30,4883
+SIVIX,State Street Instl Small-Cap Equity Inv,Small Blend,1998-07-31,2026-09-30,7085
+SKSEX,AMG GW&K Small Cap Value N,Small Blend,1988-01-04,2026-09-30,9759
+SLASX,Selected American Shares S,Large Value,1988-01-04,2026-09-30,9759
+SLCAX,SEI Large Cap A (SIIT),Large Blend,2007-09-04,2026-09-30,4799
+SLCGX,Saratoga Large Capitalization Growth I,Large Growth,1994-09-01,2026-09-30,8070
+SLCVX,Saratoga Large Capitalization Value I,Mid-Cap Blend,1994-09-01,2026-09-30,8070
+SLGAX,SEI Large Cap F (SIMT),Large Blend,2009-10-01,2026-09-30,4274
+SLGCX,Saratoga Large Capitalization Growth C,Large Growth,1998-12-31,2026-09-30,6979
+SLGYX,Saratoga Large Capitalization Growth A,Large Growth,2006-02-14,2026-09-30,5189
+SLLAX,SEI Small Cap F (SIMT),Small Blend,2009-10-01,2026-09-30,4275
+SLPAX,SEI Small Cap A (SIIT),Small Blend,2007-09-04,2026-09-30,4799
+SLPIX,ProFunds Small Cap Inv,Small Blend,2001-08-31,2026-09-30,6306
+SLVAX,Columbia Select Large Cap Value A,Large Value,1997-04-25,2026-09-30,7404
+SMCIX,Shelton S&P Smallcap Index Investor,Small Blend,1996-09-30,2026-09-30,7548
+SMCPX,ClearBridge Mid Cap 1,Mid-Cap Blend,2000-09-11,2026-09-30,6552
+SMDIX,Hartford Schroders US MidCap Opps I,Mid-Cap Blend,2006-04-03,2026-09-30,5156
+SMEAX,Invesco Small Cap Equity A,Small Blend,2000-08-31,2026-09-30,6558
+SMECX,Invesco Small Cap Equity C,Small Blend,2000-08-31,2026-09-30,6558
+SMGIX,Columbia Contrarian Core Inst,Large Blend,1992-12-11,2026-09-30,8508
+SMIPX,Saratoga Mid Capitalization I,Mid-Cap Blend,2003-01-06,2026-09-30,5972
+SMLKX,Shelton S&P Smallcap Index K,Small Blend,2003-10-17,2026-09-30,5774
+SMMIX,Invesco Summit P,Large Growth,1988-01-04,2026-09-30,9759
+SMVFX,Virtus Ceredex Mid-Cap Value Equity C,Mid-Cap Blend,2001-11-30,2026-09-30,6247
+SMVLX,Smead Value Investor,Large Value,2008-01-02,2026-09-30,4716
+SNIGX,Sit Large Cap Growth,Large Growth,1988-01-04,2026-09-30,9759
+SNWAX,Easterly Snow Small Cap Value A,Small Value,2010-11-30,2026-09-30,3982
+SNXFX,Schwab 1000 Index,Large Blend,1991-04-02,2026-09-30,8939
+SOAVX,Spirit of America Large Cap Value A,Large Blend,1998-08-18,2026-09-30,7073
+SOPAX,ClearBridge Dividend Strategy A,Large Value,1992-11-06,2026-09-30,8531
+SOPVX,Allspring Opportunity A,Large Blend,2000-02-24,2026-09-30,6690
+SOPYX,ClearBridge Dividend Strategy I,Large Value,1996-02-07,2026-09-30,7711
+SPEGX,Alger Responsible Investing A,Large Growth,2000-12-07,2026-09-30,6490
+SPFAX,PGIM Jennison Focused Growth A,Large Growth,2000-05-31,2026-09-30,6623
+SPGRX,DWS Equity Sector Strategy Fund Class S,Large Blend,1996-11-15,2026-09-30,7514
+SPICX,Invesco S&P 500 Index C,Large Blend,1997-05-27,2026-09-30,7305
+SPMAX,Saratoga Mid Capitalization A,Mid-Cap Blend,2002-07-01,2026-09-30,6099
+SPMCX,Saratoga Mid Capitalization C,Mid-Cap Blend,2002-07-01,2026-09-30,6102
+SPMIX,Shelton S&P Midcap Index Investor,Mid-Cap Blend,1992-04-20,2026-09-30,8673
+SPSCX,Sterling Capital Behav Sm Cp Val Eq Intl,Small Value,1996-12-31,2026-09-30,7484
+SRVEX,Victory Diversified Stock A,Large Blend,1989-10-20,2026-09-30,9303
+SSAQX,State Street US Core Equity Fund,Large Blend,1995-03-20,2026-09-30,7935
+SSCCX,Saratoga Small Capitalization C,Small Blend,1998-12-31,2026-09-30,6979
+SSCGX,SEI Small Cap Growth F (SIMT),Small Growth,1995-09-13,2026-09-30,7813
+SSCPX,Saratoga Small Capitalization I,Small Blend,1994-09-01,2026-09-30,8070
+SSCVX,Columbia Select Small Cap Value A,Small Value,1997-04-25,2026-09-30,7404
+SSCYX,Saratoga Small Capitalization A,Small Blend,2006-02-14,2026-09-30,5189
+SSDAX,DWS Small Cap Growth A,Small Growth,2002-06-28,2026-09-30,6103
+SSGFX,Saturna Growth,Large Growth,1988-01-04,2026-09-30,9759
+SSHFX,Sound Shore Investor,Large Value,1988-01-04,2026-09-30,9759
+SSLCX,DWS Small Cap Core S,Small Blend,1996-09-25,2026-09-30,7551
+SSMAX,SEI Small/Mid Cap Equity A (SIIT),Small Blend,2007-09-04,2026-09-30,4799
+SSMGX,Sit Small Cap Growth,Mid-Cap Growth,1995-12-06,2026-09-30,7754
+SSPIX,SEI S&P 500 Index F (SIMT),Large Blend,1996-02-28,2026-09-30,7697
+SSSFX,"SouthernSun Small Cap, N",Small Blend,2003-10-02,2026-09-30,5785
+SSTFX,Virtus KAR Capital Growth C,Large Growth,1997-10-31,2026-09-30,7272
+STAFX,Allspring Large Cap Growth A,Large Growth,2010-07-30,2026-09-30,4067
+STCAX,Virtus Silvant Large-Cap Growth Stk I,Large Growth,1992-06-30,2026-09-30,8623
+STCIX,Virtus Silvant Large-Cap Growth Stk A,Large Growth,1992-06-09,2026-09-30,8638
+STFAX,State Street Equity 500 Index Adm,Large Blend,2001-04-19,2026-09-30,6400
+STFGX,State Farm Growth,Large Blend,1988-01-04,2026-09-30,9756
+STMGX,American Beacon Stephens Mid-Cap Gr Inv,Mid-Cap Growth,2006-02-02,2026-09-30,5197
+STMSX,SEI Tax-Managed Small/Mid Cap F (SIMT),Small Blend,2000-10-31,2026-09-30,6516
+STRGX,Sterling Capital MdCp Relatv Val Instl,Mid-Cap Blend,1988-01-04,2026-09-30,9759
+STSCX,Sterling Capital SmCp Val Instl,Small Blend,1993-04-12,2026-09-30,8426
+STSEX,BlackRock Exchange BlackRock,Large Blend,1988-01-04,2026-09-30,9759
+STSGX,American Beacon Stephens Sm Cp Gr Inv,Small Growth,2005-12-02,2026-09-30,5238
+STSVX,BNY Mellon Sm Cp Val I,Small Value,2000-01-31,2026-09-30,6707
+STVTX,Virtus Ceredex Large-Cap Value Equity I,Large Value,1993-02-12,2026-09-30,8465
+SUPAX,DWS Equity Sector Strategy Fund Class A,Large Blend,2000-12-29,2026-09-30,6475
+SUSIX,State Street Instl US Equity Inv,Large Blend,1997-11-25,2026-09-30,7255
+SUSSX,State Street Instl US Equity Svc,Large Blend,2001-01-02,2026-09-30,6474
+SUVAX,PGIM Quant Solutions Large-Cap Val A,Large Value,2001-03-30,2026-09-30,6413
+SVAAX,Federated Hermes Strategic Value Div A,Large Value,2005-03-28,2026-09-30,5413
+SVACX,Federated Hermes Strategic Value Div C,Large Value,2005-03-28,2026-09-30,5413
+SVAIX,Federated Hermes Strategic Value Div IS,Large Value,2005-03-28,2026-09-30,5413
+SVOAX,SEI US Managed Volatility F (SIMT),Large Value,2004-10-29,2026-09-30,5514
+SVPIX,ProFunds Small Cap Value Inv,Small Value,2001-08-31,2026-09-30,6306
+SVSPX,State Street S&P 500 Index N,Large Blend,1992-12-30,2026-09-30,8496
+SVYAX,SEI US Managed Volatility A (SIIT),Mid-Cap Value,2009-01-09,2026-09-30,4458
+SWANX,Schwab Core Equity,Large Blend,1996-06-28,2026-09-30,7612
+SWDSX,Schwab Dividend Equity,Large Value,2003-09-02,2026-09-30,5807
+SWLSX,Schwab Large-Cap Growth,Large Growth,2005-10-03,2026-09-30,5281
+SWPPX,Schwab S&P 500 Index,Large Blend,1997-05-20,2026-09-30,7387
+SWSCX,Schwab Small-Cap Equity,Small Blend,2003-07-16,2026-09-30,5839
+SWSSX,Schwab Small Cap Index,Small Blend,1997-05-19,2026-09-30,7388
+TAAGX,Timothy Plan Small/Mid Cap Growth Cl A,Mid-Cap Growth,2000-10-24,2026-09-30,6521
+TADAX,Transamerica US Growth A,Large Growth,2009-11-13,2026-09-30,4244
+TAGRX,JHancock Fundamental Large Cap Core A,Large Blend,1988-01-04,2026-09-30,9759
+TASCX,Third Avenue Small Cap Value Instl,Small Value,1997-03-31,2026-09-30,7423
+TASVX,PGIM Quant Solutions Small-Cap Val Z,Small Value,1993-01-05,2026-09-30,8493
+TBDAX,PGIM Jennison Diversified Growth A,Large Growth,1999-11-03,2026-09-30,6767
+TBDCX,PGIM Jennison Diversified Growth C,Large Growth,1999-11-03,2026-09-30,6767
+TCAGX,Timothy Plan Small/Mid Cap Growth Cl C,Mid-Cap Growth,2004-02-03,2026-09-30,5701
+TCGCX,Thornburg Focus Growth C,Large Growth,2000-12-27,2026-09-30,6477
+TCMSX,Voya Small Cap Growth I,Small Growth,2004-09-29,2026-09-30,5536
+TCVAX,Touchstone Mid Cap Value A,Mid-Cap Value,2009-10-01,2026-09-30,4275
+TEGAX,Touchstone Mid Cap Growth A,Mid-Cap Growth,1994-09-30,2026-09-30,8053
+TEGYX,Touchstone Mid Cap Growth Y,Mid-Cap Growth,2009-02-02,2026-09-30,4443
+TFFYX,Touchstone Focused Y,Large Blend,1999-02-12,2026-09-30,6950
+TFOIX,Transamerica Capital Growth I,Large Growth,2009-11-30,2026-09-30,4234
+TGCEX,TCW Concentrated Large Cap Growth I Cl,Large Growth,1993-02-26,2026-09-30,8456
+TGDVX,TCW Relative Value Large Cap N,Large Value,1997-12-31,2026-09-30,7231
+TGFRX,Tanaka Growth,Large Growth,1998-12-29,2026-09-30,6981
+TGVFX,Touchstone Dynamic Large Cap Growth A,Large Growth,1995-09-29,2026-09-30,7801
+TGVOX,TCW Relative Value Mid Cap I,Mid-Cap Value,1997-10-31,2026-09-30,7272
+THLCX,Thrivent Large Cap Growth S,Large Growth,1999-10-29,2026-09-30,6770
+THPGX,Thompson LargeCap,Large Value,1992-02-10,2026-09-30,8721
+THPMX,Thompson MidCap,Mid-Cap Blend,2008-04-01,2026-09-30,4655
+TICRX,Nuveen Large Cap Responsible Eq A,Large Blend,2006-04-03,2026-09-30,5156
+TIEIX,Nuveen Equity Index R6,Large Blend,1999-06-14,2026-09-30,6867
+TIGRX,Nuveen Core Equity R6,Large Blend,1999-06-14,2026-09-30,6867
+TIHGX,The Investment House Growth,Large Growth,2002-01-04,2026-09-30,6224
+TIIRX,Nuveen Core Equity A,Large Blend,2006-04-03,2026-09-30,5156
+TILCX,T. Rowe Price Lrg Cp Va I,Large Value,2000-03-30,2026-09-30,6665
+TILGX,Nuveen Large Cap Growth R6,Large Growth,2006-04-04,2026-09-30,5155
+TISCX,Nuveen Large Cap Responsible Eq R6,Large Blend,1999-06-14,2026-09-30,6867
+TLGAX,Timothy Plan Large/Mid Cap Growth A,Large Growth,2000-10-25,2026-09-30,6520
+TLGCX,Timothy Plan Large/Mid Cap Growth C,Large Growth,2004-02-03,2026-09-30,5701
+TLVAX,Timothy Plan Large/Mid Cap Value A,Mid-Cap Blend,1999-07-30,2026-09-30,6834
+TLVIX,Thrivent Large Cap Value S,Large Value,1999-10-29,2026-09-30,6770
+TMCAX,RBC SMID Cap Growth A,Small Growth,1994-05-31,2026-09-30,8139
+TMCIX,RBC SMID Cap Growth I,Small Growth,1996-06-20,2026-09-30,7618
+TMCPX,Touchstone Mid Cap Y,Mid-Cap Blend,2003-01-03,2026-09-30,5972
+TMDIX,AMG TimesSquare Mid Cap Growth Z,Mid-Cap Growth,2005-03-04,2026-09-30,5427
+TMLCX,SEI Tax-Managed Large Cap F (SIMT),Large Blend,1998-03-04,2026-09-30,7189
+TMMAX,SEI Tax-Managed Mgd Volatility F (SIMT),Large Value,2007-12-21,2026-09-30,4722
+TOCQX,Tocqueville,Large Blend,1988-01-04,2026-09-30,9759
+TORYX,Torray Equity Income Fund,Large Value,1990-12-17,2026-09-30,9011
+TPLNX,Timothy Plan Small Cap Value A,Small Blend,1994-03-21,2026-09-30,8187
+TQCAX,Touchstone Dividend Equity A,Large Value,1998-06-08,2026-09-30,7123
+TQCCX,Touchstone Dividend Equity C,Large Value,1998-06-08,2026-09-30,7123
+TRBCX,T. Rowe Price Blue Chip Growth,Large Growth,1993-06-30,2026-09-30,8370
+TRBIX,Nuveen Small Cap Blend Idx Retire,Small Blend,2002-09-09,2026-09-30,6054
+TRCVX,Nuveen Large Cap Value Idx Retire,Large Value,2002-09-06,2026-09-30,6055
+TRDFX,Steward Values Enhanced SmMidCapA,Small Blend,1996-06-11,2026-09-30,7625
+TRGMX,Nuveen Quant Mid Cap Growth Retire,Mid-Cap Growth,2002-09-10,2026-09-30,6053
+TRIRX,Nuveen Large Cap Gr Idx Retire,Large Growth,2002-09-06,2026-09-30,6055
+TRLCX,Nuveen Large Cap Value Retire,Large Value,2002-09-13,2026-09-30,6050
+TRLGX,T. Rowe Price Lrg Cp Gr I,Large Growth,2001-10-31,2026-09-30,6268
+TRMCX,T. Rowe Price Mid-Cap Value,Mid-Cap Value,1996-06-28,2026-09-30,7612
+TRMVX,SEI Large Cap Value F (SIMT),Large Value,1988-01-04,2026-09-30,9759
+TRSEX,Nuveen Quant Small Cap Equity Ret,Small Blend,2002-09-12,2026-09-30,6051
+TRSPX,Nuveen S&P 500 Index Retire,Large Blend,2002-09-06,2026-09-30,6055
+TRVLX,T. Rowe Price Value,Large Value,1994-09-30,2026-09-30,8053
+TRVRX,Nuveen Mid Cap Value Retire,Mid-Cap Value,2002-09-10,2026-09-30,6053
+TSCIX,AMG TimesSquare Small Cap Growth Z,Small Growth,2000-01-24,2026-09-30,6712
+TSFAX,Touchstone Small Cap A,Small Blend,2009-10-01,2026-09-30,4275
+TSNCX,Touchstone Sands Capital Select Growth C,Large Growth,2010-11-15,2026-09-30,3992
+TSWEX,TSW Large Cap Value Institutional,Large Value,1992-07-17,2026-09-30,8611
+TVAFX,Thornburg American Opportunities A,Large Value,1995-09-29,2026-09-30,7801
+TVLAX,Touchstone Value A,Large Value,2003-07-31,2026-09-30,5829
+TVLIX,Touchstone Value Institutional,Large Value,2006-12-20,2026-09-30,4974
+TVLYX,Touchstone Value Y,Large Value,1998-09-14,2026-09-30,7055
+TVOAX,Touchstone Small Cap Value A,Small Value,2002-02-28,2026-09-30,6187
+TWADX,American Century Value A,Large Value,1996-09-30,2026-09-30,7548
+TWCGX,American Century Growth Inv,Large Growth,1988-01-04,2026-09-30,9759
+TWCIX,American Century Select Inv,Large Growth,1988-01-04,2026-09-30,9759
+TWCUX,American Century Ultra Inv,Large Growth,1988-01-04,2026-09-30,9759
+TWEAX,American Century Equity Income A,Large Value,1997-03-07,2026-09-30,7438
+TWEIX,American Century Equity Income Inv,Large Value,1994-07-29,2026-09-30,8097
+TWHIX,American Century Heritage Inv,Mid-Cap Growth,1988-01-04,2026-09-30,9759
+TWQAX,Transamerica Large Cap Value A,Large Value,2010-11-16,2026-09-30,3991
+TWQCX,Transamerica Large Cap Value C,Large Value,2010-11-16,2026-09-30,3991
+TWVLX,American Century Value Inv,Large Value,1993-08-31,2026-09-30,8327
+UBVLX,Undiscovered Managers Behavioral Val L,Small Value,1998-12-28,2026-09-30,6982
+UIVAX,Victory Value Institutional,Large Value,2008-08-01,2026-09-30,4569
+UMBHX,Carillon Chartwell Small Cap I,Small Growth,1988-01-04,2026-09-30,9759
+UMBMX,Carillon Scout Mid Cap I,Mid-Cap Blend,2006-10-31,2026-09-30,5009
+UMLGX,Columbia Select Large Cap Growth Inst,Large Growth,1997-09-30,2026-09-30,7295
+URLGX,Columbia Select Large Cap Growth R,Large Growth,2004-09-30,2026-09-30,5535
+USAAX,Victory Growth,Large Growth,1988-01-04,2026-09-30,9759
+USAUX,Victory Aggressive Growth,Large Growth,1988-01-04,2026-09-30,9759
+USBNX,Pear Tree Polaris Small Cap Ord,Small Value,1992-08-03,2026-09-30,8600
+USBOX,Pear Tree Quality Ordinary,Large Blend,1988-01-04,2026-09-30,9759
+USCAX,Victory Small Cap Stock,Small Blend,1999-07-30,2026-09-30,6834
+USGLX,JHancock U.S. Global Leaders Growth A,Large Growth,1995-09-29,2026-09-30,7801
+USGRX,Victory Growth & Income,Large Blend,1993-05-28,2026-09-30,8392
+USISX,Victory Income Stock,Large Value,1988-01-04,2026-09-30,9759
+USMIX,Victory Extended Market Index,Small Blend,2000-10-27,2026-09-30,6518
+USNQX,Victory NASDAQ-100 Index,Large Growth,2000-10-27,2026-09-30,6518
+USPVX,Union Street Partners Value A,Large Value,2011-01-03,2026-09-30,3959
+USSPX,Victory 500 Index Member,Large Blend,1996-04-30,2026-09-30,7654
+UVALX,Victory Value,Large Value,2001-08-03,2026-09-30,6326
+VADAX,Invesco Equally-Wtd S&P 500 A,Large Blend,1997-07-28,2026-09-30,7340
+VAFAX,Invesco American Franchise A,Large Growth,2005-06-23,2026-09-30,5351
+VALAX,Al Frank Adv,Large Value,2006-04-28,2026-09-30,5138
+VALLX,Value Line Larger Companies Focused Inv,Large Growth,1988-01-04,2026-09-30,9759
+VALSX,Value Line Select Core Inv,Mid-Cap Blend,1988-01-04,2026-09-30,9759
+VAPPX,VALIC Company I Capital Appreciation,Large Growth,1998-09-01,2026-09-30,7063
+VASVX,Vanguard Selected Value Inv,Mid-Cap Value,1996-02-15,2026-09-30,7705
+VBCVX,VALIC Company I Systematic Value,Large Value,2005-12-07,2026-09-30,5235
+VCBCX,VALIC Company I Systematic Growth,Large Growth,2000-11-02,2026-09-30,6514
+VCGAX,VALIC Company I Systematic Core Fund,Large Blend,1997-03-07,2026-09-30,7438
+VCIGX,VALIC Company I Dividend Value,Large Value,2000-12-11,2026-09-30,6488
+VCNIX,VALIC Company I NASDAQ-100 Index,Large Growth,2000-10-03,2026-09-30,6536
+VCSLX,VALIC Company I Small Cap Index,Small Blend,1995-12-27,2026-09-30,7740
+VCULX,VALIC Company I Growth,Large Growth,2005-12-06,2026-09-30,5236
+VDEQX,Vanguard Diversified Equity Inv,Large Growth,2005-06-10,2026-09-30,5359
+VDIGX,Vanguard Dividend Growth Inv,Large Blend,1992-05-15,2026-09-30,8654
+VEIPX,Vanguard Equity-Income Inv,Large Value,1988-03-21,2026-09-30,9705
+VETAX,Victory Sycamore Established Value A,Mid-Cap Value,2000-05-05,2026-09-30,6640
+VEVFX,Vanguard Explorer Value Inv,Small Value,2010-03-30,2026-09-30,4152
+VEXMX,Vanguard Extended Market Index Investor,Mid-Cap Blend,1988-01-04,2026-09-30,9759
+VEXPX,Vanguard Explorer Inv,Small Growth,1988-01-04,2026-09-30,9759
+VFINX,Vanguard 500 Index Investor,Large Blend,1988-01-04,2026-09-30,9759
+VFPIX,Private Capital Management Value I,Small Blend,2010-05-28,2026-09-30,4110
+VFTNX,Vanguard FTSE Social Index I,Large Blend,2000-05-31,2026-09-30,6623
+VGRIX,JPMorgan US Value A,Large Value,1988-01-04,2026-09-30,9759
+VHCOX,Vanguard Capital Opportunity Inv,Large Blend,1995-09-05,2026-09-30,7819
+VHIAX,JPMorgan Growth Advantage A,Large Growth,1999-10-29,2026-09-30,6770
+VIGRX,Vanguard MStar Growth Index Investor,Large Growth,1992-10-30,2026-09-30,8537
+VIMCX,Virtus KAR Mid-Cap Core I,Mid-Cap Growth,2009-06-23,2026-09-30,4345
+VIMSX,Vanguard MStar Mid Cap Index Investor,Mid-Cap Blend,1998-05-21,2026-09-30,7134
+VISGX,Vanguard MStar Small Cap Growth Indx Inv,Small Growth,1998-05-21,2026-09-30,7134
+VISVX,Vanguard MStar Small Cap Value Index,Small Value,1998-05-21,2026-09-30,7134
+VIVAX,Vanguard MStar Value Index Investor,Large Value,1992-10-30,2026-09-30,8537
+VLACX,Vanguard MStar Large Cap Index Investor,Large Blend,2004-01-30,2026-09-30,5703
+VLCGX,VALIC Company I Large Cap Core,Large Growth,2004-12-21,2026-09-30,5478
+VLEOX,Value Line Small Cap Opportunities Inv,Small Growth,1993-06-23,2026-09-30,8374
+VLIFX,Value Line Mid Cap Focused Inv,Mid-Cap Growth,1988-01-04,2026-09-30,9759
+VMCTX,Vanguard MStar Mega Cap Index Instl,Large Blend,2007-12-27,2026-09-30,4719
+VMFGX,Vanguard S&P Mid-Cap 400 Growth Idx I,Mid-Cap Growth,2010-09-09,2026-09-30,4039
+VMFVX,Vanguard S&P Mid-Cap 400 Value Idx I,Mid-Cap Value,2010-09-09,2026-09-30,4039
+VMGAX,Vanguard MStar Mega Cap Growth Idx Instl,Large Growth,2007-12-27,2026-09-30,4719
+VMGIX,Vanguard MStar Mid Cap Growth Index Inv,Mid-Cap Growth,2006-08-24,2026-09-30,5056
+VMGRX,Vanguard Mid Cap Growth Inv,Mid-Cap Growth,1997-12-31,2026-09-30,7231
+VMSGX,VALIC Company I Mid Cap Strategic Gr,Mid-Cap Growth,2004-12-22,2026-09-30,5477
+VMVIX,Vanguard MStar Mid Cap Value Index Inv,Mid-Cap Value,2006-08-24,2026-09-30,5056
+VMVLX,Vanguard MStar Mega Cap Value Indx Instl,Large Value,2007-12-27,2026-09-30,4719
+VNVAX,Natixis Vaughan Nelson Mid Cap A,Mid-Cap Blend,2008-10-31,2026-09-30,4505
+VOLMX,Volumetric,Large Blend,1988-01-04,2026-09-30,9759
+VPCCX,Vanguard PRIMECAP Core Inv,Large Blend,2004-12-09,2026-09-30,5486
+VPMCX,Vanguard PRIMECAP Inv,Large Blend,1988-01-04,2026-09-30,9759
+VQNPX,Vanguard Growth & Income Inv,Large Blend,1988-01-04,2026-09-30,9759
+VRGWX,Vanguard Russell 1000 Growth Index I,Large Growth,2010-09-22,2026-09-30,4030
+VRTGX,Vanguard Russell 2000 Growth Index I,Small Growth,2010-09-22,2026-09-30,4030
+VRTVX,Vanguard Russell 2000 Value Index I,Small Value,2010-09-22,2026-09-30,4030
+VRVIX,Vanguard Russell 1000 Value Index I,Large Value,2010-09-22,2026-09-30,4030
+VSCAX,Invesco Small Cap Value A,Small Value,1999-06-21,2026-09-30,6862
+VSCOX,JPMorgan Small Cap Blend A,Small Blend,1997-05-19,2026-09-30,7388
+VSEAX,JPMorgan Small Cap Equity A,Small Blend,1994-12-19,2026-09-30,7998
+VSEQX,Vanguard Strategic Equity Inv,Mid-Cap Blend,1995-09-01,2026-09-30,7820
+VSFAX,Federated Hermes MDT Small Cap Value A,Small Value,1996-02-28,2026-09-30,7697
+VSMVX,Vanguard S&P Small-Cap 600 Val Idx Instl,Small Value,2010-09-09,2026-09-30,4039
+VSNGX,JPMorgan Mid Cap Equity I,Mid-Cap Blend,1996-12-31,2026-09-30,7484
+VSPGX,Vanguard S&P 500 Growth Index Instl,Large Growth,2010-09-09,2026-09-30,4039
+VSPVX,Vanguard S&P 500 Value Index Instl,Large Value,2010-09-09,2026-09-30,4039
+VSRDX,VALIC Company I U.S. Socially Rspnb,Large Blend,1998-09-01,2026-09-30,7063
+VSSVX,VALIC Company I Small Cap Core,Small Value,2005-12-07,2026-09-30,5235
+VSTCX,Vanguard Strategic Small-Cap Equity Inv,Small Blend,2006-04-20,2026-09-30,5144
+VSVIX,Victory Integrity Small-Cap Value Y,Small Value,2005-07-18,2026-09-30,5335
+VTMSX,Vanguard Tax-Managed Small Cap Adm,Small Blend,1999-03-25,2026-09-30,6922
+VTSMX,Vanguard MStar Total Stk Mkt Idx Invest,Large Blend,1992-04-27,2026-09-30,8668
+VVMCX,VALIC Company I Mid Cap Value,Mid-Cap Value,1998-09-01,2026-09-30,7063
+VVOAX,Invesco Value Opportunities A,Mid-Cap Value,2001-06-27,2026-09-30,6352
+VVPLX,Vulcan Value Partners,Large Blend,2009-12-30,2026-09-30,4213
+VVSCX,VALIC Company I Small Cap Value,Small Value,1998-09-01,2026-09-30,7063
+VVSGX,VALIC Company I Small Cap Growth,Small Growth,1998-09-01,2026-09-30,7063
+VWNDX,Vanguard Windsor Investor Shares,Large Value,1988-01-04,2026-09-30,9759
+VWNFX,Vanguard Windsor II Inv,Large Value,1988-01-04,2026-09-30,9759
+VWUAX,Vanguard US Growth Admiral,Large Growth,2001-08-13,2026-09-30,6320
+VWUSX,Vanguard US Growth Investor,Large Growth,1988-01-04,2026-09-30,9759
+WAAEX,Wasatch Small Cap Growth Investor,Small Growth,1988-01-04,2026-09-30,9759
+WAMCX,Wasatch Ultra Growth,Small Growth,1995-09-15,2026-09-30,7811
+WAMVX,Wasatch Micro Cap Value,Small Growth,2003-07-28,2026-09-30,5832
+WBGSX,William Blair Growth N,Large Growth,1988-01-04,2026-09-30,9759
+WBSIX,William Blair Small Cap Growth I,Small Growth,1999-12-27,2026-09-30,6731
+WBVNX,William Blair Small Cap Value N,Small Value,1996-12-23,2026-09-30,7489
+WCEAX,Nomura Core Equity Fund Class A,Large Blend,2000-06-30,2026-09-30,6601
+WCEYX,Nomura Core Equity Fund Class Y,Large Blend,1995-12-04,2026-09-30,7756
+WEECX,TETON Westwood Equity A,Large Value,1994-01-31,2026-09-30,8221
+WEEIX,TETON Westwood Equity I,Large Value,2008-01-11,2026-09-30,4709
+WEMAX,Allspring Emerging Growth A,Small Growth,2008-03-31,2026-09-30,4656
+WEMMX,TETON Westwood Mighty Mites AAA,Small Blend,1998-05-11,2026-09-30,7142
+WEQCX,TETON Westwood Equity C,Large Value,2000-06-15,2026-09-30,6612
+WESCX,Keeley Small Cap Fund AAA,Small Blend,1997-04-15,2026-09-30,7412
+WESWX,TETON Westwood Equity AAA,Large Value,1996-05-22,2026-09-30,7638
+WFDDX,Allspring SMID Cap Growth Fund -Cl Admin,Mid-Cap Growth,2005-04-08,2026-09-30,5404
+WFIOX,Allspring Index Admin,Large Blend,1988-01-04,2026-09-30,9759
+WFIVX,Wilshire 5000 Index Invmt,Large Blend,1999-01-29,2026-09-30,6960
+WFMDX,Allspring Special Mid Cap Value Admin,Mid-Cap Value,2005-04-08,2026-09-30,5404
+WFSAX,Allspring Small Company Growth A,Small Growth,2004-01-30,2026-09-30,5703
+WFSPX,iShares S&P 500 Index K,Large Blend,1993-07-02,2026-09-30,8368
+WGROX,Wasatch Core Growth,Small Growth,1988-01-04,2026-09-30,9759
+WHGLX,Westwood Quality Value Fund Inst,Large Value,2006-06-28,2026-09-30,5096
+WHGMX,Westwood Quality SMidCap Fund Inst,Small Blend,2005-12-19,2026-09-30,5227
+WHGSX,Westwood Quality SmallCap Fund Inst,Small Blend,2007-04-03,2026-09-30,4905
+WLGAX,Nomura Large Cap Growth A,Large Growth,2000-06-30,2026-09-30,6601
+WMCVX,Wasatch Small Cap Value,Small Blend,1997-12-17,2026-09-30,7240
+WMFFX,American Funds Washington Mutual F-2,Large Value,2008-08-01,2026-09-30,4569
+WMGAX,Nomura Mid Cap Growth A,Mid-Cap Growth,2000-06-30,2026-09-30,6601
+WMICX,Wasatch Micro Cap,Small Growth,1995-09-15,2026-09-30,7811
+WMKGX,WesMark Large Company Fund,Large Blend,1997-03-12,2026-09-30,7435
+WMKSX,WesMark Small Company Fund,Small Blend,1993-12-31,2026-09-30,8242
+WMLIX,Wilmington Large-Cap Strategy Instl,Large Blend,2003-07-16,2026-09-30,5839
+WMMAX,TETON Westwood Mighty Mites A,Small Blend,1998-05-12,2026-09-30,7141
+WOGSX,White Oak Select Growth,Large Blend,1992-07-31,2026-09-30,8601
+WOOPX,JPMorgan SMID Cap Equity I,Mid-Cap Blend,1991-05-31,2026-09-30,8897
+WPGTX,WPG Partners Small Cap Value Div Fund,Small Value,1988-01-04,2026-09-30,9759
+WPSGX,AB Concentrated Growth Advisor,Large Growth,1994-02-28,2026-09-30,8200
+WPVLX,Weitz Multi Cap Equity-Investor Cl,Large Blend,1988-01-04,2026-09-30,9759
+WSACX,Wellington Shields All-Cap Instl,Large Growth,1995-01-03,2026-09-30,7989
+WSCYX,Nomura Small Cap Growth Y,Small Growth,1995-12-29,2026-09-30,7738
+WSEFX,Boston Trust Walden Equity,Large Blend,1999-06-18,2026-09-30,6863
+WSGAX,Nomura Small Cap Growth A,Small Growth,2000-06-30,2026-09-30,6601
+WSMDX,William Blair Small-Mid Cap Growth I,Mid-Cap Growth,2003-12-30,2026-09-30,5724
+WTRCX,Nomura Core Equity Fund Class C,Large Blend,1992-09-21,2026-09-30,8566
+WVALX,Weitz Large Cap Equity-Investor Cl,Large Blend,1988-01-04,2026-09-30,9759
+WWLAX,Westwood Quality Value Fund A,Large Value,2008-01-02,2026-09-30,4716
+WWNPX,Kinetics Paradigm No Load,Mid-Cap Growth,1999-12-31,2026-09-30,6727
+YACKX,AMG Yacktman I,Large Value,1992-07-02,2026-09-30,8621

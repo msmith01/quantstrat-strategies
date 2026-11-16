@@ -1,0 +1,41 @@
+{
+ "retrieved": "16 November 2026",
+ "yfinance": "0.2.64",
+ "files": {
+  "data\\raw\\F-F_Momentum_Factor_daily_TXT.zip": {
+   "sha256": "d4f7b2c31caddbe6f1debd1af72f4c8c9c8e9eaf5ae8e6f8270345064ea6356f",
+   "bytes": 87834,
+   "header": "This file was created by using the 202609 CRSP database.  It"
+  },
+  "data\\raw\\F-F_Research_Data_Factors_daily_TXT.zip": {
+   "sha256": "c57a96f81c54f4eef085a91e41234a1f41d6e9279a3d0617acf94b03ec42f32d",
+   "bytes": 180819,
+   "header": "This file was created by using the 202609 CRSP database."
+  },
+  "data/funds/yahoo_us_equity_funds_universe.csv": {
+   "sha256": "43ad7b6499a3d07963ed0be593bb555920bcde1e044610564acb08a5f04052d7",
+   "bytes": 241342
+  },
+  "data/funds/yahoo_us_equity_funds_deduped.csv": {
+   "sha256": "73da9c85061633a4b698ac5f157dd14797db137015187e2a325ee9916650812d",
+   "bytes": 111279
+  },
+  "data/funds/share_class_groups.csv": {
+   "sha256": "baf77b5c7d49c659328664a78767e255943c4d6665a589a08f1b76bee2fa674f",
+   "bytes": 74731
+  },
+  "data/funds/fund_prices.parquet": {
+   "sha256": "b148588ddb04f598a24733d0c3800213549c20e1fa07edb6ef344178cd591ecf",
+   "bytes": 116501309
+  },
+  "data/funds/fund_info.json": {
+   "sha256": "ddbbccce388e8775ab30d3b65f413b131d067b2e448d7d8ef97086922f4538d0",
+   "bytes": 815182
+  },
+  "data/funds/excluded_bad_prices.csv": {
+   "sha256": "48cec5f41dd201efb10ee0f5fb68474bff7a1153f422f88cb009f894cf2c011d",
+   "bytes": 8
+  }
+ },
+ "factor_file_header": "This file was created by using the 202609 CRSP database."
+}

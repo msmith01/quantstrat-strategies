@@ -1,0 +1,18 @@
+PASS same fund-years 20011 vs 20011
+PASS fund-year alpha_p agrees max abs diff 1.57e-10
+PASS fund-year r2_p agrees max abs diff 7.77e-16
+PASS fund-year rmse_p agrees max abs diff 1.01e-16
+PASS fund-year sdr_p agrees max abs diff 1.04e-16
+PASS fund-year ir_p agrees max abs diff 3.44e-12
+PASS fund-year alpha agrees max abs diff 1.32e-10
+PASS fund-year ir agrees max abs diff 2.98e-12
+PASS fund-year tr2 agrees max abs diff 2.58e-14
+PASS table8_alpha 25 cells agree (mean, t, n) max diff mean 7.6e-12, t 5.3e-11
+PASS table8_ir 25 cells agree (mean, t, n) max diff mean 1.8e-13, t 7.4e-11
+PASS table9_alpha 25 cells agree (mean, t, n) max diff mean 8.7e-12, t 6.8e-11
+PASS table9_ir 25 cells agree (mean, t, n) max diff mean 1.8e-13, t 7.0e-11
+PASS regression alpha_tr2:tr2 (coef, clustered t) coef 0.033309 vs 0.033309; t 0.5338 vs 0.5338
+PASS regression alpha_comp_lag:sdr_p (coef, clustered t) coef -124.89 vs -124.89; t -4.3997 vs -4.3997
+PASS regression ir_tr2_lag:tr2 (coef, clustered t) coef -0.005888 vs -0.005888; t -7.9365 vs -7.9365
+PASS statsmodels hand check of one fund-year (alpha_p, R2_p) AAAGX: alpha -0.0656 vs -0.0656; R2 0.874758 vs 0.874758
+ALL PASSED
