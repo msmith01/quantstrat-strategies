@@ -59,11 +59,11 @@ ax.bar(x, yy.ret_all_funds, w, color=ORANGE, label="All funds (equal weight)")
 ax.bar(x + w, yy.ret_spy, w, color=GREY, label="SPY")
 ax.axhline(0, color=INK, lw=0.8)
 ax.set_xticks(x)
-ax.set_xticklabels([str(y) if y < 2026 else "2026*" for y in yy.year])
+ax.set_xticklabels([str(y) for y in yy.year])
 ax.set_ylabel("Calendar-year return (%)")
 ax.legend(frameon=False, loc="lower left", ncol=3, fontsize=8.5)
 ax.set_title("Year by year: the paper's best group against all funds and SPY")
-ax.text(0, -0.15, "* 2026 is January to September. " + SRC, transform=ax.transAxes, fontsize=7, color=MUTED)
+ax.text(0, -0.15, SRC, transform=ax.transAxes, fontsize=7, color=MUTED)
 save(fig, "02_yearly_returns.png")
 
 # 3. next-year alpha, year by year
@@ -72,11 +72,11 @@ ax.bar(x - 0.2, yy.alpha_portfolio, 0.4, color=BLUE, label="Lowest R-squared, hi
 ax.bar(x + 0.2, yy.alpha_all, 0.4, color=ORANGE, label="All funds")
 ax.axhline(0, color=INK, lw=0.8)
 ax.set_xticks(x)
-ax.set_xticklabels([str(y) if y < 2026 else "2026*" for y in yy.year])
+ax.set_xticklabels([str(y) for y in yy.year])
 ax.set_ylabel("Four-factor alpha (% a year)")
 ax.legend(frameon=False, loc="lower left", ncol=2, fontsize=8.5)
 ax.set_title("Alpha earned in each test year")
-ax.text(0, -0.15, "* 2026 is January to September. " + SRC, transform=ax.transAxes, fontsize=7, color=MUTED)
+ax.text(0, -0.15, SRC, transform=ax.transAxes, fontsize=7, color=MUTED)
 save(fig, "03_yearly_alpha.png")
 
 # 4. growth of 100, annual rebalancing

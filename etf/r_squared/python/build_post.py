@@ -89,7 +89,7 @@ V = {
     "t_min": sg(min(v["r2_alpha"]["cagr_pct"] for v in mf["timing"].values()), 1), "t_max": sg(max(v["r2_alpha"]["cagr_pct"] for v in mf["timing"].values()), 1),
     "c0": sg(mf["costs"]["0"]["cagr_pct"], 1), "c10": sg(mf["costs"]["10"]["cagr_pct"], 1), "c25": sg(mf["costs"]["25"]["cagr_pct"], 1), "c50": sg(mf["costs"]["50"]["cagr_pct"], 1),
     "b1": sg(mf["borrow"]["1"]["cagr_pct"], 1), "b2": sg(mf["borrow"]["2"]["cagr_pct"], 1), "b5": sg(mf["borrow"]["5"]["cagr_pct"], 1),
-    "fr_alpha": sg(fr["r2_alpha"]["alpha_pct_yr"]), "fr_t": sg(fr["r2_alpha"]["t"], 2),
+    "ll_alpha": sg(fr["long_leg_excess"]["alpha_pct_yr"]), "ll_t": sg(fr["long_leg_excess"]["t"], 2), "ew_alpha": sg(fr["equal_weight_excess"]["alpha_pct_yr"]), "ew_t": sg(fr["equal_weight_excess"]["t"], 2), "fr_alpha": sg(fr["r2_alpha"]["alpha_pct_yr"]), "fr_t": sg(fr["r2_alpha"]["t"], 2),
     "fl_alpha": sg(fr["long_leg_minus_equal_weight"]["alpha_pct_yr"]), "fl_t": sg(fr["long_leg_minus_equal_weight"]["t"], 2),
     "sub_txt": "; ".join(f"{p}: long-short {sg(d['r2_alpha']['cagr_pct'], 1)}%, long leg {sg(d['long_leg']['cagr_pct'], 1)}%, all funds {sg(d['equal_weight']['cagr_pct'], 1)}%, SPY {sg(d['spy']['cagr_pct'], 1)}% a year" for p, d in sub_p.items()) + ".",
     "ctl_cover": f"Proxies were available for {ct['n_used'] / ct['n_total'] * 100:.0f}% of fund-years.",

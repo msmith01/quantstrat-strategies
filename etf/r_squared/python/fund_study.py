@@ -15,11 +15,11 @@ import r_squared as R
 FIRST = pd.Timestamp("2012-01-31")           # first month-end signal; returns start the month after
 PX_START = "2009-06-01"                      # a 504-day window needs two years before the first signal
 D = ROOT / "data/funds"
-ded = pd.read_csv(D / "yahoo_us_equity_funds_deduped.csv").ticker.tolist()
+ded = pd.read_csv(D / "ag_prices.csv", nrows=0).columns[1:].tolist()      # the same active (non-index) funds as the annual study
 px = pd.read_parquet(D / "fund_prices.parquet").loc[PX_START:, ded]
 px["SPY"] = R.spy_prices(PX_START)
 ff = R.download_factors()
-last = min(px.index[-1], ff.index[-1])
+last = min(px.index[-1], ff.index[-1], pd.Timestamp("2025-12-31"))      # same end as the annual study; 2026 is partial
 px, ff = px.loc[:last], ff.loc[:last]
 F = ded
 R.UNIVERSE = F
@@ -101,7 +101,7 @@ cum.to_csv(ROOT / "data/monthly_cum_funds.csv")
 out["annual_returns_pct"] = {k: {str(y): round(float(((1 + g).prod() - 1) * 100), 2)
                                  for y, g in v.reindex(idx).groupby(idx.year)} for k, v in series.items()}
 sub = {}
-for name, a, b in (("2012-2019", "2012-01-01", "2019-12-31"), ("2020-2026", "2020-01-01", "2026-12-31")):
+for name, a, b in (("2012-2019", "2012-01-01", "2019-12-31"), ("2020-2025", "2020-01-01", "2025-12-31")):
     ii = idx[(idx >= a) & (idx <= b)]
     sub[name] = {k: st(series[k], ii, k) for k in ("r2_alpha", "long_leg", "equal_weight", "spy")}
 out["subperiods"] = sub
@@ -140,7 +140,10 @@ def reg(s):
             "r2": round(float(1 - e @ e / ((y - y.mean()) @ (y - y.mean()))), 3)}
 
 
+rf_m = (1 + ff["RF"]).resample("ME").prod() - 1
 out["factor_regression"] = {"r2_alpha": reg(series["r2_alpha"]),
+                            "long_leg_excess": reg(series["long_leg"] - rf_m.reindex(idx)),
+                            "equal_weight_excess": reg(series["equal_weight"] - rf_m.reindex(idx)),
                             "long_leg_minus_equal_weight": reg(series["long_leg"] - series["equal_weight"])}
 json.dump(out, open(ROOT / "data/results_funds_python.json", "w"), indent=1, default=str)
 print(json.dumps({k: out[k] for k in ("params", "r2_alpha", "long_leg", "equal_weight", "spy", "turnover_pct",
