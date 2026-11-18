@@ -1,0 +1,8 @@
+Warning message:
+package 'data.table' was built under R version 4.5.3 
+done
+PASS bucket mean return and P(up) for every ETF, bucket and period max abs diff 5.68e-14
+PASS single-ETF IBS strategy average CAGR at each cost and period max abs diff 4.97e-14
+PASS decile rule CAGR (target-weight and drifting-holdings turnover, with borrow fee) at each cost and period max abs diff 5.51e-12
+PASS Table 4 style P(up) by bucket, exported separately from R max abs diff 5.68e-14
+ALL PASSED
