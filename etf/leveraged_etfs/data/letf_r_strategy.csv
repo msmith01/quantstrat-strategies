@@ -1,0 +1,353 @@
+pair,scen,cagr
+S&P 500 2x,daily|0,1.40961752946767
+S&P 500 2x,daily|1,0.400610448356287
+S&P 500 2x,daily|3,-1.58750245599244
+S&P 500 2x,daily|5,-3.53640028094717
+S&P 500 2x,monthly|0,4.1022746834765
+S&P 500 2x,monthly|1,3.07002711560551
+S&P 500 2x,monthly|3,1.03362678223116
+S&P 500 2x,monthly|5,-0.965829196805479
+S&P 500 2x,annual|0,1.26533431557607
+S&P 500 2x,annual|1,0.268612877192176
+S&P 500 2x,annual|3,-1.72488528132244
+S&P 500 2x,annual|5,-3.71847366061187
+S&P 500 2x,scen:base|0,4.1022746834765
+S&P 500 2x,scen:base|3,1.03362678223116
+S&P 500 2x,scen:no_interest|0,2.44286364309996
+S&P 500 2x,scen:no_interest|3,-0.580845549720654
+S&P 500 2x,scen:trade_cost|0,4.05588436645703
+S&P 500 2x,scen:trade_cost|3,0.98861429867243
+S&P 500 2x,scen:margin|0,4.1022746834765
+S&P 500 2x,scen:margin|3,1.03362678223116
+S&P 500 2x,scen:all|0,2.39722591687854
+S&P 500 2x,scen:all|3,-0.625139721004564
+S&P 500 3x,daily|0,1.63494157431161
+S&P 500 3x,daily|1,0.62370143455277
+S&P 500 3x,daily|3,-1.36881167399379
+S&P 500 3x,daily|5,-3.32202325332294
+S&P 500 3x,monthly|0,4.81864269785362
+S&P 500 3x,monthly|1,3.7800883071953
+S&P 500 3x,monthly|3,1.73122294676829
+S&P 500 3x,monthly|5,-0.280502177784669
+S&P 500 3x,annual|0,-0.981576059603939
+S&P 500 3x,annual|1,-1.98674747628473
+S&P 500 3x,annual|3,-3.99795409431837
+S&P 500 3x,annual|5,-6.01043092870197
+S&P 500 3x,scen:base|0,4.81864269785362
+S&P 500 3x,scen:base|3,1.73122294676829
+S&P 500 3x,scen:no_interest|0,3.37405219801819
+S&P 500 3x,scen:no_interest|3,0.325717583497931
+S&P 500 3x,scen:trade_cost|0,4.75123973206653
+S&P 500 3x,scen:trade_cost|3,1.66577399481518
+S&P 500 3x,scen:margin|0,4.474330893578
+S&P 500 3x,scen:margin|3,1.40011277602199
+S&P 500 3x,scen:all|0,2.96764103167291
+S&P 500 3x,scen:all|3,-0.0657173472081496
+Nasdaq-100 2x,daily|0,1.81249700054718
+Nasdaq-100 2x,daily|1,0.799497180477093
+Nasdaq-100 2x,daily|3,-1.19648334741999
+Nasdaq-100 2x,daily|5,-3.15309422136167
+Nasdaq-100 2x,monthly|0,4.45523767222098
+Nasdaq-100 2x,monthly|1,3.41981792750445
+Nasdaq-100 2x,monthly|3,1.37715032177468
+Nasdaq-100 2x,monthly|5,-0.628471391889773
+Nasdaq-100 2x,annual|0,-3.50772945120594
+Nasdaq-100 2x,annual|1,-4.52636748759059
+Nasdaq-100 2x,annual|3,-6.56429940774372
+Nasdaq-100 2x,annual|5,-8.60317777998522
+Nasdaq-100 2x,scen:base|0,4.45523767222098
+Nasdaq-100 2x,scen:base|3,1.37715032177468
+Nasdaq-100 2x,scen:no_interest|0,2.79007121160702
+Nasdaq-100 2x,scen:no_interest|3,-0.242938011673977
+Nasdaq-100 2x,scen:trade_cost|0,4.39747414568932
+Nasdaq-100 2x,scen:trade_cost|3,1.32108222621137
+Nasdaq-100 2x,scen:margin|0,4.45523767222098
+Nasdaq-100 2x,scen:margin|3,1.37715032177468
+Nasdaq-100 2x,scen:all|0,2.73322339087723
+Nasdaq-100 2x,scen:all|3,-0.298132636441728
+Nasdaq-100 3x,daily|0,2.26850567599914
+Nasdaq-100 3x,daily|1,1.25098676707784
+Nasdaq-100 3x,daily|3,-0.753898553302979
+Nasdaq-100 3x,daily|5,-2.71923927521012
+Nasdaq-100 3x,monthly|0,6.21064690642652
+Nasdaq-100 3x,monthly|1,5.15980127956284
+Nasdaq-100 3x,monthly|3,3.08664634099112
+Nasdaq-100 3x,monthly|5,1.05101756218369
+Nasdaq-100 3x,annual|0,-8.85348269338956
+Nasdaq-100 3x,annual|1,-9.93019532260055
+Nasdaq-100 3x,annual|3,-12.0910120682921
+Nasdaq-100 3x,annual|5,-14.2627876081404
+Nasdaq-100 3x,scen:base|0,6.21064690642652
+Nasdaq-100 3x,scen:base|3,3.08664634099112
+Nasdaq-100 3x,scen:no_interest|0,4.70268046522504
+Nasdaq-100 3x,scen:no_interest|3,1.61942201865684
+Nasdaq-100 3x,scen:trade_cost|0,6.12518678094607
+Nasdaq-100 3x,scen:trade_cost|3,3.00366626967989
+Nasdaq-100 3x,scen:margin|0,4.93735258778891
+Nasdaq-100 3x,scen:margin|3,2.02651718940867
+Nasdaq-100 3x,scen:all|0,3.42041325358053
+Nasdaq-100 3x,scen:all|3,0.491824400988339
+Russell 2000 2x,daily|0,2.25552305627388
+Russell 2000 2x,daily|1,1.23813247090672
+Russell 2000 2x,daily|3,-0.766499980089042
+Russell 2000 2x,daily|5,-2.73159278758782
+Russell 2000 2x,monthly|0,6.21903040754632
+Russell 2000 2x,monthly|1,5.16747185330508
+Russell 2000 2x,monthly|3,3.09292850875496
+Russell 2000 2x,monthly|5,1.05596022465684
+Russell 2000 2x,annual|0,6.29670029142173
+Russell 2000 2x,annual|1,5.32058037316296
+Russell 2000 2x,annual|3,3.36817176609363
+Russell 2000 2x,annual|5,1.4155123749467
+Russell 2000 2x,scen:base|0,6.21903040754632
+Russell 2000 2x,scen:base|3,3.09292850875496
+Russell 2000 2x,scen:no_interest|0,4.53307998829491
+Russell 2000 2x,scen:no_interest|3,1.45255428830928
+Russell 2000 2x,scen:trade_cost|0,6.1579701161383
+Russell 2000 2x,scen:trade_cost|3,3.03364144301384
+Russell 2000 2x,scen:margin|0,6.21903040754632
+Russell 2000 2x,scen:margin|3,3.09292850875496
+Russell 2000 2x,scen:all|0,4.47295004282702
+Russell 2000 2x,scen:all|3,1.39416187754611
+Russell 2000 3x,daily|0,3.78610031611806
+Russell 2000 3x,daily|1,2.753541641375
+Russell 2000 3x,daily|3,0.719020710044682
+Russell 2000 3x,daily|5,-1.27537338836196
+Russell 2000 3x,monthly|0,9.57597209247674
+Russell 2000 3x,monthly|1,8.49525738748294
+Russell 2000 3x,monthly|3,6.36308365996248
+Russell 2000 3x,monthly|5,4.26938373983754
+Russell 2000 3x,annual|0,9.26187867977626
+Russell 2000 3x,annual|1,8.29187612420888
+Russell 2000 3x,annual|3,6.34972735589094
+Russell 2000 3x,annual|5,4.4044975613087
+Russell 2000 3x,scen:base|0,9.57597209247674
+Russell 2000 3x,scen:base|3,6.36308365996248
+Russell 2000 3x,scen:no_interest|0,8.10253893407702
+Russell 2000 3x,scen:no_interest|3,4.92931634525771
+Russell 2000 3x,scen:trade_cost|0,9.48081765174711
+Russell 2000 3x,scen:trade_cost|3,6.27069016175832
+Russell 2000 3x,scen:margin|0,4.34719134983288
+Russell 2000 3x,scen:margin|3,1.32748773568729
+Russell 2000 3x,scen:all|0,2.84330426284323
+Russell 2000 3x,scen:all|3,-0.136207294042667
+Dow 30 2x,daily|0,1.58452262655064
+Dow 30 2x,daily|1,0.573781952814834
+Dow 30 2x,daily|3,-1.41774696029684
+Dow 30 2x,daily|5,-3.36999367246212
+Dow 30 2x,monthly|0,3.78243391811985
+Dow 30 2x,monthly|1,2.75301159938233
+Dow 30 2x,monthly|3,0.722194268120124
+Dow 30 2x,monthly|5,-1.27176763793194
+Dow 30 2x,annual|0,2.72006935348621
+Dow 30 2x,annual|1,1.72828046220963
+Dow 30 2x,annual|3,-0.255341679258203
+Dow 30 2x,annual|5,-2.23903749532646
+Dow 30 2x,scen:base|0,3.78243391811985
+Dow 30 2x,scen:base|3,0.722194268120124
+Dow 30 2x,scen:no_interest|0,2.12822348710322
+Dow 30 2x,scen:no_interest|3,-0.887201195495979
+Dow 30 2x,scen:trade_cost|0,3.73817850098721
+Dow 30 2x,scen:trade_cost|3,0.679246343258155
+Dow 30 2x,scen:margin|0,3.78243391811985
+Dow 30 2x,scen:margin|3,0.722194268120124
+Dow 30 2x,scen:all|0,2.08468277287017
+Dow 30 2x,scen:all|3,-0.929471980380314
+Dow 30 3x,daily|0,1.69343365195405
+Dow 30 3x,daily|1,0.681613761981814
+Dow 30 3x,daily|3,-1.3120417325142
+Dow 30 3x,daily|5,-3.26637325095592
+Dow 30 3x,monthly|0,4.18618689588457
+Dow 30 3x,monthly|1,3.15319304227151
+Dow 30 3x,monthly|3,1.11531758489745
+Dow 30 3x,monthly|5,-0.885590515787493
+Dow 30 3x,annual|0,2.19945114124267
+Dow 30 3x,annual|1,1.20317664358884
+Dow 30 3x,annual|3,-0.790419511538965
+Dow 30 3x,annual|5,-2.78550888526399
+Dow 30 3x,scen:base|0,4.18618689588457
+Dow 30 3x,scen:base|3,1.11531758489745
+Dow 30 3x,scen:no_interest|0,2.7039372717631
+Dow 30 3x,scen:no_interest|3,-0.326801552154055
+Dow 30 3x,scen:trade_cost|0,4.12193554360216
+Dow 30 3x,scen:trade_cost|3,1.05294413747041
+Dow 30 3x,scen:margin|0,3.7121944200462
+Dow 30 3x,scen:margin|3,0.666125005927709
+Dow 30 3x,scen:all|0,2.16750150959044
+Dow 30 3x,scen:all|3,-0.836750486066129
+S&P MidCap 2x,daily|0,1.56071422160169
+S&P MidCap 2x,daily|1,0.550208140784858
+S&P MidCap 2x,daily|3,-1.44085847098469
+S&P MidCap 2x,daily|5,-3.39265191219419
+S&P MidCap 2x,monthly|0,4.79971972837123
+S&P MidCap 2x,monthly|1,3.76070325029816
+S&P MidCap 2x,monthly|3,1.71094508150382
+S&P MidCap 2x,monthly|5,-0.301631972123329
+S&P MidCap 2x,annual|0,3.7488143020096
+S&P MidCap 2x,annual|1,2.76194382385866
+S&P MidCap 2x,annual|3,0.788121529767927
+S&P MidCap 2x,annual|5,-1.18582544977527
+S&P MidCap 2x,scen:base|0,4.79971972837123
+S&P MidCap 2x,scen:base|3,1.71094508150382
+S&P MidCap 2x,scen:no_interest|0,3.12871039844955
+S&P MidCap 2x,scen:no_interest|3,0.085175412149785
+S&P MidCap 2x,scen:trade_cost|0,4.74573788353427
+S&P MidCap 2x,scen:trade_cost|3,1.65853484487173
+S&P MidCap 2x,scen:margin|0,4.79971972837123
+S&P MidCap 2x,scen:margin|3,1.71094508150382
+S&P MidCap 2x,scen:all|0,3.07556074778872
+S&P MidCap 2x,scen:all|3,0.0335731717992172
+S&P MidCap 3x,daily|0,2.19727220581225
+S&P MidCap 3x,daily|1,1.18045497902595
+S&P MidCap 3x,daily|3,-0.823047562914447
+S&P MidCap 3x,daily|5,-2.78703250892904
+S&P MidCap 3x,monthly|0,6.37216493609802
+S&P MidCap 3x,monthly|1,5.31904892917647
+S&P MidCap 3x,monthly|3,3.24143436590438
+S&P MidCap 3x,monthly|5,1.20145227768027
+S&P MidCap 3x,annual|0,4.88498795444248
+S&P MidCap 3x,annual|1,3.89981311783205
+S&P MidCap 3x,annual|3,1.92823795560031
+S&P MidCap 3x,annual|5,-0.0450807911933304
+S&P MidCap 3x,scen:base|0,6.37216493609802
+S&P MidCap 3x,scen:base|3,3.24143436590438
+S&P MidCap 3x,scen:no_interest|0,4.85930965648029
+S&P MidCap 3x,scen:no_interest|3,1.7694696828509
+S&P MidCap 3x,scen:trade_cost|0,6.29366595847243
+S&P MidCap 3x,scen:trade_cost|3,3.16523242064879
+S&P MidCap 3x,scen:margin|0,2.45473019235178
+S&P MidCap 3x,scen:margin|3,-0.533387785837991
+S&P MidCap 3x,scen:all|0,0.915151377449441
+S&P MidCap 3x,scen:all|3,-1.93167624268946
+Financials 2x,daily|0,2.95707054907461
+Financials 2x,daily|1,1.93272592747704
+Financials 2x,daily|3,-0.0856092928760321
+Financials 2x,daily|5,-2.06413560066807
+Financials 2x,monthly|0,8.97328917376779
+Financials 2x,monthly|1,7.89788222880097
+Financials 2x,monthly|3,5.77619539776224
+Financials 2x,monthly|5,3.69281300323132
+Financials 2x,annual|0,5.92378648955425
+Financials 2x,annual|1,4.93942803343579
+Financials 2x,annual|3,2.96993057974455
+Financials 2x,annual|5,0.999334897727366
+Financials 2x,scen:base|0,8.97328917376779
+Financials 2x,scen:base|3,5.77619539776224
+Financials 2x,scen:no_interest|0,7.25307304938669
+Financials 2x,scen:no_interest|3,4.102330866729
+Financials 2x,scen:trade_cost|0,8.91181012638069
+Financials 2x,scen:trade_cost|3,5.71648926019261
+Financials 2x,scen:margin|0,8.97328917376779
+Financials 2x,scen:margin|3,5.77619539776224
+Financials 2x,scen:all|0,7.19256868275884
+Financials 2x,scen:all|3,4.04357175743477
+Financials 3x,daily|0,4.9042093542002
+Financials 3x,daily|1,3.86056967767978
+Financials 3x,daily|3,1.80421382196252
+Financials 3x,daily|5,-0.211586212742831
+Financials 3x,monthly|0,13.0436533738102
+Financials 3x,monthly|1,11.9324206254156
+Financials 3x,monthly|3,9.73993436916838
+Financials 3x,monthly|5,7.58687539719809
+Financials 3x,annual|0,6.63291684137271
+Financials 3x,annual|1,5.62310010773144
+Financials 3x,annual|3,3.59968346569681
+Financials 3x,annual|5,1.57093910275798
+Financials 3x,scen:base|0,13.0436533738102
+Financials 3x,scen:base|3,9.73993436916838
+Financials 3x,scen:no_interest|0,11.5240111080405
+Financials 3x,scen:no_interest|3,8.26105893322842
+Financials 3x,scen:trade_cost|0,12.9511161622986
+Financials 3x,scen:trade_cost|3,9.65006332862663
+Financials 3x,scen:margin|0,4.08759593739441
+Financials 3x,scen:margin|3,1.09826179783905
+Financials 3x,scen:all|0,2.59701598556277
+Financials 3x,scen:all|3,-0.352846267915063
+Energy 3x to 2x,daily|0,2.94632042414875
+Energy 3x to 2x,daily|1,1.92208281540782
+Energy 3x to 2x,daily|3,-0.096041551879511
+Energy 3x to 2x,daily|5,-2.0743611674615
+Energy 3x to 2x,monthly|0,6.83554365534569
+Energy 3x to 2x,monthly|1,5.77731161006068
+Energy 3x to 2x,monthly|3,3.68961788651896
+Energy 3x to 2x,monthly|5,1.63975747954979
+Energy 3x to 2x,annual|0,-100
+Energy 3x to 2x,annual|1,-100
+Energy 3x to 2x,annual|3,-100
+Energy 3x to 2x,annual|5,-100
+Energy 3x to 2x,scen:base|0,6.83554365534569
+Energy 3x to 2x,scen:base|3,3.68961788651896
+Energy 3x to 2x,scen:no_interest|0,5.39753100884888
+Energy 3x to 2x,scen:no_interest|3,2.29048688707239
+Energy 3x to 2x,scen:trade_cost|0,6.74204492768034
+Energy 3x to 2x,scen:trade_cost|3,3.59882976617458
+Energy 3x to 2x,scen:margin|0,0.718818428754631
+Energy 3x to 2x,scen:margin|3,-2.32239360888709
+Energy 3x to 2x,scen:all|0,-0.740381309056226
+Energy 3x to 2x,scen:all|3,-3.74255226408021
+Technology 3x,daily|0,3.14732233152006
+Technology 3x,daily|1,2.12109364151685
+Technology 3x,daily|3,0.0990458548709716
+Technology 3x,daily|5,-1.88312013353583
+Technology 3x,monthly|0,7.66948403291383
+Technology 3x,monthly|1,6.60575470141864
+Technology 3x,monthly|3,4.50713779215897
+Technology 3x,monthly|5,2.44644956960309
+Technology 3x,annual|0,-12.8082814043742
+Technology 3x,annual|1,-13.9990115878636
+Technology 3x,annual|3,-16.4111923106804
+Technology 3x,annual|5,-18.8714844738737
+Technology 3x,scen:base|0,7.66948403291383
+Technology 3x,scen:base|3,4.50713779215897
+Technology 3x,scen:no_interest|0,6.22627516700056
+Technology 3x,scen:no_interest|3,3.10285332024922
+Technology 3x,scen:trade_cost|0,7.57538540087501
+Technology 3x,scen:trade_cost|3,4.41580229365151
+Technology 3x,scen:margin|0,7.29630862779895
+Technology 3x,scen:margin|3,4.17044904637753
+Technology 3x,scen:all|0,5.78411550874045
+Technology 3x,scen:all|3,2.31490967101278
+Semiconductors 3x,daily|0,3.84974918171641
+Semiconductors 3x,daily|1,2.81655826050569
+Semiconductors 3x,daily|3,0.780791541151293
+Semiconductors 3x,daily|5,-1.21482381336017
+Semiconductors 3x,monthly|0,10.904445660891
+Semiconductors 3x,monthly|1,9.80884469288332
+Semiconductors 3x,monthly|3,7.64731830358945
+Semiconductors 3x,monthly|5,5.52481803678633
+Semiconductors 3x,annual|0,-100
+Semiconductors 3x,annual|1,-100
+Semiconductors 3x,annual|3,-100
+Semiconductors 3x,annual|5,-100
+Semiconductors 3x,scen:base|0,10.904445660891
+Semiconductors 3x,scen:base|3,7.64731830358945
+Semiconductors 3x,scen:no_interest|0,9.3149432239652
+Semiconductors 3x,scen:no_interest|3,6.10059301304509
+Semiconductors 3x,scen:trade_cost|0,10.7674430456317
+Semiconductors 3x,scen:trade_cost|3,7.5142585371295
+Semiconductors 3x,scen:margin|0,6.71362600860805
+Semiconductors 3x,scen:margin|3,3.77933330198006
+Semiconductors 3x,scen:all|0,5.17567727212738
+Semiconductors 3x,scen:all|3,2.27736422780609
+20+yr Treasuries 3x,daily|0,2.20564504920908
+20+yr Treasuries 3x,daily|1,1.18874887717544
+20+yr Treasuries 3x,daily|3,-0.81490934369407
+20+yr Treasuries 3x,daily|5,-2.77904706542794
+20+yr Treasuries 3x,monthly|0,3.93005534971815
+20+yr Treasuries 3x,monthly|1,2.89920242723134
+20+yr Treasuries 3x,monthly|3,0.865562555682131
+20+yr Treasuries 3x,monthly|5,-1.13117105622025
+20+yr Treasuries 3x,annual|0,0.52444429469154
+20+yr Treasuries 3x,annual|1,-0.50217745191079
+20+yr Treasuries 3x,annual|3,-2.55696562342953
+20+yr Treasuries 3x,annual|5,-4.61402275174879
+20+yr Treasuries 3x,scen:base|0,3.93005534971815
+20+yr Treasuries 3x,scen:base|3,0.865562555682131
+20+yr Treasuries 3x,scen:no_interest|0,2.50708498951464
+20+yr Treasuries 3x,scen:no_interest|3,-0.518880285572054
+20+yr Treasuries 3x,scen:trade_cost|0,3.86982365190907
+20+yr Treasuries 3x,scen:trade_cost|3,0.80709974146298
+20+yr Treasuries 3x,scen:margin|0,3.7459618721474
+20+yr Treasuries 3x,scen:margin|3,0.690943648098497
+20+yr Treasuries 3x,scen:all|0,2.26438016641624
+20+yr Treasuries 3x,scen:all|3,-0.750445572066694

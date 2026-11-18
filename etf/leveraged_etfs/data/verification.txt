@@ -1,0 +1,3 @@
+PASS decay regression, all years and full years (n, intercept, slope, R-squared) max abs diff 2.11e-15; slope R -0.994996 Python -0.994996
+PASS strategy return for every pair, reset schedule, borrow fee and scenario (trade cost, no interest, margin call) max abs diff 2.43e-13 over 352 cells
+ALL PASSED
