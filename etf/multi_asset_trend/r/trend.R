@@ -23,9 +23,9 @@ run <- function(T, ma, wt) {
   s <- rowSums(raw); w <- raw / ifelse(s > 0, s, NA); w[is.na(w)] <- 0
   wl <- rbind(NA, w[-n, ]); cw <- pmax(1 - rowSums(wl), 0)
   gross <- rowSums(wl * r) + cw * rc
-  drift <- wl * (1 + r); tot <- rowSums(drift) + cw * (1 + rc); drift <- drift / tot
-  turn <- rowSums(abs(wl - rbind(NA, drift[-n, ])))
-  f <- start_i + 1; turn[f] <- sum(wl[f, ])
+  drift <- wl * (1 + r); tot <- rowSums(drift) + cw * (1 + rc); drift <- drift / tot; dc <- cw * (1 + rc) / tot
+  turn <- rowSums(abs(wl - rbind(NA, drift[-n, ]))) + abs(cw - c(NA, dc[-n]))   # includes the SHV leg
+  f <- start_i + 1; turn[f] <- sum(wl[f, ]) + cw[f]
   (gross - turn * COST / 1e4)[f:n]
 }
 out <- list(); idx <- (start_i + 1):n

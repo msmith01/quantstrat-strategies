@@ -26,11 +26,19 @@ def load():
     pm = daily.resample("ME").last()
     # inception months: a fund has no price before it exists; resample keeps NaN
     pm = pm.where(daily.resample("ME").count() > 0)
-    ret_d = daily[UNIVERSE].pct_change()
+    ret_d = daily[UNIVERSE].pct_change(fill_method=None)
     sig = ret_d.rolling(VOL_DAYS, min_periods=VOL_DAYS).std().resample("ME").last() * np.sqrt(252)
     ma_ok = (daily[UNIVERSE] > daily[UNIVERSE].rolling(MA_DAYS, min_periods=MA_DAYS).mean()).where(
         daily[UNIVERSE].rolling(MA_DAYS, min_periods=MA_DAYS).mean().notna()).resample("ME").last()
     return pm, sig, ma_ok
+
+
+def load_exec():
+    """Close of the first trading day after each month-end (next-day execution test), indexed by the month-end it follows."""
+    px = pd.read_csv(ROOT / "data/prices.csv", index_col=0, parse_dates=True)[UNIVERSE + [CASH]]
+    fm = px.resample("MS").first()
+    fm.index = fm.index - pd.Timedelta(days=1)
+    return fm
 
 
 def cap_weights(w, cap):
@@ -68,31 +76,34 @@ def start_month(pm, sig):
     return rcum.dropna(how="any").index[0]
 
 
-def run(pm, sig, ma_ok, T=12, ma=True, wt="371", cap=None, cost_bps=COST_BPS, start=None):
+def run(pm, sig, ma_ok, T=12, ma=True, wt="371", cap=None, cost_bps=COST_BPS, start=None, pm_ex=None):
     w, rcum = weights(pm, sig, ma_ok, T, ma, wt, cap)
-    r = pm[UNIVERSE].pct_change()
-    rc = pm[CASH].pct_change()
+    px = pm if pm_ex is None else pm_ex
+    r = px[UNIVERSE].pct_change(fill_method=None)
+    rc = px[CASH].pct_change(fill_method=None)
     wl = w.shift(1)                                   # trade at month-end t, earn t+1
     cash_w = (1 - wl.sum(axis=1)).clip(lower=0)
     gross = (wl * r).sum(axis=1, min_count=1) + cash_w * rc
     drift = wl * (1 + r)
     tot = drift.sum(axis=1) + cash_w * (1 + rc)
     drift = drift.div(tot, axis=0)
-    turn = (wl - drift.shift(1)).abs().sum(axis=1)
+    drift_cash = cash_w * (1 + rc) / tot
+    turn = (wl - drift.shift(1)).abs().sum(axis=1) + (cash_w - drift_cash.shift(1)).abs()   # includes the SHV leg
     first = pm.index[pm.index > start][0]             # first month earned = month after the first signal
-    turn.loc[first] = wl.loc[first].sum()             # initial purchase of the risky part
+    turn.loc[first] = wl.loc[first].sum() + cash_w.loc[first]   # initial purchase of the whole portfolio
     net = gross - turn * cost_bps / 1e4
     held = (wl > 0).sum(axis=1)
-    out = pd.DataFrame({"gross": gross, "net": net, "turnover": turn, "cash": cash_w, "held": held}).loc[first:]
+    out = pd.DataFrame({"gross": gross, "rf": rc, "net": net, "turnover": turn, "cash": cash_w, "held": held}).loc[first:]
     return out.dropna(subset=["net"]), w
 
 
-def stats(ret):
+def stats(ret, rf=None):
     ret = ret.dropna(); yrs = len(ret) / 12
     eq = np.r_[1.0, (1 + ret).cumprod().to_numpy()]
     dd = eq / np.maximum.accumulate(eq) - 1
     return dict(cagr=(eq[-1] ** (1 / yrs) - 1) * 100, vol=ret.std(ddof=1) * np.sqrt(12) * 100,
-                sharpe=ret.mean() / ret.std(ddof=1) * np.sqrt(12), maxdd=dd.min() * 100, months=len(ret),
+                sharpe=ret.mean() / ret.std(ddof=1) * np.sqrt(12),
+                sharpe_rf=(np.nan if rf is None else ((ret - rf.reindex(ret.index)).mean() / (ret - rf.reindex(ret.index)).std(ddof=1) * np.sqrt(12))), maxdd=dd.min() * 100, months=len(ret),
                 start=str(ret.index[0].date()), end=str(ret.index[-1].date()))
 
 
@@ -101,7 +112,7 @@ def main():
     start = start_month(pm, sig)
     res = {"universe": UNIVERSE, "cash": CASH}
     # benchmarks, on the same months
-    r = pm[UNIVERSE].pct_change()
+    r = pm[UNIVERSE].pct_change(fill_method=None)
     # true equal-weight: hold all ten every month
     wl = pd.DataFrame(1 / len(UNIVERSE), index=pm.index, columns=UNIVERSE)
     def fixed(wdf, name):
@@ -118,8 +129,8 @@ def main():
     spy = r["SPY"].loc[first:]; bm["SPY buy and hold"] = spy
     w6040 = pd.DataFrame(0.0, index=pm.index, columns=UNIVERSE); w6040["SPY"] = 0.6; w6040["IEF"] = 0.4
     bm["60/40 SPY and IEF, monthly"] = fixed(w6040, "6040")
-    cashr = pm[CASH].pct_change().loc[first:]; bm["Treasury bill ETF"] = cashr
-    res["benchmarks"] = {k: stats(v) for k, v in bm.items()}
+    cashr = pm[CASH].pct_change(fill_method=None).loc[first:]; bm["Treasury bill ETF"] = cashr
+    res["benchmarks"] = {k: stats(v, cashr) for k, v in bm.items()}
     rets = {k: v for k, v in bm.items()}
     # main variants and the sensitivity grid
     grid = {}; gridret = {}
@@ -127,7 +138,7 @@ def main():
         for ma in (False, True):
             for wt in ("371", "372", "373"):
                 o, _ = run(pm, sig, ma_ok, T=T, ma=ma, wt=wt, start=start)
-                s = stats(o["net"]); s["gross_cagr"] = stats(o["gross"])["cagr"]; s["turnover"] = o["turnover"].mean() * 100
+                s = stats(o["net"], cashr); s["gross_cagr"] = stats(o["gross"])["cagr"]; s["turnover"] = o["turnover"].mean() * 100
                 s["avg_held"] = o["held"].mean(); s["cash_months_pct"] = (o["cash"] > 0.999).mean() * 100
                 grid[f"T{T}|ma{int(ma)}|{wt}"] = s; gridret[f"T{T}|ma{int(ma)}|{wt}"] = o["net"]
                 if T == 12 and ma:
@@ -136,7 +147,10 @@ def main():
     caps = {}
     for wt in ("371", "372", "373"):
         o, _ = run(pm, sig, ma_ok, T=12, ma=True, wt=wt, cap=0.35, start=start)
-        s = stats(o["net"]); s["turnover"] = o["turnover"].mean() * 100; s["cash_months_pct"] = (o["cash"] > 0.999).mean() * 100
+        s = stats(o["net"], cashr); s["turnover"] = o["turnover"].mean() * 100; s["cash_months_pct"] = (o["cash"] > 0.999).mean() * 100
+        s["avg_cash_pct"] = o["cash"].mean() * 100; s["cash_any_pct"] = (o["cash"] > 0.001).mean() * 100
+        u, _ = run(pm, sig, ma_ok, T=12, ma=True, wt=wt, start=start)
+        s["uncapped_avg_cash_pct"] = u["cash"].mean() * 100; s["uncapped_cash_any_pct"] = (u["cash"] > 0.001).mean() * 100
         caps[wt] = s
     res["cap35"] = caps
     costs = {}
@@ -144,6 +158,12 @@ def main():
         o, _ = run(pm, sig, ma_ok, T=12, ma=True, wt="372", cost_bps=c, start=start)
         costs[str(c)] = stats(o["net"])["cagr"]
     res["costs_372"] = costs
+    pmx = load_exec().reindex(pm.index)
+    nd = {}
+    for wt in ("371", "372", "373"):
+        o, _ = run(pm, sig, ma_ok, T=12, ma=True, wt=wt, start=start, pm_ex=pmx)
+        nd[wt] = stats(o["net"], cashr)
+    res["next_day"] = nd
     # yearly returns for the three main variants and benchmarks
     df = pd.DataFrame(rets)
     df.to_csv(ROOT / "data/monthly_returns.csv")

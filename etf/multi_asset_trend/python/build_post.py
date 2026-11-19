@@ -57,14 +57,19 @@ V = {
     "capsh371": sg(C["371"]["sharpe"]), "capsh373": sg(C["373"]["sharpe"]), "capdd371": sg(C["371"]["maxdd"], 1), "capdd373": sg(C["373"]["maxdd"], 1),
     "c0": sg(O["costs_372"]["0"], 1), "c10": sg(O["costs_372"]["10"], 1), "c25": sg(O["costs_372"]["25"], 1), "c50": sg(O["costs_372"]["50"], 1),
     "gh_tree": GH_TREE,
+    "cap_cash": f"{C['371']['avg_cash_pct']:.0f}", "cap_cash_any": f"{C['371']['cash_any_pct']:.0f}", "unc_cash": f"{C['371']['uncapped_avg_cash_pct']:.0f}", "unc_cash_any": f"{C['371']['uncapped_cash_any_pct']:.0f}",
+    "nd371": sg(O["next_day"]["371"]["cagr"], 1), "nd372": sg(O["next_day"]["372"]["cagr"], 1), "nd373": sg(O["next_day"]["373"]["cagr"], 1),
+    "ndsh371": sg(O["next_day"]["371"]["sharpe"]), "ndsh373": sg(O["next_day"]["373"]["sharpe"]),
+    "ndgap": sg(max(m["cagr"] - O["next_day"][k]["cagr"] for k, m in zip(("371", "372", "373"), mains)), 1),
+    "shrf371": sg(m371["sharpe_rf"]), "shrf373": sg(m373["sharpe_rf"]), "shrf_ew": sg(ew["sharpe_rf"]), "shrf6040": sg(b6040["sharpe_rf"]), "shrf_spy": sg(spy["sharpe_rf"]),
 }
 assert float(V["capsh371"]) > 0 and "dd_lo" in V
 
 rows = []
 for lab, st, tn in (("Weights by return, Eq. (371)", m371, m371["turnover"]), ("Return / volatility, Eq. (372)", m372, m372["turnover"]), ("Return / variance, Eq. (373)", m373, m373["turnover"]),
                     ("Equal weight, all ten ETFs", ew, None), ("S&amp;P 500 ETF (SPY)", spy, None), ("60/40 SPY and IEF", b6040, None), ("Treasury bill ETF (SHV)", B["Treasury bill ETF"], None)):
-    rows.append([lab, sg(st["cagr"], 1), sg(st["vol"], 1), sg(st["sharpe"]), sg(st["maxdd"], 1), "" if tn is None else f"{tn:.0f}"])
-V["T_MAIN"] = tbl(["Portfolio", "Return, % a year", "Volatility, %", "Sharpe ratio", "Max drawdown, %", "Monthly turnover, %"], rows)
+    rows.append([lab, sg(st["cagr"], 1), sg(st["vol"], 1), sg(st["sharpe"]), "" if lab.startswith("Treasury") else sg(st["sharpe_rf"]), sg(st["maxdd"], 1), "" if tn is None else f"{tn:.0f}"])
+V["T_MAIN"] = tbl(["Portfolio", "Return, % a year", "Volatility, %", "Sharpe ratio (zero rate)", "Sharpe ratio (over SHV)", "Max drawdown, %", "Monthly turnover, %"], rows)
 rows = []
 names = {"371": "Eq. (371)", "372": "Eq. (372)", "373": "Eq. (373)"}
 for T in (6, 9, 12):
